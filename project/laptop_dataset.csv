@@ -1,0 +1,1276 @@
+﻿Company,Product,TypeName,Inches,ScreenResolution,CPU_Company,CPU_Type,CPU_Frequency (GHz),RAM (GB),Memory,GPU_Company,GPU_Type,OpSys,Weight (kg),Price(INR)
+Apple,MacBook Pro,Ultrabook,13.3,IPS Panel Retina Display 2560x1600,Intel,Core i5,2.3,8,128GB SSD,Intel,Iris Plus Graphics 640,macOS,1.37,124939.4894
+Apple,Macbook Air,Ultrabook,13.3,1440x900,Intel,Core i5,1.8,8,128GB Flash Storage,Intel,HD Graphics 6000,macOS,1.34,83835.1444
+HP,250 G6,Notebook,15.6,Full HD 1920x1080,Intel,Core i5 7200U,2.5,8,256GB SSD,Intel,HD Graphics 620,No OS,1.86,53624.5
+Apple,MacBook Pro,Ultrabook,15.4,IPS Panel Retina Display 2880x1800,Intel,Core i7,2.7,16,512GB SSD,AMD,Radeon Pro 455,macOS,1.83,236642.587
+Apple,MacBook Pro,Ultrabook,13.3,IPS Panel Retina Display 2560x1600,Intel,Core i5,3.1,8,256GB SSD,Intel,Iris Plus Graphics 650,macOS,1.37,168203.736
+Acer,Aspire 3,Notebook,15.6,1366x768,AMD,A9-Series 9420,3,4,500GB HDD,AMD,Radeon R5,Windows 10,2.1,37304
+Apple,MacBook Pro,Ultrabook,15.4,IPS Panel Retina Display 2880x1800,Intel,Core i7,2.2,16,256GB Flash Storage,Intel,Iris Pro Graphics,Mac OS X,2.04,199573.6022
+Apple,Macbook Air,Ultrabook,13.3,1440x900,Intel,Core i5,1.8,8,256GB Flash Storage,Intel,HD Graphics 6000,macOS,1.34,108060.362
+Asus,ZenBook UX430UN,Ultrabook,14,Full HD 1920x1080,Intel,Core i7 8550U,1.8,16,512GB SSD,Nvidia,GeForce MX150,Windows 10,1.3,139423.7
+Acer,Swift 3,Ultrabook,14,IPS Panel Full HD 1920x1080,Intel,Core i5 8250U,1.6,8,256GB SSD,Intel,UHD Graphics 620,Windows 10,1.6,71810.2
+HP,250 G6,Notebook,15.6,1366x768,Intel,Core i5 7200U,2.5,4,500GB HDD,Intel,HD Graphics 620,No OS,1.86,36735.114
+HP,250 G6,Notebook,15.6,Full HD 1920x1080,Intel,Core i3 6006U,2,4,500GB HDD,Intel,HD Graphics 520,No OS,1.86,32173.7674
+Apple,MacBook Pro,Ultrabook,15.4,IPS Panel Retina Display 2880x1800,Intel,Core i7,2.8,16,256GB SSD,AMD,Radeon Pro 555,macOS,1.83,227551.6022
+Dell,Inspiron 3567,Notebook,15.6,Full HD 1920x1080,Intel,Core i3 6006U,2,4,256GB SSD,AMD,Radeon R5 M430,Windows 10,2.2,46527.414
+Apple,"MacBook 12""",Ultrabook,12,IPS Panel Retina Display 2304x1440,Intel,Core M m3,1.2,8,256GB SSD,Intel,HD Graphics 615,macOS,0.92,117731.424
+Apple,MacBook Pro,Ultrabook,13.3,IPS Panel Retina Display 2560x1600,Intel,Core i5,2.3,8,256GB SSD,Intel,Iris Plus Graphics 640,macOS,1.37,141619.973
+Dell,Inspiron 3567,Notebook,15.6,Full HD 1920x1080,Intel,Core i7 7500U,2.7,8,256GB SSD,AMD,Radeon R5 M430,Windows 10,2.2,69478.7
+Apple,MacBook Pro,Ultrabook,15.4,IPS Panel Retina Display 2880x1800,Intel,Core i7,2.9,16,512GB SSD,AMD,Radeon Pro 560,macOS,1.83,266537.08
+Lenovo,IdeaPad 320-15IKB,Notebook,15.6,Full HD 1920x1080,Intel,Core i3 7100U,2.4,8,1TB HDD,Nvidia,GeForce 940MX,No OS,2.2,46536.74
+Dell,XPS 13,Ultrabook,13.3,IPS Panel Full HD / Touchscreen 1920x1080,Intel,Core i5 8250U,1.6,8,128GB SSD,Intel,UHD Graphics 620,Windows 10,1.22,91301.54
+Asus,Vivobook E200HA,Netbook,11.6,1366x768,Intel,Atom x5-Z8350,1.44,2,32GB Flash Storage,Intel,HD Graphics 400,Windows 10,0.98,17896.594
+Lenovo,Legion Y520-15IKBN,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel,Core i5 7300HQ,2.5,8,128GB SSD +  1TB HDD,Nvidia,GeForce GTX 1050,Windows 10,2.5,93166.74
+HP,255 G6,Notebook,15.6,1366x768,AMD,E-Series E2-9000e,1.5,4,500GB HDD,AMD,Radeon R2,No OS,1.86,24061.08
+Dell,Inspiron 5379,2 in 1 Convertible,13.3,Full HD / Touchscreen 1920x1080,Intel,Core i5 8250U,1.6,8,256GB SSD,Intel,UHD Graphics 620,Windows 10,1.62,76379.94
+HP,15-BS101nv (i7-8550U/8GB/256GB/FHD/W10),Ultrabook,15.6,Full HD 1920x1080,Intel,Core i7 8550U,1.8,8,256GB SSD,Intel,HD Graphics 620,Windows 10,1.91,61458.34
+Dell,Inspiron 3567,Notebook,15.6,1366x768,Intel,Core i3 6006U,2,4,1TB HDD,Intel,HD Graphics 520,Windows 10,2.3,39042.3664
+Apple,MacBook Air,Ultrabook,13.3,1440x900,Intel,Core i5,1.6,8,128GB Flash Storage,Intel,HD Graphics 6000,Mac OS X,1.35,102492.74
+Dell,Inspiron 5570,Notebook,15.6,Full HD 1920x1080,Intel,Core i5 8250U,1.6,8,256GB SSD,AMD,Radeon 530,Windows 10,2.2,74608
+Dell,Latitude 5590,Ultrabook,15.6,Full HD 1920x1080,Intel,Core i7 8650U,1.9,8,256GB SSD +  256GB SSD,Intel,UHD Graphics 620,Windows 10,1.88,121051.48
+HP,ProBook 470,Notebook,17.3,Full HD 1920x1080,Intel,Core i5 8250U,1.6,8,1TB HDD,Nvidia,GeForce 930MX,Windows 10,2.5,83560.96
+Chuwi,"LapBook 15.6""",Notebook,15.6,Full HD 1920x1080,Intel,Atom x5-Z8300,1.44,4,64GB Flash Storage,Intel,HD Graphics,Windows 10,1.89,22847.7674
+Asus,E402WA-GA010T (E2-6110/2GB/32GB/W10),Notebook,14,1366x768,AMD,E-Series E2-6110,1.5,2,32GB Flash Storage,AMD,Radeon R2,Windows 10,1.65,18558.74
+HP,17-ak001nv (A6-9220/4GB/500GB/Radeon,Notebook,17.3,Full HD 1920x1080,AMD,A6-Series 9220,2.5,4,500GB HDD,AMD,Radeon 530,Windows 10,2.71,40941.14
+Dell,XPS 13,Ultrabook,13.3,Touchscreen / Quad HD+ 3200x1800,Intel,Core i7 8550U,1.8,16,512GB SSD,Intel,UHD Graphics 620,Windows 10,1.2,174302.94
+Apple,MacBook Air,Ultrabook,13.3,1440x900,Intel,Core i5,1.6,8,256GB Flash Storage,Intel,HD Graphics 6000,Mac OS X,1.35,93073.48
+Lenovo,IdeaPad 120S-14IAP,Notebook,14,1366x768,Intel,Celeron Dual Core N3350,1.1,4,64GB Flash Storage,Intel,HD Graphics 500,Windows 10,1.44,23221.74
+Acer,Aspire 3,Notebook,15.6,1366x768,Intel,Core i3 7130U,2.7,4,1TB HDD,Intel,HD Graphics 620,Linux,2.1,34226.42
+Dell,Inspiron 5770,Notebook,17.3,IPS Panel Full HD 1920x1080,Intel,Core i5 8250U,1.6,8,128GB SSD +  1TB HDD,AMD,Radeon 530,Windows 10,2.8,91301.54
+HP,250 G6,Notebook,15.6,1366x768,Intel,Core i5 7200U,2.5,4,1TB HDD,Intel,HD Graphics 620,Windows 10,1.86,45575.2294
+HP,ProBook 450,Notebook,15.6,Full HD 1920x1080,Intel,Core i5 8250U,1.6,8,256GB SSD,Nvidia,GeForce 930MX,Windows 10,2.1,81975.54
+Asus,X540UA-DM186 (i3-6006U/4GB/1TB/FHD/Linux),Notebook,15.6,Full HD 1920x1080,Intel,Core i3 6006U,2,4,1TB HDD,Intel,HD Graphics 620,Linux,2,36278.14
+Dell,Inspiron 7577,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,16,256GB SSD +  1TB HDD,Nvidia,GeForce GTX 1060,Windows 10,2.65,139796.74
+Asus,X542UQ-GO005 (i5-7200U/8GB/1TB/GeForce,Notebook,15.6,1366x768,Intel,Core i5 7200U,2.5,8,1TB HDD,Nvidia,GeForce 940MX,Linux,2.3,48774.0474
+Acer,Aspire A515-51G,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel,Core i5 8250U,1.6,4,256GB SSD,Intel,UHD Graphics 620,Windows 10,2.2,63603.32
+Dell,Inspiron 7773,2 in 1 Convertible,17.3,Full HD / Touchscreen 1920x1080,Intel,Core i5 8250U,1.6,12,1TB HDD,Nvidia,GeForce 150MX,Windows 10,2.77,93166.74
+Apple,MacBook Pro,Ultrabook,13.3,IPS Panel Retina Display 2560x1600,Intel,Core i5,2,8,256GB SSD,Intel,Iris Graphics 540,macOS,1.37,132335.94
+Lenovo,IdeaPad 320-15ISK,Notebook,15.6,1366x768,Intel,Core i3 6006U,2,4,128GB SSD,Intel,HD Graphics 520,No OS,2.2,34412.94
+Asus,Rog Strix,Gaming,17.3,Full HD 1920x1080,AMD,Ryzen 1700,3,8,256GB SSD +  1TB HDD,AMD,Radeon RX 580,Windows 10,3.2,121144.74
+Dell,Inspiron 3567,Notebook,15.6,Full HD 1920x1080,Intel,Core i5 7200U,2.5,4,256GB SSD,AMD,Radeon R5 M430,Windows 10,2.3,59593.14
+Asus,X751NV-TY001T (N4200/4GB/1TB/GeForce,Notebook,17.3,1366x768,Intel,Pentium Quad Core N4200,1.1,4,1TB HDD,Nvidia,GeForce 920MX,Windows 10,2.8,43459.16
+Lenovo,Yoga Book,2 in 1 Convertible,10.1,IPS Panel Touchscreen 1920x1200,Intel,Atom x5-Z8550,1.44,4,64GB Flash Storage,Intel,HD Graphics 400,Android,0.69,29749.94
+Acer,Aspire A515-51G,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel,Core i7 8550U,1.8,8,256GB SSD,Nvidia,GeForce MX150,Windows 10,2.2,78431.66
+HP,255 G6,Notebook,15.6,Full HD 1920x1080,AMD,A6-Series 9220,2.5,4,256GB SSD,AMD,Radeon R4 Graphics,Windows 10,1.86,37163.1774
+HP,ProBook 430,Notebook,13.3,Full HD 1920x1080,Intel,Core i7 8550U,1.8,8,512GB SSD,Intel,UHD Graphics 620,Windows 10,1.49,102865.78
+Acer,Aspire 3,Notebook,15.6,1366x768,Intel,Core i3 7100U,2.4,4,1TB HDD,Intel,HD Graphics 620,Windows 10,2.4,35811.84
+Dell,Inspiron 3576,Notebook,15.6,Full HD 1920x1080,Intel,Core i7 8550U,1.8,8,256GB SSD,AMD,Radeon 520,Windows 10,2.13,71605.028
+HP,15-bs002nv (i3-6006U/4GB/128GB/FHD/W10),Notebook,15.6,Full HD 1920x1080,Intel,Core i3 6006U,2,4,128GB SSD,Intel,HD Graphics 520,Windows 10,1.91,40941.14
+Asus,VivoBook Max,Notebook,15.6,1366x768,Intel,Core i5 7200U,2.5,4,256GB SSD,Intel,HD Graphics 620,Windows 10,2,54668.0794
+MSI,GS73VR 7RG,Gaming,17.3,Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,16,256GB SSD +  2TB HDD,Nvidia,GeForce GTX 1070,Windows 10,2.43,228393.74
+Asus,X541UA-DM1897 (i3-6006U/4GB/256GB/FHD/Linux),Notebook,15.6,Full HD 1920x1080,Intel,Core i3 6006U,2,4,256GB SSD,Intel,HD Graphics 520,Linux,2,38702.9
+Dell,Inspiron 5770,Notebook,17.3,Full HD 1920x1080,Intel,Core i7 8550U,1.8,16,256GB SSD +  2TB HDD,AMD,Radeon 530,Windows 10,2.8,121144.74
+Dell,Vostro 5471,Ultrabook,14,Full HD 1920x1080,Intel,Core i5 8250U,1.6,8,256GB SSD,Intel,UHD Graphics 620,Windows 10,1.7,81975.54
+Lenovo,IdeaPad 520S-14IKB,Notebook,14,IPS Panel Full HD 1920x1080,Intel,Core i3 7130U,2.7,8,256GB SSD,Intel,HD Graphics 620,No OS,1.7,55862.74
+Asus,UX410UA-GV350T (i5-8250U/8GB/256GB/FHD/W10),Notebook,14,Full HD 1920x1080,Intel,Core i5 8250U,1.6,8,256GB SSD,Intel,UHD Graphics 620,Windows 10,1.4,87757.66
+HP,250 G6,Notebook,15.6,Full HD 1920x1080,Intel,Core i5 7200U,2.5,8,256GB SSD,Intel,HD Graphics 620,Windows 10,1.86,64349.4
+Asus,ZenBook Pro,Ultrabook,15.6,Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,16,512GB SSD,Nvidia,GeForce GTX 1050 Ti,Windows 10,1.8,184934.58
+HP,250 G6,Notebook,15.6,1366x768,Intel,Core i3 6006U,2,4,500GB HDD,AMD,Radeon 520,Windows 10,1.86,40912.2294
+HP,Stream 14-AX040wm,Notebook,14,1366x768,Intel,Celeron Dual Core N3060,1.6,4,32GB SSD,Intel,HD Graphics 400,Windows 10,1.44,21356.54
+Lenovo,V310-15ISK (i5-7200U/4GB/1TB/FHD/W10),Notebook,15.6,Full HD 1920x1080,Intel,Core i5 7200U,2.5,4,1TB HDD,Intel,HD Graphics 620,Windows 10,1.9,51199.74
+Asus,FX753VE-GC093 (i7-7700HQ/12GB/1TB/GeForce,Gaming,17.3,Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,12,1TB HDD,Nvidia,GeForce GTX 1050 Ti,Linux,3,88503.74
+Microsoft,Surface Laptop,Ultrabook,13.5,Touchscreen 2256x1504,Intel,Core i5 7200U,2.5,4,128GB SSD,Intel,HD Graphics 620,Windows 10 S,1.252,101560.14
+Dell,Inspiron 5370,Ultrabook,13.3,IPS Panel Full HD 1920x1080,Intel,Core i7 8550U,1.8,8,256GB SSD,AMD,Radeon 530,Windows 10,1.4,89063.3
+Dell,Inspiron 5570,Notebook,15.6,Full HD 1920x1080,Intel,Core i7 8550U,1.8,8,256GB SSD,AMD,Radeon 530,Windows 10,2.2,81136.2
+MSI,GL72M 7RDX,Gaming,17.3,Full HD 1920x1080,Intel,Core i5 7300HQ,2.5,8,128GB SSD +  1TB HDD,Nvidia,GeForce GTX 1050,Windows 10,2.7,102119.7
+Acer,Aspire E5-475,Notebook,14,1366x768,Intel,Core i3 6006U,2,8,1TB HDD,Intel,HD Graphics 520,Windows 10,2.1,36278.14
+Asus,FX503VD-E4022T (i7-7700HQ/8GB/1TB/GeForce,Gaming,15.6,Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,8,1TB HDD,Nvidia,GeForce GTX 1050,Windows 10,2.2,88503.74
+Lenovo,IdeaPad 320-15IKBN,Notebook,15.6,Full HD 1920x1080,Intel,Core i5 7200U,2.5,8,2TB HDD,Intel,HD Graphics 620,No OS,2.2,48401.94
+Dell,Inspiron 5570,Notebook,15.6,Full HD 1920x1080,Intel,Core i7 8550U,1.8,8,128GB SSD +  1TB HDD,Intel,UHD Graphics 620,Windows 10,2.02,79737.3
+Acer,Aspire A515-51G-32MX,Notebook,15.6,Full HD 1920x1080,Intel,Core i3 7130U,2.7,4,1TB HDD,Nvidia,GeForce MX130,Windows 10,2.2,49427.8
+HP,ProBook 470,Notebook,17.3,Full HD 1920x1080,Intel,Core i5 8250U,1.6,8,128GB SSD +  1TB HDD,Nvidia,GeForce 930MX,Windows 10,2.5,91115.02
+Dell,Latitude 5590,Ultrabook,15.6,IPS Panel Full HD 1920x1080,Intel,Core i5 8250U,1.6,8,256GB SSD,Intel,UHD Graphics 620,Windows 10,1.88,102227.8816
+Apple,"MacBook 12""",Ultrabook,12,IPS Panel Retina Display 2304x1440,Intel,Core i5,1.3,8,512GB SSD,Intel,HD Graphics 615,macOS,0.92,140822.6
+HP,ProBook 440,Notebook,14,Full HD 1920x1080,Intel,Core i5 8250U,1.6,8,256GB SSD,Intel,HD Graphics 620,Windows 10,1.63,80203.6
+Lenovo,IdeaPad 320-15AST,Notebook,15.6,Full HD 1920x1080,AMD,A6-Series 9220,2.5,4,128GB SSD,AMD,R4 Graphics,Windows 10,2.2,37210.74
+Acer,Aspire 3,Notebook,15.6,1366x768,AMD,A9-Series 9420,3,4,1TB HDD,AMD,Radeon R5,Windows 10,2.1,36837.7
+Dell,Inspiron 7577,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,16,128GB SSD +  1TB HDD,Nvidia,GeForce GTX 1050 Ti,Windows 10,2.65,125807.74
+HP,Pavilion 15-CK000nv,Ultrabook,15.6,IPS Panel Full HD 1920x1080,Intel,Core i7 8550U,1.8,8,256GB SSD,Nvidia,GeForce GTX 940MX,Windows 10,1.83,65188.74
+HP,250 G6,Notebook,15.6,Full HD 1920x1080,Intel,Core i5 7200U,2.5,8,256GB SSD,Intel,HD Graphics 620,Windows 10,1.96,55861.8074
+Asus,FX503VM-E4007T (i7-7700HQ/16GB/1TB,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,16,128GB SSD +  1TB HDD,Nvidia,GeForce GTX 1060,Windows 10,2.2,135133.74
+Dell,XPS 13,Ultrabook,13.3,IPS Panel Full HD 1920x1080,Intel,Core i7 8550U,1.8,8,256GB SSD,Intel,UHD Graphics 620,Windows 10,1.21,153785.74
+Asus,FX550IK-DM018T (FX-9830P/8GB/1TB/Radeon,Gaming,15.6,Full HD 1920x1080,AMD,FX 9830P,3,8,1TB HDD,AMD,Radeon RX 560,Windows 10,2.45,65188.74
+Acer,Aspire 5,Notebook,15.6,Full HD 1920x1080,Intel,Core i7 8550U,1.8,8,1TB HDD,Nvidia,GeForce MX150,Windows 10,2.2,64256.14
+HP,Probook 430,Notebook,13.3,Full HD 1920x1080,Intel,Core i7 8550U,1.8,16,512GB SSD,Intel,UHD Graphics 620,Windows 10,1.49,111632.22
+Dell,Inspiron 7577,Gaming,15.6,Full HD 1920x1080,Intel,Core i5 7300HQ,2.5,8,256GB SSD,Nvidia,GeForce GTX 1060,Windows 10,2.65,111445.7
+Asus,Zenbook UX430UA,Ultrabook,14,Full HD 1920x1080,Intel,Core i7 7500U,2.7,8,256GB SSD,Intel,HD Graphics 620,Windows 10,1.25,97829.74
+Acer,Spin 5,2 in 1 Convertible,13.3,IPS Panel Full HD / Touchscreen 1920x1080,Intel,Core i5 8250U,1.6,8,256GB SSD,Intel,UHD Graphics 620,Windows 10,1.5,78991.22
+Dell,Inspiron 3567,Notebook,15.6,Full HD 1920x1080,Intel,Core i7 7500U,2.7,8,1TB HDD,AMD,Radeon R5 M430,Linux,2.2,55946.674
+Dell,Inspiron 3567,Notebook,15.6,Full HD 1920x1080,Intel,Core i3 6006U,2,4,256GB SSD,AMD,Radeon R5 M430,Linux,2.2,45231.1
+Asus,X541UV-DM1439T (i3-7100U/6GB/256GB/GeForce,Notebook,15.6,Full HD 1920x1080,Intel,Core i3 7100U,2.4,6,256GB SSD,Nvidia,GeForce 920M,Windows 10,2,53811.02
+HP,Omen 15-ce007nv,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,12,128GB SSD +  1TB HDD,Nvidia,GeForce GTX 1050,Windows 10,2.62,116481.74
+HP,15-bs017nv (i7-7500U/8GB/256GB/Radeon,Notebook,15.6,Full HD 1920x1080,Intel,Core i7 7500U,2.7,8,256GB SSD,AMD,Radeon 530,Windows 10,1.91,67053.94
+HP,15-bw000nv (E2-9000e/4GB/500GB/Radeon,Notebook,15.6,Full HD 1920x1080,AMD,E-Series E2-9000e,1.5,4,500GB HDD,AMD,Radeon R2,Windows 10,2.1,32547.74
+Dell,Inspiron 3576,Notebook,15.6,Full HD 1920x1080,Intel,Core i5 8250U,1.6,8,1TB HDD,AMD,Radeon 520,Linux,2.2,60339.22
+HP,Envy 13-ad009n,Ultrabook,13.3,IPS Panel Full HD 1920x1080,Intel,Core i7 7500U,2.7,8,256GB SSD,Nvidia,GeForce MX150,Windows 10,1.38,104357.94
+Microsoft,Surface Laptop,Ultrabook,13.5,Touchscreen 2256x1504,Intel,Core i5 7200U,2.5,8,256GB SSD,Intel,HD Graphics 620,Windows 10 S,1.252,124968.4
+HP,Pavilion 14-BK001nv,Notebook,14,IPS Panel Full HD 1920x1080,Intel,Core i5 7200U,2.5,6,256GB SSD,Nvidia,GeForce 940MX,Windows 10,1.58,61458.34
+Lenovo,Ideapad 310-15ISK,Notebook,15.6,Full HD 1920x1080,Intel,Core i3 6006U,2,4,1TB HDD,Intel,HD Graphics 520,Windows 10,1.85,38693.574
+Asus,UX430UQ-GV209R (i7-7500U/8GB/256GB/GeForce,Ultrabook,14,IPS Panel Full HD 1920x1080,Intel,Core i7 7500U,2.7,8,256GB SSD,Nvidia,GeForce 940MX,Windows 10,1.3,111259.18
+MSI,GP62M 7REX,Gaming,15.6,Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,16,256GB SSD +  1TB HDD,Nvidia,GeForce GTX 1050 Ti,Windows 10,2.2,121144.74
+Lenovo,Thinkpad T470,Notebook,14,IPS Panel Full HD 1920x1080,Intel,Core i7 7500U,2.7,8,256GB SSD,Intel,HD Graphics 620,Windows 10,1.58,138024.8
+Asus,VivoBook S15,Ultrabook,15.6,Full HD 1920x1080,Intel,Core i7 8550U,1.8,16,256GB SSD +  1TB HDD,Nvidia,GeForce MX150,Windows 10,1.5,117694.12
+Dell,XPS 13,Ultrabook,13.3,Quad HD+ / Touchscreen 3200x1800,Intel,Core i7 7560U,2.4,8,256GB SSD,Intel,Iris Plus Graphics 640,Windows 10,1.23,128605.54
+Lenovo,ThinkPad Yoga,2 in 1 Convertible,13.3,IPS Panel Full HD / Touchscreen 1920x1080,Intel,Core i5 7200U,2.5,8,256GB SSD,Intel,HD Graphics 620,Windows 10,1.37,130470.74
+HP,Probook 440,Notebook,14,IPS Panel 1366x768,Intel,Core i5 8250U,1.6,4,500GB HDD,Intel,UHD Graphics 620,Windows 10,1.63,67333.72
+Dell,XPS 13,Ultrabook,13.3,IPS Panel Full HD 1920x1080,Intel,Core i5 8250U,1.6,8,256GB SSD,Intel,UHD Graphics 620,Windows 10,1.21,151920.54
+HP,Spectre x360,2 in 1 Convertible,13.3,IPS Panel Full HD / Touchscreen 1920x1080,Intel,Core i5 8250U,1.6,8,256GB SSD,Intel,UHD Graphics 620,Windows 10,1.26,130469.8074
+HP,Probook 440,Notebook,14,Full HD 1920x1080,Intel,Core i7 8550U,1.8,8,512GB SSD,Intel,UHD Graphics 620,Windows 10,1.63,101093.84
+Dell,Inspiron 7570,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel,Core i7 8550U,1.8,8,256GB SSD +  1TB HDD,Nvidia,GeForce 940MX,Windows 10,2.16,105414.5758
+Asus,X705UV-BX074T (i3-6006U/4GB/1TB/GeForce,Notebook,17.3,Full HD 1920x1080,Intel,Core i3 6006U,2,4,1TB HDD,Nvidia,GeForce 920MX,Windows 10,2,52598.64
+Asus,VivoBook S15,Notebook,15.6,Full HD 1920x1080,Intel,Core i7 8550U,1.8,8,256GB SSD,Nvidia,GeForce 940MX,Windows 10,1.7,104264.68
+Acer,Spin 3,Notebook,15.6,IPS Panel Full HD / Touchscreen 1920x1080,Intel,Core i3 7100U,2.4,6,1TB HDD,Intel,HD Graphics 620,Windows 10,2.1,44671.54
+MSI,GS63VR 7RG,Gaming,15.6,Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,16,256GB SSD +  2TB HDD,Nvidia,GeForce GTX 1070,Windows 10,1.8,209042.29
+Lenovo,IdeaPad 320-15IKBN,Notebook,15.6,Full HD 1920x1080,Intel,Core i5 7200U,2.5,8,256GB SSD,Nvidia,GeForce 940MX,No OS,2.2,58660.54
+HP,Probook 470,Notebook,17.3,Full HD 1920x1080,Intel,Core i7 8550U,1.8,16,512GB SSD,Nvidia,GeForce 930MX,Windows 10,2.5,118533.46
+Acer,Aspire 3,Notebook,15.6,1366x768,AMD,A9-Series 9420,3,4,256GB SSD,AMD,Radeon R5,Windows 10,2.1,42060.26
+HP,250 G6,Notebook,15.6,1366x768,Intel,Celeron Dual Core N3060,1.6,4,500GB HDD,Intel,HD Graphics 400,No OS,1.86,24154.34
+HP,Probook 440,Notebook,14,Full HD 1920x1080,Intel,Core i5 8250U,1.6,8,1TB HDD,Intel,UHD Graphics 620,Windows 10,1.63,75727.12
+Asus,E402WA-GA007T (E2-6110/4GB/64GB/W10,Notebook,14,1366x768,AMD,E-Series 6110,1.5,4,64GB SSD,AMD,Radeon R2,Windows 10 S,1.65,25925.3474
+Dell,Inspiron 5770,Notebook,17.3,Full HD 1920x1080,Intel,Core i7 8550U,1.8,16,256GB SSD +  2TB HDD,AMD,Radeon 530,Windows 10,2.8,130190.96
+HP,ProBook 470,Notebook,17.3,Full HD 1920x1080,Intel,Core i5 8250U,1.6,8,256GB SSD,Intel,UHD Graphics 620,Windows 10,2.5,86545.28
+Dell,Inspiron 5567,Notebook,15.6,1366x768,Intel,Core i5 7200U,2.5,8,1TB HDD,AMD,Radeon R7 M445,Windows 10,2.36,59592.2074
+Dell,Inspiron 3567,Notebook,15.6,Full HD 1920x1080,Intel,Core i3 6006U,2,4,1TB HDD,AMD,Radeon R5 M430,Windows 10,2.2,41873.74
+Acer,Swift 3,Ultrabook,14,IPS Panel Full HD 1920x1080,Intel,Core i7 8550U,1.8,8,256GB SSD,Intel,UHD Graphics 620,Windows 10,1.6,82441.84
+Acer,Aspire A515-51G-37JS,Notebook,15.6,Full HD 1920x1080,Intel,Core i3 7130U,2.7,4,256GB SSD,Nvidia,GeForce MX130,Windows 10,2.2,53344.72
+HP,15-BS078nr (i7-7500U/8GB/1TB/W10),Notebook,15.6,1366x768,Intel,Core i7 7500U,2.7,8,1TB HDD,Intel,HD Graphics 620,Windows 10,2.05,55769.48
+HP,Probook 440,Notebook,14,Full HD 1920x1080,Intel,Core i7 8550U,1.8,8,256GB SSD,Intel,UHD Graphics 620,Windows 10,1.63,92140.88
+Lenovo,V110-15IAP (N3350/4GB/1TB/No,Notebook,15.6,1366x768,Intel,Celeron Dual Core N3350,1.1,4,1TB HDD,Intel,HD Graphics 500,No OS,1.9,23535.0936
+Asus,FX753VD-GC086T (i5-7300HQ/8GB/1TB,Gaming,17.3,Full HD 1920x1080,Intel,Core i5 7300HQ,2.5,8,128GB SSD +  1TB HDD,Nvidia,GeForce GTX 1050,Windows 10,3,87477.88
+Lenovo,IdeaPad 320-15IKBN,Notebook,15.6,Full HD 1920x1080,Intel,Core i5 7200U,2.5,4,1TB HDD,Nvidia,GeForce 920MX,No OS,2.2,46536.74
+HP,Envy 13-AD007nv,Notebook,13.3,IPS Panel Full HD 1920x1080,Intel,Core i5 7200U,2.5,4,256GB SSD,Intel,HD Graphics 620,Windows 10,1.32,65188.74
+Acer,Aspire 5,Notebook,17.3,IPS Panel Full HD 1920x1080,Intel,Core i3 7130U,2.7,4,1TB HDD,Nvidia,GeForce MX130,Windows 10,3,61085.3
+Lenovo,ThinkPad E480,Notebook,14,IPS Panel Full HD 1920x1080,Intel,Core i5 8250U,1.6,8,256GB SSD,AMD,Radeon RX 550,Windows 10,1.75,104080.0252
+Lenovo,Legion Y520-15IKBN,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,8,256GB SSD,Nvidia,GeForce GTX 1050M,No OS,2.4,81042.94
+Toshiba,Satellite Pro,Notebook,15.6,1366x768,Intel,Core i5 6200U,2.3,4,500GB HDD,Intel,HD Graphics 520,Windows 10,2.1,56142.52
+HP,255 G6,Notebook,15.6,1366x768,AMD,A6-Series 9220,2.5,4,256GB SSD,AMD,Radeon R4 Graphics,Windows 10,1.86,34412.94
+Asus,ZenBook UX430UA,Ultrabook,14,Full HD 1920x1080,Intel,Core i7 8550U,1.8,8,256GB SSD,Intel,UHD Graphics 620,Windows 10,1.25,102492.74
+HP,EliteBook Folio,Ultrabook,12.5,IPS Panel 4K Ultra HD / Touchscreen 3840x2160,Intel,Core M 6Y75,1.2,8,512GB SSD,Intel,HD Graphics 515,Windows 10,0.97,187825.64
+Asus,X541NA (N3350/4GB/1TB/FHD/W10),Notebook,15.6,Full HD 1920x1080,Intel,Celeron Dual Core N3350,1.1,4,1TB HDD,Intel,HD Graphics 500,Windows 10,2,32081.44
+MSI,GE72MVR 7RG,Gaming,17.3,Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,16,256GB SSD +  1TB HDD,Nvidia,GeForce GTX 1070,Windows 10,2.9,189224.54
+Acer,Aspire A315-51,Notebook,15.6,1366x768,Intel,Core i3 6006U,2,4,1TB HDD,Intel,HD Graphics 520,Windows 10,2.1,41687.22
+Dell,Inspiron 5577,Gaming,15.6,Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,16,512GB SSD,Nvidia,GeForce GTX 1050,Windows 10,2.56,116505.9876
+Dell,Inspiron 7567,Gaming,15.6,Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,8,1.0TB Hybrid,Nvidia,GeForce GTX 1050,Windows 10,2.62,83840.74
+Lenovo,V110-15IKB (i5-7200U/4GB/128GB/W10),Notebook,15.6,1366x768,Intel,Core i5 7200U,2.5,4,128GB SSD,Intel,HD Graphics 620,Windows 10,1.9,46443.48
+MSI,GE73VR 7RE,Gaming,17.3,Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,16,256GB SSD +  1TB HDD,Nvidia,GeForce GTX 1060,Windows 10,2.8,176261.4
+HP,EliteBook 840,Ultrabook,14,Full HD 1920x1080,Intel,Core i5 7500U,2.7,4,256GB SSD,Intel,HD Graphics 620,Windows 10,1.48,100907.32
+HP,15-BS103nv (i5-8250U/6GB/256GB/Radeon,Notebook,15.6,Full HD 1920x1080,Intel,Core i5 8250U,1.6,6,256GB SSD,AMD,Radeon 520,Windows 10,1.91,57727.94
+Lenovo,Yoga 520-14IKB,2 in 1 Convertible,14,IPS Panel Full HD / Touchscreen 1920x1080,Intel,Core i3 7100U,2.4,4,256GB SSD,Intel,HD Graphics 620,Windows 10,1.74,58660.54
+Asus,ZenBook Flip,2 in 1 Convertible,13.3,Full HD / Touchscreen 1920x1080,Intel,Core i5 8250U,1.6,8,256GB SSD,Intel,HD Graphics 620,Windows 10,1.1,122636.9
+Dell,Inspiron 5579,2 in 1 Convertible,15.6,Full HD / Touchscreen 1920x1080,Intel,Core i7 8550U,1.8,8,256GB SSD,Intel,UHD Graphics 620,Windows 10,1.56,97829.74
+Toshiba,Satellite Pro,Notebook,15.6,1366x768,Intel,Core i3 6006U,2.2,4,500GB HDD,Intel,HD Graphics 520,Windows 10,2.1,41687.22
+Asus,X555BP-XX180T (A9-9420/4GB/1TB/Radeon,Notebook,15.6,1366x768,AMD,A9-Series 9420,3,4,1TB HDD,AMD,Radeon R5 M420,Windows 10,2.03,37583.78
+Acer,Aspire A517-51G,Notebook,17.3,IPS Panel Full HD 1920x1080,Intel,Core i5 8250U,1.6,4,256GB SSD,Nvidia,GeForce MX150,Windows 10,3,75074.3
+Dell,Inspiron 3576,Notebook,15.6,Full HD 1920x1080,Intel,Core i5 8250U,1.6,8,256GB SSD,AMD,Radeon 520,Windows 10,2.13,67893.28
+Lenovo,Legion Y520-15IKBN,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,16,256GB SSD,Nvidia,GeForce GTX 1050 Ti,Windows 10,2.5,100627.54
+Acer,Aspire A315-31,Notebook,15.6,1366x768,Intel,Celeron Dual Core N3350,1.1,4,1TB HDD,Intel,HD Graphics 500,Windows 10,2.1,32454.48
+MSI,GE63VR 7RE,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,16,256GB SSD +  1TB HDD,Nvidia,GeForce GTX 1060,Windows 10,2.4,167774.74
+Acer,Aspire 3,Notebook,15.6,1366x768,Intel,Pentium Quad Core N4200,1.1,4,1TB HDD,Intel,HD Graphics 505,Windows 10,2.1,33900.9426
+Dell,Inspiron 5577,Gaming,15.6,Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,8,128GB SSD +  1TB HDD,Nvidia,GeForce GTX 1050,Windows 10,2.56,98901.2974
+Acer,Aspire A517-51G,Notebook,17.3,IPS Panel Full HD 1920x1080,Intel,Core i5 8250U,1.6,8,256GB SSD,Nvidia,GeForce MX150,Windows 10,3,79644.04
+HP,ProBook 430,Notebook,13.3,IPS Panel Full HD 1920x1080,Intel,Core i5 8250U,1.6,4,500GB HDD,Intel,UHD Graphics 620,Windows 10,1.49,70318.04
+Huawei,MateBook X,Ultrabook,13,IPS Panel Full HD 2160x1440,Intel,Core i5 7200U,2.5,8,256GB SSD,Intel,HD Graphics 620,Windows 10,1.05,125807.74
+HP,17-bs001nv (i5-7200U/6GB/2TB/Radeon,Notebook,17.3,IPS Panel Full HD 1920x1080,Intel,Core i5 7200U,2.5,6,2TB HDD,AMD,Radeon 520,Windows 10,2.71,65188.74
+Lenovo,IdeaPad 320-15AST,Notebook,15.6,1366x768,AMD,A6-Series 9220,2.9,4,500GB HDD,AMD,Radeon R4 Graphics,No OS,2.2,28817.34
+Toshiba,Satellite Pro,Notebook,15.6,1366x768,Intel,Core i3 7100U,2.4,4,500GB HDD,Intel,HD Graphics 620,Windows 10,2,45604.14
+HP,ProBook 470,Notebook,17.3,Full HD 1920x1080,Intel,Core i5 8250U,1.6,8,256GB SSD,Nvidia,GeForce 930MX,Windows 10,2.5,86078.98
+Dell,Inspiron 3567,Notebook,15.6,1366x768,Intel,Core i3 7100U,2.4,8,1TB HDD,Intel,HD Graphics 620,Windows 10,2.3,42806.34
+Acer,Aspire A315-51,Notebook,15.6,1366x768,Intel,Core i3 6006U,2,4,128GB SSD,Intel,HD Graphics 520,Windows 10,2.1,41873.74
+MSI,GT80S 6QF-074US,Gaming,18.4,Full HD 1920x1080,Intel,Core i7 6920HQ,2.9,32,512GB SSD +  1TB HDD,Nvidia,GTX 980 SLI,Windows 10,4.4,261034.74
+Lenovo,V310-15IKB (i5-7200U/8GB/1TB,Notebook,15.6,Full HD 1920x1080,Intel,Core i5 7200U,2.5,8,128GB SSD +  1TB HDD,AMD,R17M-M1-70,Windows 10,1.9,75820.38
+HP,Spectre x360,2 in 1 Convertible,13.3,IPS Panel 4K Ultra HD / Touchscreen 3840x2160,Intel,Core i5 8250U,1.6,8,256GB SSD,Intel,UHD Graphics 620,Windows 10,1.29,139796.74
+Dell,Inspiron 5570,Notebook,15.6,Full HD 1920x1080,Intel,Core i7 8550U,1.8,16,256GB SSD +  2TB HDD,AMD,Radeon 530,Linux,2.02,97829.74
+Dell,XPS 13,Ultrabook,13.3,Full HD 1920x1080,Intel,Core i5 8250U,1.6,8,256GB SSD,Intel,UHD Graphics 620,Windows 10,1.23,130470.74
+Lenovo,Yoga 920-13IKB,2 in 1 Convertible,13.9,IPS Panel 4K Ultra HD / Touchscreen 3840x2160,Intel,Core i7 8550U,1.8,16,512GB SSD,Intel,UHD Graphics 620,Windows 10,1.4,172437.74
+Toshiba,Satellite Pro,Notebook,15.6,1366x768,Intel,Core i5 7200U,2.5,8,128GB SSD,Intel,HD Graphics 620,Windows 10,2,73955.18
+Xiaomi,Mi Notebook,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel,Core i5 8250U,1.6,8,256GB SSD,Nvidia,GeForce MX150,No OS,1.95,111818.74
+Dell,Inspiron 7773,Notebook,17.3,Full HD / Touchscreen 1920x1080,Intel,Core i7 8550U,1.8,16,512GB SSD,Nvidia,GeForce 150MX,Windows 10,2.77,144459.74
+Dell,XPS 15,Notebook,15.6,4K Ultra HD / Touchscreen 3840x2160,Intel,Core i7 7700HQ,2.8,16,512GB SSD,Nvidia,GeForce GTX 1050,Windows 10,2.06,223544.22
+Lenovo,Legion Y520-15IKBN,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel,Core i5 7300HQ,2.5,8,256GB SSD,Nvidia,GeForce GTX 1050,No OS,2.4,72649.54
+Acer,Swift 7,Ultrabook,13.3,IPS Panel Full HD 1920x1080,Intel,Core i5 7Y54,1.2,8,256GB SSD,Intel,HD Graphics 615,Windows 10,1.12,92234.14
+Dell,Inspiron 5770,Notebook,17.3,Full HD 1920x1080,Intel,Core i7 8550U,1.8,8,128GB SSD +  1TB HDD,AMD,Radeon 530,Windows 10,2.8,101187.1
+Lenovo,Thinkpad Yoga,2 in 1 Convertible,14,Touchscreen 2560x1440,Intel,Core i7 7500U,2.7,16,1TB SSD,Intel,HD Graphics 620,Windows 10,1.42,263366.24
+Vero,K147 (N3350/4GB/32GB/FHD/W10),Notebook,14,IPS Panel Full HD 1920x1080,Intel,Celeron Dual Core N3350,1.1,4,32GB Flash Storage,Intel,HD Graphics 500,Windows 10,1.3,24247.6
+Xiaomi,Mi Notebook,Ultrabook,13.3,IPS Panel Full HD 1920x1080,Intel,Core i5 7200U,2.5,8,256GB SSD,Nvidia,GeForce MX150,No OS,1.3,93250.674
+Lenovo,IdeaPad 320-17IKBR,Notebook,17.3,1600x900,Intel,Core i5 8250U,1.6,8,256GB SSD,Nvidia,GeForce MX150,No OS,2.8,65095.48
+Dell,Inspiron 5379,2 in 1 Convertible,13.3,IPS Panel Full HD / Touchscreen 1920x1080,Intel,Core i7 8550U,1.8,8,1TB HDD,Intel,UHD Graphics 620,Windows 10,1.62,78245.14
+HP,ProBook 470,Notebook,17.3,IPS Panel Full HD 1920x1080,Intel,Core i5 8250U,1.6,8,1TB HDD,Nvidia,GeForce 930MX,Windows 10,2.5,85239.64
+Razer,Blade Pro,Gaming,17.3,4K Ultra HD / Touchscreen 3840x2160,Intel,Core i7 7820HK,2.9,32,1TB SSD,Nvidia,GeForce GTX 1080,Windows 10,3.49,568792.74
+HP,ProBook 430,Notebook,13.3,Full HD 1920x1080,Intel,Core i5 8250U,1.6,8,512GB SSD,Intel,UHD Graphics 620,Windows 10,1.49,89436.34
+HP,Omen 17-W295,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,16,256GB SSD +  1TB HDD,Nvidia,GeForce GTX 1050,Windows 10,3.35,128605.54
+HP,Probook 470,Notebook,17.3,Full HD 1920x1080,Intel,Core i7 8550U,1.8,8,256GB SSD,Nvidia,GeForce 930MX,Windows 10,2.5,97456.7
+Dell,Inspiron 7577,Gaming,15.6,IPS Panel 4K Ultra HD 3840x2160,Intel,Core i7 7700HQ,2.8,16,512GB SSD +  1TB HDD,Nvidia,GeForce GTX 1060,Windows 10,2.65,172064.7
+Lenovo,V110-15ISK (i5-6200U/4GB/128GB/W10),Notebook,15.6,1366x768,Intel,Core i5 6200U,2.3,4,128GB SSD,Intel,HD Graphics 520,Windows 10,2.1,45977.18
+Acer,Aspire E5-576G,Notebook,15.6,Full HD 1920x1080,Intel,Core i7 7500U,2.7,8,1TB HDD,Nvidia,GeForce 940MX,Windows 10,2.23,69198.92
+Lenovo,Legion Y720-15IKB,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,16,512GB SSD +  1TB HDD,Nvidia,GeForce GTX 1060,Windows 10,3.2,163111.74
+Dell,Precision 7520,Workstation,15.6,4K Ultra HD 3840x2160,Intel,Xeon E3-1505M V6,3,16,256GB SSD +  1TB HDD,Nvidia,Quadro M1200,Windows 10,2.8,284909.3
+Lenovo,Legion Y520-15IKBN,Gaming,15.6,Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,16,512GB SSD,Nvidia,GeForce GTX 1060,No OS,2.4,130377.48
+Dell,Inspiron 3567,Notebook,15.6,Touchscreen 1366x768,Intel,Core i3 7100U,2.4,6,1TB HDD,Intel,HD Graphics 620,Windows 10,2.3,40941.14
+Dell,XPS 13,Ultrabook,13.3,IPS Panel 4K Ultra HD / Touchscreen 3840x2160,Intel,Core i7 8550U,1.8,8,256GB SSD,Intel,UHD Graphics 620,Windows 10,1.21,181763.74
+Dell,XPS 13,Ultrabook,13.3,Full HD 1920x1080,Intel,Core i7 8550U,1.8,8,256GB SSD,Intel,UHD Graphics 620,Windows 10,1.2,135133.74
+Lenovo,IdeaPad 320-15IKBN,Notebook,15.6,1366x768,Intel,Core i5 7200U,2.5,8,256GB SSD,Intel,HD Graphics 620,Windows 10,2.2,55676.22
+Acer,Aspire 7,Notebook,15.6,Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,8,1TB HDD,Nvidia,GeForce GTX 1050,Linux,2.4,72649.54
+Asus,ROG GL703VD-GC028T,Gaming,17.3,Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,16,256GB SSD +  1TB HDD,Nvidia,GeForce GTX 1050,Windows 10,2.9,131216.82
+HP,15-bs018nq (i3-6006U/4GB/500GB/FHD/No,Notebook,15.6,Full HD 1920x1080,Intel,Core i3 6006U,2,4,500GB HDD,Intel,HD Graphics 520,No OS,2.1,32547.74
+Lenovo,IdeaPad 320-15IKBN,Notebook,15.6,Full HD 1920x1080,Intel,Core i5 7200U,2.5,8,256GB SSD,Intel,HD Graphics 620,No OS,2.2,51199.74
+Huawei,MateBook X,Ultrabook,13,IPS Panel Full HD 2160x1440,Intel,Core i7 7500U,2.7,8,512GB SSD,Intel,HD Graphics 620,Windows 10,1.05,139796.74
+Dell,Inspiron 5370,Ultrabook,13.3,IPS Panel Full HD 1920x1080,Intel,Core i7 8550U,1.8,8,256GB SSD,AMD,Radeon 530,Windows 10,1.4,86907.1288
+Lenovo,IdeaPad 320-17IKB,Notebook,17.3,1600x900,Intel,Core i5 7200U,2.5,8,1TB HDD,Nvidia,GeForce GTX 940MX,No OS,2.8,54930.14
+HP,Probook 440,Notebook,14,Full HD 1920x1080,Intel,Core i7 8550U,1.8,8,256GB SSD,Nvidia,GeForce 930MX,Windows 10,1.63,96151.06
+Dell,Latitude 5490,Ultrabook,14,Full HD 1920x1080,Intel,Core i5 8250U,1.6,8,256GB SSD,Intel,UHD Graphics 620,Windows 10,1.6,107155.74
+Dell,Inspiron 5379,2 in 1 Convertible,13.3,Full HD / Touchscreen 1920x1080,Intel,Core i7 8550U,1.8,16,512GB SSD,Intel,UHD Graphics 620,Windows 10,1.62,119279.54
+Dell,Inspiron 3576,Notebook,15.6,Full HD 1920x1080,Intel,Core i5 8250U,1.6,8,256GB SSD,AMD,Radeon 520,Linux,2.2,63169.661
+Lenovo,Yoga 520-14IKB,2 in 1 Convertible,14,IPS Panel Full HD 1920x1080,Intel,Core i5 8250U,1.6,8,256GB SSD,Intel,UHD Graphics 620,Windows 10,1.74,83840.74
+Toshiba,Portege Z30-C-16L,Ultrabook,13.3,Full HD 1920x1080,Intel,Core i7 6500U,2.5,8,256GB SSD,Intel,HD Graphics 520,Windows 10,1.2,127113.38
+HP,ProBook 450,Notebook,15.6,Full HD 1920x1080,Intel,Core i5 8250U,1.6,8,1TB HDD,Intel,UHD Graphics 620,Windows 10,2.1,74048.44
+Dell,Alienware 17,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,16,256GB SSD +  1TB HDD,Nvidia,GeForce GTX 1060,Windows 10,4.42,229078.2684
+Acer,Aspire E5-576G,Notebook,15.6,Full HD 1920x1080,Intel,Core i7 7500U,2.7,8,256GB SSD,Nvidia,GeForce 940MX,Windows 10,2.2,77592.32
+Dell,Inspiron 5567,Notebook,15.6,Full HD / Touchscreen 1920x1080,Intel,Core i7 7500U,2.7,16,1TB HDD,AMD,Radeon R7 M445,Windows 10,2.3,80111.2726
+Asus,Vivobook X541UV-DM1217T,Notebook,15.6,Full HD 1920x1080,Intel,Core i5 7200U,2.5,8,256GB SSD,Nvidia,GeForce 920MX,Windows 10,2,71716.94
+Asus,K756UX-T4340T (i5-7200U/8GB/500GB,Notebook,17.3,Full HD 1920x1080,Intel,Core i5 7200U,2.5,8,256GB SSD +  500GB HDD,Nvidia,GeForce GTX 950M,Windows 10,2.69,83094.66
+HP,ZBook 15u,Notebook,15.6,Full HD 1920x1080,Intel,Core i7 7500U,2.7,8,1TB HDD,AMD,FirePro W4190M,Windows 10,1.9,118346.94
+Asus,Pro P2540UA-XO0198T,Notebook,15.6,1366x768,Intel,Core i3 7100U,2.4,4,1TB HDD,Intel,HD Graphics 620,Windows 10,2.37,37209.8074
+HP,15-rb013nv (E2-9000e/4GB/500GB/W10),Notebook,15.6,1366x768,AMD,E-Series 9000e,1.5,4,500GB HDD,AMD,Radeon R2,Windows 10,2.1,30775.8
+Lenovo,Legion Y720-15IKB,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,16,256GB SSD +  1TB HDD,Nvidia,GeForce GTX 1060,Windows 10,3.2,139796.74
+Dell,Vostro 5468,Notebook,14,Full HD 1920x1080,Intel,Core i5 7200U,2.5,8,256GB SSD,Intel,HD Graphics 620,Windows 10,1.6,80110.34
+Acer,Aspire R7,2 in 1 Convertible,13.3,IPS Panel Full HD / Touchscreen 1920x1080,Intel,Core i5 6200U,2.3,8,256GB SSD,Intel,HD Graphics 520,Windows 10,1.6,64256.14
+Dell,Inspiron 5567,Notebook,15.6,Full HD 1920x1080,Intel,Core i7 7500U,2.7,16,256GB SSD,AMD,Radeon R7 M445,Linux,2.36,83840.74
+Acer,Aspire A315-51,Notebook,15.6,1366x768,Intel,Core i3 6006U,2,4,1TB HDD,Intel,HD Graphics 520,Linux,2.1,36371.4
+Asus,X555QG-DM242T (A10-9620P/4GB/1TB,Notebook,15.6,Full HD 1920x1080,AMD,A10-Series A10-9620P,2.5,4,128GB SSD +  1TB HDD,AMD,Radeon R5 M430,Windows 10,2.2,53624.5
+Asus,ROG G703VI-E5062T,Gaming,17.3,Full HD 1920x1080,Intel,Core i7 7820HK,2.9,32,512GB SSD +  1TB HDD,Nvidia,GeForce GTX 1080,Windows 10,4.7,362781.4
+Acer,Nitro AN515-51,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel,Core i5 7300HQ,2.5,8,256GB SSD,Nvidia,GeForce GTX 1050,Windows 10,2.5,78897.96
+Lenovo,IdeaPad 320-15ISK,Notebook,15.6,1366x768,Intel,Core i3 6006U,2,8,128GB SSD,Intel,HD Graphics 520,Windows 10,2.2,54930.14
+Asus,VivoBook Pro,Notebook,17.3,Full HD 1920x1080,Intel,Core i7 8550U,1.8,8,128GB SSD +  1TB HDD,Nvidia,GeForce 150MX,Windows 10,2.1,106782.7
+Asus,F756UX-T4201D (i7-7500U/8GB/128GB,Notebook,17.3,Full HD 1920x1080,Intel,Core i7 7500U,2.7,8,128GB SSD +  1TB HDD,Nvidia,GeForce GTX 950M,No OS,2.69,82908.14
+Dell,Inspiron 5577,Gaming,15.6,Full HD 1920x1080,Intel,Core i5 7300HQ,2.5,8,256GB SSD,Nvidia,GeForce GTX 1050,Windows 10,2.56,81975.54
+Lenovo,Yoga 910-13IKB,2 in 1 Convertible,13.9,IPS Panel Full HD / Touchscreen 1920x1080,Intel,Core i7 7500U,2.7,8,256GB SSD,Intel,HD Graphics 620,Windows 10,1.38,100627.54
+Dell,Inspiron 5570,Notebook,15.6,Full HD 1920x1080,Intel,Core i7 8550U,1.8,8,128GB SSD +  2TB HDD,AMD,Radeon 530,Windows 10,2.2,91861.1
+HP,15-bs015dx (i5-7200U/8GB/1TB/W10),Notebook,15.6,Touchscreen 1366x768,Intel,Core i5 7200U,2.5,8,1TB HDD,Intel,HD Graphics 620,Windows 10,2.04,52132.34
+Asus,Rog G701VIK-BA060T,Gaming,17.3,Full HD 1920x1080,Intel,Core i7 7820HK,2.9,16,256GB SSD,Nvidia,GeForce GTX 1080,Windows 10,3.6,279686.74
+HP,ProBook 430,Notebook,13.3,IPS Panel Full HD 1920x1080,Intel,Core i5 8250U,1.6,4,500GB HDD,Intel,UHD Graphics 620,Windows 10,1.49,62950.5
+Apple,MacBook Pro,Ultrabook,13.3,IPS Panel Retina Display 2560x1600,Intel,Core i5,3.1,8,512GB SSD,Intel,Iris Plus Graphics 650,macOS,1.37,190250.4
+Dell,Inspiron 5579,2 in 1 Convertible,15.6,IPS Panel Full HD / Touchscreen 1920x1080,Intel,Core i7 8550U,1.8,8,1TB HDD,Intel,UHD Graphics 620,Windows 10,2.08,76379.94
+Asus,ROG G752VSK-GC493T,Gaming,17.3,Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,16,256GB SSD +  1TB HDD,Nvidia,GeForce GTX 980M,Windows 10,4.3,167774.74
+Asus,X505BP-BR019T (A9-9420/4GB/1TB/Radeon,Notebook,15.6,1366x768,AMD,A9-Series 9420,3,4,1TB HDD,AMD,Radeon R5 M420,Windows 10,1.68,43738.94
+Lenovo,Yoga 920-13IKB,2 in 1 Convertible,13.9,IPS Panel Full HD / Touchscreen 1920x1080,Intel,Core i7 8550U,1.8,8,512GB SSD,Intel,UHD Graphics 620,Windows 10,1.37,172437.74
+Acer,Aspire 5,Notebook,17.3,IPS Panel Full HD 1920x1080,Intel,Core i3 7130U,2.7,4,256GB SSD,Nvidia,GeForce MX130,Windows 10,3,65468.52
+Dell,Vostro 5370,Ultrabook,13.3,Full HD 1920x1080,Intel,Core i5 8250U,1.6,8,256GB SSD,Intel,UHD Graphics 620,Windows 10,1.41,88503.74
+HP,15-BW094nd (A6-9220/8GB/128GB/W10),Notebook,15.6,1366x768,AMD,A6-Series A6-9220,2.5,8,128GB SSD,AMD,Radeon R4 Graphics,Windows 10,1.91,41584.634
+HP,Envy 17-U275cl,Notebook,17.3,IPS Panel Full HD 1920x1080,Intel,Core i7 8550U,1.8,16,1TB HDD,Nvidia,GeForce MX150,Windows 10,2.9,98762.34
+MSI,GT73EVR 7RE,Gaming,17.3,Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,16,512GB SSD +  1TB HDD,Nvidia,GeForce GTX 1070,Windows 10,4.14,233056.74
+Lenovo,Yoga 720-15IKB,2 in 1 Convertible,15.6,IPS Panel Full HD / Touchscreen 1920x1080,Intel,Core i7 7700HQ,2.8,8,512GB SSD,Nvidia,GeForce GTX 1050M,Windows 10,2,158448.74
+Dell,Inspiron 5770,Notebook,17.3,Full HD 1920x1080,Intel,Core i7 8550U,1.8,8,128GB SSD +  1TB HDD,AMD,Radeon 530,Windows 10,2.8,106502.92
+Lenovo,IdeaPad 320-15ISK,Notebook,15.6,Full HD 1920x1080,Intel,Core i3 6006U,2,4,256GB SSD,Intel,HD Graphics 520,No OS,2.2,41407.44
+HP,ProBook 450,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel,Core i5 8250U,1.6,4,500GB HDD,Intel,HD Graphics 620,Windows 10,2.1,67333.72
+Dell,Vostro 3568,Notebook,15.6,Full HD 1920x1080,Intel,Core i5 7200U,2.5,4,1TB HDD,Intel,HD Graphics 620,Windows 10,2.18,61271.82
+Dell,Inspiron 3567,Notebook,15.6,Full HD 1920x1080,Intel,Core i5 7200U,2.5,8,1TB HDD,AMD,Radeon R5 M430,Windows 10,2.24,52691.9
+Dell,Inspiron 5579,2 in 1 Convertible,15.6,Full HD / Touchscreen 1920x1080,Intel,Core i5 8250U,1.6,8,256GB SSD,Intel,UHD Graphics 620,Windows 10,2.67,74514.74
+Asus,ZenBook Flip,2 in 1 Convertible,13.3,Full HD / Touchscreen 1920x1080,Intel,Core i7 8550U,1.8,8,512GB SSD +  512GB SSD,Intel,UHD Graphics 620,Windows 10,1.1,139796.74
+Lenovo,IdeaPad 320-15IKBN,Notebook,15.6,Full HD 1920x1080,Intel,Core i5 7200U,2.5,4,1TB HDD,Intel,HD Graphics 620,No OS,2.2,43552.42
+HP,Probook 470,Notebook,17.3,Full HD 1920x1080,Intel,Core i7 8550U,1.8,8,1TB HDD,Nvidia,GeForce 930MX,Windows 10,2.5,94938.68
+Lenovo,V330-15IKB (i7-8550U/8GB/256GB/FHD/W10),Notebook,15.6,Full HD 1920x1080,Intel,Core i7 8550U,1.8,8,256GB SSD,Intel,UHD Graphics 620,Windows 10,2.05,82068.8
+Apple,MacBook Pro,Ultrabook,13.3,IPS Panel Retina Display 2560x1600,Intel,Core i5,2.9,8,512GB SSD,Intel,Iris Graphics 550,macOS,1.37,182687.014
+Asus,Rog Strix,Gaming,17.3,Full HD 1920x1080,AMD,Ryzen 1700,3,16,256GB SSD +  1TB HDD,AMD,Radeon RX 580,Windows 10,3.2,144459.74
+Dell,Inspiron 3576,Notebook,15.6,Full HD 1920x1080,Intel,Core i7 8550U,1.8,8,256GB SSD,AMD,Radeon 520,Linux,2.14,68552.6282
+Lenovo,ThinkPad X1,2 in 1 Convertible,14,Touchscreen 2560x1440,Intel,Core i7 6600U,2.6,16,512GB SSD,Intel,HD Graphics 520,Windows 10,1.36,233056.74
+Toshiba,Satellite Pro,Notebook,15.6,1366x768,Intel,Core i7 6500U,2.5,8,500GB HDD,Nvidia,GeForce 930M,Windows 10,2.2,75727.12
+Dell,Inspiron 5567,Notebook,15.6,1366x768,Intel,Core i7 7500U,2.7,12,1TB HDD,Intel,HD Graphics 620,Windows 10,2.3,66500.9082
+Dell,Inspiron 5770,Notebook,17.3,Full HD 1920x1080,Intel,Core i7 8550U,1.8,8,128GB SSD +  1TB HDD,AMD,Radeon 530,Linux,2.8,102492.74
+Acer,Aspire A515-51G,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel,Core i7 8550U,1.8,8,1TB HDD,Nvidia,GeForce MX130,Windows 10,2.2,69478.7
+Lenovo,IdeaPad 320-17ISK,Notebook,17.3,1600x900,Intel,Core i3 6006U,2,4,1TB HDD,Intel,HD Graphics 520,Windows 10,2.8,45604.14
+Lenovo,IdeaPad 320-17IKBR,Notebook,17.3,Full HD 1920x1080,Intel,Core i7 8550U,1.8,8,2TB HDD,Nvidia,GeForce MX150,No OS,2.8,79177.74
+Lenovo,IdeaPad 320-17IKB,Notebook,17.3,1600x900,Intel,Core i7 7500U,2.7,6,128GB SSD +  1TB HDD,Nvidia,GeForce 940MX,Windows 10,2.8,80110.34
+Dell,Inspiron 3567,Notebook,15.6,Full HD 1920x1080,Intel,Core i3 6006U,2,4,1TB HDD,AMD,Radeon R5 M430,Linux,2.25,39915.28
+Lenovo,Legion Y520-15IKBN,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel,Core i5 7300HQ,2.5,8,256GB SSD,Nvidia,GeForce GTX 1050,Windows 10,2.5,77312.54
+Lenovo,Ideapad 320-15IKBN,Notebook,15.6,Full HD 1920x1080,Intel,Core i5 7200U,2.5,6,256GB SSD,Intel,HD Graphics 620,Windows 10,2.2,53997.54
+Acer,Aspire A517-51G,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel,Core i7 8550U,1.8,8,256GB SSD,Nvidia,GeForce MX150,Windows 10,3,88690.26
+Acer,SP315-51 (i7-7500U/12GB/1TB/FHD/W10),Notebook,15.6,IPS Panel Full HD / Touchscreen 1920x1080,Intel,Core i7 7500U,2.7,12,1TB HDD,Intel,HD Graphics 620,Windows 10,2.15,61458.34
+Lenovo,Thinkpad T570,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel,Core i7 7500U,2.7,8,256GB SSD,Intel,HD Graphics 630,Windows 10,1.95,102306.22
+Asus,VivoBook S15,Ultrabook,15.6,Full HD 1920x1080,Intel,Core i5 7200U,2.5,8,256GB SSD,Nvidia,GeForce 940MX,Windows 10,1.7,91115.02
+Lenovo,Legion Y520-15IKBN,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,16,256GB SSD +  1TB HDD,Nvidia,GeForce GTX 1050 Ti,Windows 10,2.5,109953.54
+Lenovo,IdeaPad 320-15IKB,Notebook,15.6,Full HD 1920x1080,Intel,Core i7 7500U,2.7,8,1TB HDD,Nvidia,GeForce 940MX,No OS,2.2,61459.2726
+Acer,Chromebook C910-C2ST,Notebook,15.6,1366x768,Intel,Celeron Dual Core 3205U,1.5,2,16GB SSD,Intel,HD Graphics,Chrome OS,2.19,18558.74
+Asus,FX753VD-GC071T (i7-7700HQ/8GB/1TB/GeForce,Gaming,17.3,Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,8,1TB HDD,Nvidia,GeForce GTX 1050,Windows 10,3,110699.62
+HP,17-BS037cl (i3-6006U/8GB/1TB/W10),Notebook,17.3,1600x900,Intel,Core i3 6006U,2,8,1TB HDD,Intel,HD Graphics 520,Windows 10,2.54,45604.14
+Dell,XPS 15,Notebook,15.6,Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,8,256GB SSD,Nvidia,GeForce GTX 1050,Windows 10,2,170572.54
+Lenovo,V330-15IKB (i5-8250U/8GB/256GB/FHD/W10),Notebook,15.6,Full HD 1920x1080,Intel,Core i5 8250U,1.6,8,256GB SSD,Intel,UHD Graphics 620,Windows 10,2.05,68919.14
+Lenovo,Legion Y720-15IKB,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,8,1TB HDD,Nvidia,GeForce GTX 1060,Windows 10,3.2,121144.74
+Acer,Aspire A715-71G,Notebook,15.6,Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,8,256GB SSD,Nvidia,GeForce GTX 1050 Ti,Linux,2.5,91301.54
+Dell,Precision 7720,Workstation,17.3,Full HD 1920x1080,Intel,Core i7 7820HQ,2.9,16,256GB SSD,Nvidia,Quadro M1200,Windows 10,3.42,269042.0436
+Lenovo,IdeaPad 310-15ABR,Notebook,15.6,Full HD 1920x1080,AMD,A10-Series 9600P,2.4,6,1TB HDD,AMD,Radeon R5 430,Windows 10,2.4,46536.74
+Asus,ZenBook UX530UQ-PRO,Ultrabook,15.6,Full HD 1920x1080,Intel,Core i7 7500U,2.7,16,512GB SSD,Nvidia,GeForce 940MX,Windows 10,1.63,136905.68
+Asus,VivoBook S14,Notebook,14,1366x768,Intel,Core i3 7100U,2.4,4,128GB SSD,Intel,HD Graphics 620,Windows 10,1.3,47469.34
+Asus,Rog GL702VS-GC095T,Gaming,17.3,Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,16,256GB SSD +  1TB HDD,Nvidia,GeForce GTX 1070,Windows 10,2.9,197897.72
+Lenovo,IdeaPad 320-17IKB,Notebook,17.3,1600x900,Intel,Core i5 7200U,2.5,6,1TB HDD,Nvidia,GeForce GTX 940M,Windows 10,2.8,60525.74
+Lenovo,IdeaPad 320-15IKBN,Notebook,15.6,1366x768,Intel,Core i5 7200U,2.5,8,2TB HDD,Nvidia,GeForce 940MX,No OS,2.2,51199.74
+Asus,GL553VE-FY082T (i7-7700HQ/8GB/1TB,Gaming,15.6,Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,8,128GB SSD +  1TB HDD,Nvidia,GeForce GTX 1050 Ti,Windows 10,2.5,117973.9
+Lenovo,IdeaPad 320-15IAP,Notebook,15.6,1366x768,Intel,Pentium Quad Core N4200,1.1,4,1TB HDD,Intel,HD Graphics 505,No OS,2.2,33572.6674
+HP,EliteBook x360,2 in 1 Convertible,13.3,Full HD / Touchscreen 1920x1080,Intel,Core i7 7600U,2.8,16,256GB SSD,Intel,HD Graphics 620,Windows 10,1.28,184188.5
+Toshiba,Satellite Pro,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel,Core i7 6500U,2.5,8,256GB SSD,Nvidia,GeForce 930M,Windows 10,2.2,97270.18
+Lenovo,IdeaPad 320-15IKB,Notebook,15.6,Full HD 1920x1080,Intel,Core i5 7200U,2.5,8,128GB SSD +  1TB HDD,Nvidia,GeForce 940MX,Windows 10,2.3,76379.94
+HP,250 G6,Notebook,15.6,Full HD 1920x1080,Intel,Core i3 6006U,2,4,1TB HDD,Intel,HD Graphics 520,Windows 10,1.86,43738.94
+Lenovo,IdeaPad 720S-13IKB,Notebook,13.3,IPS Panel Full HD 1920x1080,Intel,Core i5 7200U,2.5,8,256GB SSD,Intel,HD Graphics 620,Windows 10,1.1,93166.74
+Dell,XPS 13,Ultrabook,13.3,IPS Panel 4K Ultra HD / Touchscreen 3840x2160,Intel,Core i7 8550U,1.8,16,1TB SSD,Intel,UHD Graphics 620,Windows 10,1.21,233056.74
+MSI,GE63VR 7RF,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,16,256GB SSD +  1TB HDD,Nvidia,GeForce GTX 1070,Windows 10,2.8,195752.74
+Acer,ES1-523-84K7 (A8-7410/8GB/256GB/FHD/W10),Notebook,15.6,Full HD 1920x1080,AMD,A8-Series 7410,2.2,8,256GB SSD,AMD,Radeon R5,Windows 10,2.23,43738.94
+Asus,VivoBook Flip,2 in 1 Convertible,11.6,Touchscreen 1366x768,Intel,Celeron Dual Core N3350,1.1,2,32GB Flash Storage,Intel,HD Graphics 500,Windows 10,1.1,25646.5
+Dell,Inspiron 5570,Notebook,15.6,Full HD 1920x1080,Intel,Core i5 8250U,1.6,8,128GB SSD +  1TB HDD,AMD,Radeon 530,Windows 10,2.33,78711.44
+HP,Spectre x360,2 in 1 Convertible,13.3,IPS Panel 4K Ultra HD / Touchscreen 3840x2160,Intel,Core i7 8550U,1.8,16,1TB SSD,Intel,UHD Graphics 620,Windows 10,1.29,228393.74
+Lenovo,ThinkPad 13,Notebook,13.3,1366x768,Intel,Celeron Dual Core 3855U,1.6,4,16GB Flash Storage,Intel,HD Graphics 510,Chrome OS,1.45,42890.274
+HP,ProBook 640,Notebook,14,Full HD 1920x1080,Intel,Core i5 7200U,2.5,8,256GB SSD,Intel,HD Graphics 620,Windows 10,1.95,91394.8
+Acer,TravelMate B,Notebook,11.6,1366x768,Intel,Pentium Quad Core N3710,1.6,4,128GB Flash Storage,Intel,HD Graphics 405,Windows 10,1.4,45231.1
+HP,Elitebook 840,Notebook,14,Full HD 1920x1080,Intel,Core i7 7500U,2.7,8,256GB SSD,Intel,HD Graphics 620,Windows 10,1.48,120491.92
+Lenovo,IdeaPad 320-17IKB,Notebook,17.3,1600x900,Intel,Core i5 7200U,2.5,4,1TB HDD,Nvidia,GeForce 920MX,Windows 10,2.79,54930.14
+Asus,ZenBook UX410UA-GV183T,Notebook,14,Full HD 1920x1080,Intel,Core i7 7500U,2.7,8,256GB SSD,Intel,HD Graphics 620,Windows 10,2,102026.44
+HP,ProBook 450,Notebook,15.6,IPS Panel Full HD 1366x768,Intel,Core i7 8550U,1.8,8,1TB HDD,Intel,UHD Graphics 620,Windows 10,2.1,84120.52
+Acer,Aspire 5,Notebook,15.6,1366x768,AMD,A12-Series 9720P,2.7,8,256GB SSD,AMD,Radeon RX 540,Windows 10,2.2,61458.34
+Lenovo,IdeaPad 120S-14IAP,Notebook,14,1366x768,Intel,Celeron Dual Core N3350,1.1,4,32GB Flash Storage,Intel,HD Graphics 500,Windows 10,1.44,27231.92
+Acer,Aspire E5-575,Notebook,15.6,1366x768,Intel,Core i5 7200U,2.5,6,1TB HDD,Intel,HD Graphics 620,Windows 10,2.23,51199.74
+Asus,VivoBook S15,Ultrabook,15.6,Full HD 1920x1080,Intel,Core i7 7500U,2.7,8,256GB SSD,Nvidia,GeForce 940MX,Windows 10,1.7,97913.674
+HP,Elitebook 820,Ultrabook,12.5,Full HD 1920x1080,Intel,Core i7 7500U,2.7,8,256GB SSD,Intel,HD Graphics 620,Windows 10,1.26,124502.1
+Dell,XPS 15,Notebook,15.6,4K Ultra HD / Touchscreen 3840x2160,Intel,Core i7 7700HQ,2.8,32,1TB SSD,Nvidia,GeForce GTX 1050,Windows 10,2.06,246113.14
+MSI,GL72M 7REX,Gaming,17.3,Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,8,256GB SSD +  1TB HDD,Nvidia,GeForce GTX 1050 Ti,Windows 10,2.7,111818.74
+Toshiba,Satellite Pro,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel,Core i5 7200U,2.5,8,256GB SSD,Intel,HD Graphics 620,Windows 10,2,87944.18
+Asus,UX510UX-CN269T (i7-7500U/8GB/256GB,Notebook,14,Full HD 1920x1080,Intel,Core i7 7500U,2.7,8,256GB SSD +  1TB HDD,Intel,HD Graphics 620,Windows 10,2,124408.84
+Lenovo,V310-15ISK (i3-6006U/4GB/1TB/FHD/W10),Notebook,15.6,Full HD 1920x1080,Intel,Core i3 6006U,2,4,1TB HDD,Intel,HD Graphics 520,Windows 10,1.85,41873.74
+Asus,FX553VD-FY647T (i7-7700HQ/8GB/256GB/GeForce,Gaming,15.6,Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,8,256GB SSD,Nvidia,GeForce GTX 1050,Windows 10,2.5,93166.74
+HP,EliteBook 840,Notebook,14,Full HD 1920x1080,Intel,Core i5 7300U,2.6,8,256GB SSD,Intel,HD Graphics 620,Windows 10,1.48,118253.68
+Dell,Inspiron 7570,Ultrabook,15.6,IPS Panel Full HD 1920x1080,Intel,Core i5 8250U,1.6,8,128GB SSD +  1TB HDD,Nvidia,GeForce 940MX,Windows 10,1.9,97829.74
+HP,Elitebook 850,Notebook,15.6,Full HD 1920x1080,Intel,Core i5 7200U,2.5,8,256GB SSD,Intel,HD Graphics 620,Windows 10,1.84,106689.44
+Asus,X541NA (N3350/4GB/1TB/Linux),Notebook,15.6,1366x768,Intel,Celeron Dual Core N3350,1.1,4,1TB HDD,Intel,HD Graphics 500,Linux,2,25645.5674
+Dell,Inspiron 7570,Notebook,15.6,Full HD 1920x1080,Intel,Core i5 8250U,1.6,8,256GB SSD,Nvidia,GeForce 940MX,Windows 10,2,106572.865
+Dell,Inspiron 3552,Notebook,15.6,1366x768,Intel,Celeron Dual Core N3060,1.6,4,500GB HDD,Intel,HD Graphics,Linux,2.2,25637.174
+Lenovo,IdeaPad 320-15ABR,Notebook,15.6,Full HD 1920x1080,AMD,A12-Series 9720P,3.6,12,2TB HDD,AMD,Radeon 530,Windows 10,2.2,83840.74
+HP,ProBook 450,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel,Core i3 7100U,2.4,8,1TB HDD,Nvidia,GeForce 930MX,Windows 10,2.1,66774.16
+Lenovo,Yoga 920-13IKB,2 in 1 Convertible,13.9,IPS Panel 4K Ultra HD / Touchscreen 3840x2160,Intel,Core i7 8550U,1.8,16,512GB SSD,Intel,UHD Graphics 620,Windows 10,1.4,195752.74
+Dell,XPS 13,Ultrabook,13.3,Full HD 1920x1080,Intel,Core i7 8550U,1.8,8,256GB SSD,Intel,UHD Graphics 620,Windows 10,1.2,147257.54
+Lenovo,Legion Y520-15IKBN,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,16,256GB SSD +  2TB HDD,Nvidia,GeForce GTX 1050 Ti,Windows 10,2.4,105290.54
+HP,Stream 14-AX001nv,Notebook,14,1366x768,Intel,Celeron Dual Core N3060,1.6,2,32GB Flash Storage,Intel,HD Graphics 400,Windows 10,1.44,26019.54
+Dell,Latitude 5590,Ultrabook,15.6,Full HD 1920x1080,Intel,Core i7 8650U,1.9,16,512GB SSD +  256GB SSD,Intel,UHD Graphics 620,Windows 10,1.88,149958.3496
+Asus,VivoBook Flip,2 in 1 Convertible,11.6,Touchscreen 1366x768,Intel,Celeron Dual Core N3350,1.1,4,32GB Flash Storage,Intel,HD Graphics 500,Windows 10,1.5,34972.5
+Dell,Inspiron 5570,Ultrabook,15.6,Full HD 1920x1080,Intel,Core i5 8250U,1.6,8,1TB HDD,AMD,Radeon 530,Windows 10,1.9,61831.38
+Dell,XPS 15,Notebook,15.6,4K Ultra HD / Touchscreen 3840x2160,Intel,Core i7 7700HQ,2.8,16,512GB SSD,Nvidia,GeForce GTX 1050,Windows 10,2.06,189077.1892
+HP,Elitebook 850,Notebook,15.6,Full HD 1920x1080,Intel,Core i7 7500U,2.7,8,256GB SSD,Intel,HD Graphics 620,Windows 10,1.84,121611.04
+MSI,GP72MVR 7RFX,Gaming,17.3,Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,8,128GB SSD +  1TB HDD,Nvidia,GeForce GTX 1060,Windows 10,2.7,131403.34
+HP,Zbook 15,Workstation,15.6,Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,8,256GB SSD,Nvidia,Quadro M1200,Windows 10,2.6,162111.0602
+Toshiba,Tecra A50-C-21G,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel,Core i7 6500U,2.5,16,512GB SSD,Nvidia,GeForce 930M,Windows 10,2.4,130843.78
+Dell,Inspiron 5570,Notebook,15.6,Full HD 1920x1080,Intel,Core i7 8550U,1.8,8,128GB SSD +  2TB HDD,AMD,Radeon 530,Windows 10,2.02,90546.134
+Lenovo,IdeaPad 320-15IAP,Notebook,15.6,1366x768,Intel,Celeron Dual Core N3350,1.1,4,1TB HDD,Intel,HD Graphics 500,No OS,2.2,30028.7874
+Dell,Inspiron 7577,Gaming,15.6,Full HD 1920x1080,Intel,Core i5 7300HQ,2.5,8,1TB HDD,Nvidia,GeForce GTX 1050,Windows 10,2.65,93166.74
+Dell,Inspiron 3567,Notebook,15.6,Touchscreen 1366x768,Intel,Core i5 7200U,2.5,8,2TB HDD,Intel,HD Graphics 620,Windows 10,2.36,51980.3262
+Dell,Latitude 7480,Notebook,14,Full HD 1920x1080,Intel,Core i5 7300U,2.6,8,256GB SSD,Intel,HD Graphics 620,Windows 10,1.36,133082.02
+HP,250 G6,Notebook,15.6,1366x768,Intel,Core i3 6006U,2,4,500GB HDD,Intel,HD Graphics 520,Windows 10,1.86,40941.14
+Asus,Zenbook UX410UA-GV027T,Notebook,14,Full HD 1920x1080,Intel,Core i5 7200U,2.5,8,256GB SSD,Intel,HD Graphics 620,Windows 10,2,88130.7
+Lenovo,IdeaPad 320-17IKB,Notebook,17.3,1600x900,Intel,Core i5 7200U,2.5,6,128GB SSD +  1TB HDD,Nvidia,GeForce GTX 940MX,Windows 10,2.8,67053.94
+HP,250 G6,Notebook,15.6,Full HD 1920x1080,Intel,Core i5 7200U,2.5,8,1TB HDD,Intel,HD Graphics 620,Windows 10,1.86,59593.14
+Lenovo,IdeaPad 320-15ISK,Notebook,15.6,1366x768,Intel,Core i3 6006U,2,8,256GB SSD,Nvidia,GeForce 920MX,No OS,2.2,46536.74
+HP,15-AY023na (N3710/8GB/2TB/W10),Notebook,15.6,1366x768,Intel,Pentium Quad Core N3710,1.6,8,2TB HDD,Intel,HD Graphics 405,Windows 10,2.04,36278.14
+Dell,Inspiron 5770,Notebook,17.3,Full HD 1920x1080,Intel,Core i5 8250U,1.6,8,128GB SSD +  1TB HDD,AMD,Radeon 530,Windows 10,2.8,101187.1
+Lenovo,Legion Y520-15IKBN,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel,Core i5 7300HQ,2.5,8,128GB SSD +  1TB HDD,Nvidia,GeForce GTX 1050,No OS,2.4,75447.34
+Dell,Inspiron 5567,Notebook,15.6,Full HD 1920x1080,Intel,Core i7 7500U,2.7,8,256GB SSD,AMD,Radeon R7 M445,Windows 10,2.33,83840.74
+HP,Elitebook 1040,Ultrabook,14,IPS Panel Full HD 1920x1080,Intel,Core i7 7500U,2.7,8,256GB SSD,Intel,HD Graphics 620,Windows 10,1.36,163205
+Asus,ZenBook Flip,2 in 1 Convertible,15.6,Full HD / Touchscreen 1920x1080,Intel,Core i7 7500U,2.7,12,512GB SSD +  2TB HDD,Nvidia,GeForce GT 940MX,Windows 10,2.26,102492.74
+Acer,Aspire 3,Notebook,15.6,1366x768,AMD,A9-Series 9420,3,4,128GB SSD,AMD,Radeon R5,Windows 10,2.1,39728.76
+Asus,Rog Strix,Gaming,17.3,IPS Panel Full HD 1920x1080,AMD,Ryzen 1700,3,16,256GB SSD +  1TB HDD,AMD,Radeon RX 580,Windows 10,3.25,205078.74
+Lenovo,IdeaPad 110-17ACL,Notebook,17.3,1600x900,AMD,A8-Series 7410,2.2,4,128GB SSD,AMD,Radeon R5,Windows 10,2.6,45604.14
+Dell,Inspiron 5379,2 in 1 Convertible,13.3,Full HD / Touchscreen 1920x1080,Intel,Core i7 8550U,1.8,8,256GB SSD,Intel,UHD Graphics 620,Windows 10,1.62,81043.8726
+HP,15-bw003nv (A9-Series-9420/4GB/256GB/FHD/W10),Notebook,15.6,Full HD 1920x1080,AMD,A9-Series 9420,3,4,256GB SSD,AMD,Radeon R5,Windows 10,1.91,45603.2074
+Lenovo,Yoga 11e,Netbook,11.6,IPS Panel 1366x768,Intel,Celeron Quad Core N3450,1.1,4,128GB SSD,Intel,HD Graphics 500,Windows 10,1.59,51572.78
+Dell,Inspiron 3552,Notebook,15.6,1366x768,Intel,Celeron Dual Core N3060,1.6,4,500GB HDD,Intel,HD Graphics 400,Windows 10,1.8,28817.34
+Asus,VivoBook E403NA,Notebook,14,1366x768,Intel,Celeron Dual Core N3350,1.1,4,32GB Flash Storage,Intel,HD Graphics 500,Windows 10,1.5,26672.36
+Acer,Aspire 7,Notebook,15.6,Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,8,1TB HDD,Nvidia,GeForce GTX 1050,Linux,2.4,78897.96
+HP,Omen 17-w212nv,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,8,128GB SSD +  1TB HDD,Nvidia,GeForce GTX 1050,Windows 10,3.35,111072.66
+Lenovo,V310-15ISK (i3-6006U/4GB/128GB/FHD/No,Notebook,15.6,Full HD 1920x1080,Intel,Core i3 6006U,2,4,128GB SSD,Intel,HD Graphics 520,No OS,1.85,37630.41
+Asus,ROG Strix,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,8,128GB SSD +  1TB HDD,Nvidia,GeForce GTX 1060,Windows 10,2.3,154345.3
+Lenovo,IdeaPad 720S-14IKB,Notebook,14,IPS Panel Full HD 1920x1080,Intel,Core i5 7200U,2.5,8,256GB SSD,Nvidia,GeForce 940MX,Windows 10,1.5,102492.74
+Asus,Zenbook Flip,Ultrabook,13.3,Full HD / Touchscreen 1920x1080,Intel,Core i7 7500U,2.7,16,512GB SSD,Intel,HD Graphics 620,Windows 10,1.1,163102.414
+Lenovo,Thinkpad X1,Ultrabook,14,IPS Panel 2560x1440,Intel,Core i7 7500U,2.7,8,512GB SSD,Intel,HD Graphics 620,Windows 10,1.13,212819.32
+Lenovo,Ideapad 510S-13IKB,Notebook,13.3,IPS Panel Full HD 1920x1080,Intel,Core i3 7100U,2.4,4,128GB SSD,Intel,HD Graphics 620,Windows 10,1.5,51199.74
+Dell,Precision 3510,Workstation,15.6,Full HD 1920x1080,Intel,Core i5 6440HQ,2.6,8,500GB HDD,AMD,FirePro W5130M,Windows 10,2.23,127672.94
+Dell,Precision 5520,Workstation,15.6,IPS Panel Full HD 1920x1080,Intel,Core i7 6820HQ,2.7,8,256GB SSD,Nvidia,Quadro M1200,Windows 10,2,199110.1
+Lenovo,ThinkPad X1,2 in 1 Convertible,14,Touchscreen 2560x1440,Intel,Core i7 7500U,2.7,16,512GB SSD,Intel,HD Graphics 620,Windows 10,1.42,233989.34
+Asus,Rog GL753VD-GC042T,Gaming,17.3,Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,8,1TB HDD,Nvidia,GeForce GTX 1050,Windows 10,3,96897.14
+Asus,Rog GL753VE-GC070T,Gaming,17.3,Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,16,256GB SSD +  1TB HDD,Nvidia,GeForce GTX 1050 Ti,Windows 10,3,148376.66
+Acer,Aspire 5,Notebook,15.6,IPS Panel 1366x768,Intel,Core i5 8250U,1.6,12,1TB HDD,Nvidia,GeForce MX130,Windows 10,2.2,64721.5074
+MSI,Leopard GP72M,Gaming,17.3,Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,8,256GB SSD,Nvidia,GeForce GTX 1050 Ti,Windows 10,2.7,125807.74
+Dell,Inspiron 5567,Notebook,15.6,Full HD 1920x1080,Intel,Core i7 7500U,2.7,8,256GB SSD,AMD,Radeon R7 M445,Linux,2.33,72637.4162
+HP,15-BW004nv (A9-9420/4GB/256GB/Radeon,Ultrabook,15.6,Full HD 1920x1080,AMD,A9-Series 9420,3,4,256GB SSD,AMD,Radeon 520,Windows 10,1.91,46536.74
+Lenovo,ThinkPad E580,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel,Core i7 8550U,1.8,8,256GB SSD,AMD,Radeon RX 550,Windows 10,2.1,114668.7656
+Lenovo,ThinkPad L470,Notebook,14,IPS Panel Full HD 1920x1080,Intel,Core i5 7200U,2.5,8,256GB SSD,Intel,HD Graphics 620,Windows 10,1.9,87477.88
+Dell,Precision M5520,Workstation,15.6,4K Ultra HD / Touchscreen 3840x2160,Intel,Core i7 7700HQ,2.8,8,256GB SSD,Nvidia,Quadro M1200,Windows 10,1.78,252921.12
+Lenovo,Thinkpad X1,Ultrabook,14,IPS Panel 2560x1440,Intel,Core i7 7500U,2.7,16,1TB SSD,Intel,HD Graphics 620,Windows 10,1.13,244807.5
+Lenovo,IdeaPad 320-15IAP,Notebook,15.6,1366x768,Intel,Celeron Dual Core N3350,1.1,4,1TB HDD,Intel,HD Graphics 500,Windows 10,2.2,28537.56
+Asus,FX753VD-GC461T (i7-7700HQ/16GB/1TB,Gaming,17.3,Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,16,256GB SSD +  1TB HDD,Nvidia,GeForce GTX 1050,Windows 10,2.9,142594.54
+Lenovo,ThinkPad E580,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel,Core i5 8250U,1.6,8,256GB SSD +  1TB HDD,AMD,Radeon RX 550,Windows 10,2.1,106736.07
+Acer,Aspire 7,Notebook,15.6,Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,8,256GB SSD,Nvidia,GeForce GTX 1050,Linux,2.5,81975.54
+MSI,GE73VR 7RF,Gaming,17.3,Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,16,256GB SSD +  1TB HDD,Nvidia,GeForce GTX 1070,Windows 10,2.8,209741.74
+Asus,Zenbook 3,Ultrabook,14,Full HD 1920x1080,Intel,Core i7 7500U,2.7,8,512GB SSD,Intel,HD Graphics 620,Windows 10,1.1,174675.98
+Toshiba,Portege Z30-C-16P,Ultrabook,13.3,Full HD 1920x1080,Intel,Core i7 6500U,2.5,16,512GB SSD,Intel,HD Graphics 520,Windows 10,1.2,162925.22
+Dell,Latitude 7480,Ultrabook,14,Full HD 1920x1080,Intel,Core i7 7600U,2.8,8,512GB SSD,Intel,HD Graphics,Windows 10,1.36,156676.8
+Lenovo,IdeaPad 320-15ISK,Notebook,15.6,Full HD 1920x1080,Intel,Core i3 6006U,2,4,500GB HDD,Intel,HD Graphics 520,Windows 10,2.2,38143.34
+Lenovo,Lenovo IdeaPad,Notebook,11.6,1366x768,Intel,Celeron Dual Core N3350,1.1,2,32GB Flash Storage,Intel,HD Graphics 500,Windows 10,1.15,28393.007
+Lenovo,ThinkPad P51,Workstation,15.6,Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,8,512GB SSD,Nvidia,Quadro M1200,Windows 10,2.67,179525.5
+Lenovo,Thinkpad T470p,Ultrabook,14,IPS Panel Full HD 2560x1440,Intel,Core i7 7700HQ,2.8,8,512GB SSD,Nvidia,GeForce GT 940MX,Windows 10,1.7,181204.18
+HP,15-BS028nv (i3-6006U/4GB/1TB/Radeon,Notebook,15.6,Full HD 1920x1080,Intel,Core i3 6006U,2,4,1TB HDD,AMD,Radeon 520,Windows 10,2.1,43738.94
+Acer,Aspire R7,2 in 1 Convertible,13.3,IPS Panel Full HD / Touchscreen 1920x1080,Intel,Core i7 6500U,2.5,8,256GB SSD,Intel,HD Graphics 520,Windows 10,1.6,73583.0726
+Asus,ZenBook Flip,2 in 1 Convertible,13.3,IPS Panel Full HD / Touchscreen 1920x1080,Intel,Core i5 7200U,2.5,8,256GB SSD,Intel,HD Graphics 620,Windows 10,1.27,86545.28
+Dell,Inspiron 3567,Notebook,15.6,Full HD 1920x1080,Intel,Core i5 7200U,2.5,4,256GB SSD,AMD,Radeon R5 M430,Linux,2.3,55853.414
+Dell,Latitude 3380,Notebook,13.3,1366x768,Intel,Core i3 6006U,2,4,128GB SSD,Intel,HD Graphics 520,Windows 10,1.65,64256.14
+HP,EliteBook 1040,Ultrabook,14,Full HD 1920x1080,Intel,Core i7 6500U,2.5,8,256GB SSD,Intel,HD Graphics 520,Windows 10,1.43,139890
+Dell,Inspiron 3567,Notebook,15.6,1366x768,Intel,Core i5 7200U,2.5,8,1TB HDD,Intel,HD Graphics 620,Windows 10,2.14,50355.737
+Lenovo,ThinkPad E480,Ultrabook,14,IPS Panel Full HD 1920x1080,Intel,Core i7 8550U,1.8,8,256GB SSD,AMD,Radeon RX 550,Windows 10,1.75,113346.3388
+Lenovo,Yoga 720-15IKB,2 in 1 Convertible,15.6,IPS Panel 4K Ultra HD / Touchscreen 3840x2160,Intel,Core i7 7700HQ,2.8,16,512GB SSD,Nvidia,GeForce GTX 1050,Windows 10,2,177100.74
+Chuwi,LapBook 12.3,Notebook,12.3,IPS Panel Retina Display 2736x1824,Intel,Celeron Quad Core N3450,1.1,6,64GB Flash Storage,Intel,HD Graphics 500,Windows 10,1.4,41873.74
+HP,ProBook 650,Notebook,15.6,Full HD 1920x1080,Intel,Core i7 7820HQ,2.9,8,256GB SSD,Intel,HD Graphics 630,Windows 10,2.31,133082.02
+Asus,X542UQ-DM117 (i3-7100U/8GB/1TB/GeForce,Notebook,15.6,Full HD 1920x1080,Intel,Core i3 7100U,2.4,8,1TB HDD,Nvidia,GeForce 940MX,Linux,2.3,55676.22
+Dell,Alienware 17,Gaming,17.3,IPS Panel 2560x1440,Intel,Core i7 7820HK,2.9,16,256GB SSD +  1TB HDD,Nvidia,GeForce GTX 1070,Windows 10,4.42,261034.74
+Dell,Inspiron 7577,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,8,128GB SSD +  1TB HDD,Nvidia,GeForce GTX 1050 Ti,Windows 10,2.62,108088.34
+Dell,Inspiron 5570,Notebook,15.6,Full HD 1920x1080,Intel,Core i7 8550U,1.8,8,256GB SSD +  2TB HDD,AMD,Radeon 530,Windows 10,2.02,106540.224
+Dell,Latitude 5480,Ultrabook,14,Full HD 1920x1080,Intel,Core i7 7600U,2.8,8,256GB SSD,Intel,HD Graphics 620,Linux,1.6,102492.74
+HP,Omen 17-w207nv,Gaming,17.3,Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,12,256GB SSD +  1TB HDD,Nvidia,GeForce GTX 1070,Windows 10,3.35,186426.74
+Mediacom,FlexBook Edge,2 in 1 Convertible,11.6,IPS Panel Full HD / Touchscreen 1920x1080,Intel,Celeron Dual Core N3350,1.1,4,32GB SSD,Intel,HD Graphics 500,Windows 10,1.16,27884.74
+Samsung,Chromebook 3,Netbook,11.6,1366x768,Intel,Celeron Dual Core N3060,1.6,4,16GB Flash Storage,Intel,HD Graphics 400,Chrome OS,1.15,25086.94
+Lenovo,Thinkpad 13,Notebook,13.3,IPS Panel Full HD 1920x1080,Intel,Core i7 7500U,2.7,8,256GB SSD,Intel,HD Graphics 620,Windows 10,1.4,94192.6
+Lenovo,IdeaPad 320s-14IKB,Notebook,14,IPS Panel Full HD 1920x1080,Intel,Core i3 7130U,2.7,4,128GB SSD,Intel,HD Graphics 620,Windows 10,1.7,55862.74
+Lenovo,Thinkpad T570,Workstation,15.6,IPS Panel 4K Ultra HD 3840x2160,Intel,Core i7 7600U,2.8,16,512GB SSD,Nvidia,GeForce 940MX,Windows 10,2.3,228020.7
+Lenovo,Thinkpad P51,Notebook,15.6,Full HD 1920x1080,Intel,Core i7 7820HQ,2.9,16,512GB SSD,Nvidia,Quadro M2200M,Windows 10,2.5,228393.74
+Asus,Rog Strix,Gaming,17.3,Full HD 1920x1080,AMD,Ryzen 1600,3.2,8,256GB SSD +  1TB HDD,AMD,Radeon RX 580,Windows 10,3.2,158075.7
+HP,15-ra044nv (N3060/4GB/500GB/W10),Notebook,15.6,1366x768,Intel,Celeron Dual Core N3060,1.6,4,500GB HDD,Intel,HD Graphics 400,Windows 10,2.1,32361.22
+Google,Pixelbook (Core,Ultrabook,12.3,Touchscreen 2400x1600,Intel,Core i7 7Y75,1.3,16,512GB SSD,Intel,HD Graphics 615,Chrome OS,1.1,205078.74
+Lenovo,ThinkPad T470s,Ultrabook,14,2560x1440,Intel,Core i7 7500U,2.7,24,512GB SSD,Intel,HD Graphics 620,Windows 10,1.32,222145.32
+Asus,VivoBook Max,Notebook,15.6,Full HD 1920x1080,Intel,Core i5 7200U,2.5,4,256GB SSD,Intel,HD Graphics 620,Linux,2,52132.34
+Lenovo,IdeaPad 320-15AST,Notebook,17.3,1600x900,AMD,A6-Series 9220,2.5,8,1TB HDD,AMD,Radeon R4,Windows 10,2.8,48401.94
+Dell,Inspiron 5570,Notebook,15.6,Full HD 1920x1080,Intel,Core i5 8250U,1.6,4,256GB SSD,AMD,Radeon 530,Windows 10,2.2,69851.74
+Lenovo,ThinkPad X270,Ultrabook,12.5,IPS Panel Full HD 1920x1080,Intel,Core i5 7200U,2.5,8,256GB SSD,Intel,HD Graphics 620,Windows 10,1.36,133268.54
+Lenovo,IdeaPad 320-15IAP,Notebook,15.6,Full HD 1920x1080,Intel,Pentium Quad Core N4200,1.1,4,128GB SSD,Intel,HD Graphics 505,Windows 10,2.2,32547.74
+HP,Omen 15-AX205na,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,8,128GB SSD +  1TB HDD,Nvidia,GeForce GTX 1050,Windows 10,2.2,102492.74
+Dell,Latitude 5480,Notebook,14,Full HD 1920x1080,Intel,Core i5 7440HQ,2.8,8,256GB SSD,Nvidia,GeForce 930MX,Windows 10,1.64,109953.54
+Acer,Aspire ES1-572,Notebook,15.6,1366x768,Intel,Core i5 7200U,2.5,4,500GB HDD,Intel,HD Graphics 620,Linux,2.4,41202.268
+Dell,Precision 3520,Workstation,15.6,Full HD 1920x1080,Intel,Xeon E3-1505M V6,3,8,64GB Flash Storage +  1TB HDD,Nvidia,Quadro M620,Windows 10,2.23,185867.18
+MSI,GV62 7RD-1686NL,Gaming,15.6,Full HD 1920x1080,Intel,Core i5 7300HQ,2.5,8,256GB SSD,Nvidia,GeForce GTX 1050,Windows 10,2.2,95847.0324
+Microsoft,Surface Laptop,Ultrabook,13.5,Touchscreen 2256x1504,Intel,Core i7 7660U,2.5,16,512GB SSD,Intel,Iris Plus Graphics 640,Windows 10 S,1.25,241450.14
+HP,15-bs024nv (i5-7200U/8GB/128GB/W10),Notebook,15.6,1366x768,Intel,Core i5 7200U,2.5,8,128GB SSD,Intel,HD Graphics 620,Windows 10,1.91,54930.14
+Dell,Precision 3520,Workstation,15.6,IPS Panel Full HD 1920x1080,Intel,Core i7 6820HQ,2.7,16,256GB SSD,Nvidia,Quadro M620,Windows 10,2.17,184188.5
+HP,ProBook 650,Workstation,15.6,IPS Panel Full HD 1920x1080,Intel,Core i7 7820HQ,2.9,8,512GB SSD,Intel,HD Graphics 620,Windows 10,2.31,143060.84
+Lenovo,ThinkPad T470,Notebook,14,Full HD 1920x1080,Intel,Core i5 7200U,2.5,8,256GB SSD,Intel,HD Graphics 620,Windows 10,1.65,125434.7
+Dell,Inspiron 5570,Notebook,15.6,Full HD 1920x1080,Intel,Core i7 8550U,1.8,8,128GB SSD +  1TB HDD,AMD,Radeon 530,Windows 10,2.36,91301.54
+Dell,Inspiron 3168,2 in 1 Convertible,11.6,Touchscreen 1366x768,Intel,Pentium Quad Core N3710,1.6,4,500GB HDD,Intel,HD Graphics 405,Windows 10,1.47,44671.54
+Dell,Alienware 17,Notebook,17.3,IPS Panel Full HD 1920x1080,Intel,Core i7 7700HQ,2.7,8,1TB HDD,Nvidia,GeForce GTX 1060,Windows 10,4.42,190809.96
+Microsoft,Surface Laptop,Ultrabook,13.5,Touchscreen 2256x1504,Intel,Core M m3-7Y30,2.2,4,128GB SSD,Intel,HD Graphics 615,Windows 10 S,1.252,92234.14
+Microsoft,Surface Laptop,Ultrabook,13.5,Touchscreen 2256x1504,Intel,Core i7 7660U,2.5,8,256GB SSD,Intel,Iris Plus Graphics 640,Windows 10 S,1.25,167774.74
+HP,17-BS092ND (i3-6006U/8GB/256GB/W10),Notebook,17.3,1600x900,Intel,Core i3 6006U,2,8,256GB SSD,Intel,HD Graphics 520,Windows 10,2.5,59677.074
+Acer,Aspire E5-576G,Notebook,15.6,Full HD 1920x1080,Intel,Core i3 6006U,2,4,1TB HDD,Nvidia,GeForce 940MX,Windows 10,2.23,50733.44
+Acer,TravelMate B,Netbook,11.6,1366x768,Intel,Celeron Dual Core N3060,1.6,4,128GB SSD,Intel,HD Graphics 400,Windows 10,1.4,40568.1
+Asus,Pro P2540UA-AB51,Notebook,15.6,Full HD 1920x1080,Intel,Core i5 7200U,2.5,8,1TB HDD,Intel,HD Graphics 620,Windows 10,2.37,69851.74
+Lenovo,IdeaPad 510s-14IKB,Notebook,14,IPS Panel Full HD 1920x1080,Intel,Core i7 7500U,2.7,8,512GB SSD,AMD,Radeon R7 M460,No OS,1.5,74514.74
+Lenovo,Thinkpad P51,Notebook,15.6,Full HD 1920x1080,Intel,Core i7 7820HQ,2.9,8,256GB SSD,Nvidia,Quadro M2200M,Windows 10,2.67,194913.4
+Asus,X541NA-PD1003Y (N4200/4GB/500GB/W10),Notebook,15.6,1366x768,Intel,Pentium Quad Core N4200,1.1,4,500GB HDD,Intel,HD Graphics 500,Windows 10,2,28351.04
+Acer,Aspire 5,Notebook,15.6,1366x768,Intel,Core i3 6006U,2,4,500GB HDD,Nvidia,GeForce GTX 940MX,Windows 10,2.2,43738.94
+Dell,Inspiron 5570,Notebook,15.6,Full HD 1920x1080,Intel,Core i5 8250U,1.6,8,2TB HDD,AMD,Radeon 530,Windows 10,2.02,70784.34
+HP,Omen 17-an006nv,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,12,1TB HDD,Nvidia,GeForce GTX 1060,Windows 10,3.78,158448.74
+Lenovo,Thinkpad T460s,Ultrabook,14,IPS Panel Quad HD+ 2560x1440,Intel,Core i7 6600U,2.6,12,256GB SSD,Intel,HD Graphics 520,Windows 10,1.4,173277.08
+HP,Spectre x360,2 in 1 Convertible,13.3,IPS Panel 4K Ultra HD / Touchscreen 3840x2160,Intel,Core i7 8550U,1.8,8,512GB SSD,Intel,UHD Graphics 620,Windows 10,1.29,186426.74
+HP,ZBook 15u,Notebook,15.6,Full HD 1920x1080,Intel,Core i5 7200U,2.5,8,500GB HDD,AMD,FirePro W4190M,Windows 10,1.9,107622.04
+Google,Pixelbook (Core,Ultrabook,12.3,Touchscreen 2400x1600,Intel,Core i5 7Y57,1.2,8,128GB SSD,Intel,HD Graphics 615,Chrome OS,1.1,118906.5
+Dell,Latitude 7390,Ultrabook,13.3,Full HD / Touchscreen 1920x1080,Intel,Core i5 8250U,1.6,8,256GB SSD,Intel,UHD Graphics 620,Windows 10,1.42,171770.931
+Asus,ZenBook Pro,Notebook,15.6,IPS Panel 4K Ultra HD 3840x2160,Intel,Core i7 6700HQ,2.6,12,128GB SSD +  1TB HDD,Intel,HD Graphics 530,Windows 10,2.06,121144.74
+Dell,Latitude E5470,Notebook,14,1366x768,Intel,Core i3 6100U,2.3,8,128GB SSD,Intel,HD Graphics 520,Windows 10,1.79,69012.4
+Dell,Precision M5520,Workstation,15.6,Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,8,256GB SSD,Nvidia,Quadro M1200,Windows 10,1.78,224570.08
+Lenovo,Thinkpad T470,Notebook,14,Full HD 1920x1080,Intel,Core i5 7200U,2.5,8,180GB SSD,Intel,HD Graphics 620,Windows 10,1.7,127206.64
+Dell,Inspiron 3576,Notebook,15.6,Full HD 1920x1080,Intel,Core i5 8250U,1.6,8,1TB HDD,AMD,Radeon 520,Windows 10,2.2,62950.5
+Toshiba,Portege X30-D-10J,Notebook,13.3,IPS Panel Full HD 1920x1080,Intel,Core i5 7200U,2.5,8,256GB SSD,Intel,HD Graphics 620,Windows 10,1.05,155930.72
+Dell,Inspiron 7570,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel,Core i7 8550U,1.8,8,512GB SSD,Nvidia,GeForce 940MX,Windows 10,2.16,117694.12
+Dell,Vostro 3568,Notebook,15.6,1366x768,Intel,Core i3 7100U,2.4,4,1TB HDD,Intel,HD Graphics 620,Windows 10,2.18,54706.316
+HP,ProBook 430,Notebook,13.3,IPS Panel Full HD 1920x1080,Intel,Core i5 8250U,1.6,4,128GB SSD,Intel,UHD Graphics 620,Windows 10,1.49,67706.76
+Chuwi,"Lapbook 15,6",Notebook,15.6,Full HD 1920x1080,Intel,Atom x5-Z8350,1.44,4,64GB Flash Storage,Intel,HD Graphics,Windows 10,1.89,23212.414
+Lenovo,ThinkPad E570,Notebook,15.6,1366x768,Intel,Core i3 6006U,2,4,128GB SSD,Intel,HD Graphics 520,Windows 10,2.3,52691.9
+Lenovo,ThinkPad E480,Notebook,14,IPS Panel Full HD 1920x1080,Intel,Core i5 8250U,1.6,8,256GB SSD,Intel,UHD Graphics 620,Windows 10,1.75,97829.74
+Dell,Precision 3520,Workstation,15.6,IPS Panel Full HD 1920x1080,Intel,Core i7 6820HQ,2.7,16,512GB SSD,Nvidia,Quadro M620,Windows 10,2.17,218041.88
+Dell,XPS 15,Notebook,15.6,Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,16,512GB SSD,Nvidia,GeForce GTX 1050,Windows 10,2.06,177100.74
+Lenovo,Thinkpad X270,Ultrabook,12.5,IPS Panel Full HD 1920x1080,Intel,Core i7 7500U,2.7,16,512GB SSD,Intel,HD Graphics 620,Windows 10,1.36,167681.48
+Asus,Zenbook UX390UA,Ultrabook,12.5,Full HD 1920x1080,Intel,Core i7 7500U,2.7,16,512GB SSD,Intel,HD Graphics 620,Windows 10,0.91,181857
+Lenovo,Thinkpad E570,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel,Core i5 7200U,2.5,8,256GB SSD,Nvidia,GeForce 940MX,Windows 10,2.3,94378.1874
+Toshiba,Portege X30-D-10L,Ultrabook,13.3,Full HD / Touchscreen 1920x1080,Intel,Core i7 7500U,2.7,32,512GB SSD,Intel,HD Graphics 620,Windows 10,1.05,261034.74
+Asus,VivoBook Pro,Gaming,15.6,Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,8,128GB SSD +  1TB HDD,Nvidia,GeForce GTX 1050,Windows 10,1.99,125901
+Acer,Aspire 5,Notebook,15.6,1366x768,AMD,A10-Series 9620P,2.5,8,1TB HDD,AMD,Radeon RX 540,Windows 10,2.2,53997.54
+Asus,Rog G752VL-UH71T,Gaming,17.3,IPS Panel Full HD / Touchscreen 1920x1080,Intel,Core i7 6700HQ,2.6,24,256GB SSD +  1TB HDD,Nvidia,GeForce GTX 965M,Windows 10,4.33,118346.94
+Lenovo,Thinkpad X260,Ultrabook,12.5,IPS Panel 1366x768,Intel,Core i5 6200U,2.3,8,180GB SSD,Intel,HD Graphics 520,Windows 10,1.3,102492.74
+Lenovo,Ideapad 520-15IKBR,Notebook,15.6,Full HD 1920x1080,Intel,Core i7 8550U,1.8,8,256GB SSD,Intel,UHD Graphics 620,Windows 10,2.17,83831.414
+HP,EliteBook 840,Notebook,14,Full HD 1920x1080,Intel,Core i7 7600U,2.8,8,1TB SSD,Intel,HD Graphics 620,Windows 10,1.48,163111.74
+Lenovo,ThinkPad 13,Notebook,13.3,IPS Panel Full HD 1920x1080,Intel,Core i3 7100U,2.4,8,256GB SSD,Intel,HD Graphics 620,Windows 10,1.4,88503.74
+Lenovo,ThinkPad L570,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel,Core i5 7200U,2.5,8,256GB SSD,Intel,HD Graphics 620,Windows 10,2.3,84959.86
+Asus,VivoBook E201NA,Netbook,11.6,1366x768,Intel,Celeron Dual Core N3350,1.1,4,64GB Flash Storage,Intel,HD Graphics 500,Windows 10 S,1.2,31708.4
+HP,15-BS026nv (i5-7200U/8GB/256GB/Radeon,Notebook,15.6,1366x768,Intel,Core i5 7200U,2.5,8,256GB SSD,AMD,Radeon 520,Windows 10,1.91,57727.0074
+Lenovo,Yoga 920-13IKB,2 in 1 Convertible,13.9,IPS Panel Full HD / Touchscreen 1920x1080,Intel,Core i5 8250U,1.6,8,256GB SSD,Intel,UHD Graphics 620,Windows 10,1.4,149122.74
+Lenovo,IdeaPad 320-14IAP,Notebook,14,1366x768,Intel,Celeron Dual Core N3350,1.1,4,500GB HDD,Intel,HD Graphics 500,Windows 10,2.1,27884.74
+Lenovo,Chromebook N23,Netbook,11.6,1366x768,Intel,Celeron Dual Core N3060,1.6,4,16GB SSD,Intel,HD Graphics 400,Chrome OS,1.25,24713.9
+Lenovo,ThinkPad 13,Notebook,13.3,Full HD 1920x1080,Intel,Core i5 7200U,2.5,8,256GB SSD,Intel,HD Graphics 620,Windows 10,1.44,88503.74
+Asus,ZenBook UX510UX-CN211T,Notebook,15.6,Full HD 1920x1080,Intel,Core i7 7500U,2.7,8,256GB SSD +  1TB HDD,Intel,HD Graphics 620,Windows 10,2,114150.24
+Acer,Aspire A515-51G-59QF,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel,Core i5 8250U,1.6,4,1TB HDD,Nvidia,GeForce MX150,Windows 10,2.2,57168.38
+HP,Envy 13-AB002nv,Ultrabook,13.3,IPS Panel Full HD 1920x1080,Intel,Core i7 7500U,2.7,8,512GB SSD,Intel,HD Graphics 620,Windows 10,1.34,123382.98
+Lenovo,Legion Y520-15IKBN,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,8,256GB SSD +  1TB HDD,Nvidia,GeForce GTX 1060,No OS,2.4,107155.74
+Dell,XPS 13,Ultrabook,13.3,IPS Panel Full HD / Touchscreen 1920x1080,Intel,Core i5 7200U,2.5,8,128GB SSD,Intel,HD Graphics 620,Windows 10,1.29,83840.74
+Acer,Aspire A515-51G,Notebook,15.6,Full HD 1920x1080,Intel,Core i7 7500U,2.7,4,500GB HDD,Nvidia,GeForce 940MX,Windows 10,2.2,59593.14
+Dell,Vostro 5568,Notebook,15.6,Full HD 1920x1080,Intel,Core i5 7200U,2.5,8,1TB HDD,Intel,HD Graphics 620,Windows 10,2.18,77965.36
+Dell,Inspiron 5570,Notebook,15.6,Full HD 1920x1080,Intel,Core i7 8550U,1.8,16,256GB SSD +  2TB HDD,AMD,Radeon 530,Windows 10,2.2,113706.3224
+Xiaomi,Mi Notebook,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel,Core i7 8550U,1.8,16,256GB SSD,Nvidia,GeForce MX150,No OS,1.95,130559.337
+Asus,VivoBook E12,Netbook,11.6,1366x768,Intel,Celeron Dual Core N3350,1.1,2,32GB Flash Storage,Intel,HD Graphics 500,Windows 10,1.1,22848.7
+HP,15-bs190od (i5-8250U/4GB/1TB/W10),Notebook,15.6,Touchscreen 1366x768,Intel,Core i5 8250U,1.6,4,1TB HDD,Intel,UHD Graphics 620,Windows 10,2.04,48632.2922
+Asus,ROG Zephyrus,Gaming,15.6,Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,24,512GB SSD,Nvidia,GeForce GTX1080,Windows 10,2.24,276795.68
+HP,Probook 450,Notebook,15.6,Full HD 1920x1080,Intel,Core i5 7200U,2.5,8,256GB SSD,Nvidia,GeForce 930MX,Windows 10,2.04,82908.14
+Asus,FX753VE-GC155T (i7-7700HQ/16GB/1TB,Gaming,17.3,Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,16,256GB SSD +  1TB HDD,Nvidia,GeForce GTX1050 Ti,Windows 10,3,140263.04
+Lenovo,Legion Y720-15IKB,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,8,256GB SSD +  1TB HDD,Nvidia,GeForce GTX 1060,Windows 10,3.2,130470.74
+HP,Spectre X360,Ultrabook,13.3,IPS Panel Full HD 1920x1080,Intel,Core i7 7500U,2.7,8,256GB SSD,Intel,HD Graphics 620,Windows 10,1.32,130470.74
+Dell,Latitude 5480,Notebook,14,Full HD 1920x1080,Intel,Core i5 7300U,2.6,8,256GB SSD,Intel,HD Graphics 620,Windows 10,1.64,119347.6198
+HP,ProBook 440,Notebook,15.6,1366x768,Intel,Core i3 6006U,2,4,128GB SSD,Intel,HD Graphics 520,Windows 10,1.63,64256.14
+Dell,Inspiron 5770,Notebook,17.3,IPS Panel Full HD 1920x1080,Intel,Core i5 8250U,1.6,8,128GB SSD +  1TB HDD,AMD,Radeon 530,Linux,2.8,82908.14
+Lenovo,ThinkPad L470,Notebook,14,Full HD 1920x1080,Intel,Core i5 6200U,2.3,8,256GB SSD,Intel,HD Graphics 520,Windows 7,2.02,124968.4
+Lenovo,IdeaPad 320-15IKB,Notebook,15.6,Full HD 1920x1080,Intel,Core i7 7500U,2.7,4,1TB HDD,Nvidia,GeForce 920MX,Windows 10,2.2,74514.74
+Lenovo,IdeaPad 320-15ISK,Notebook,15.6,1366x768,Intel,Core i3 6006U,2,8,2TB HDD,Nvidia,GeForce 920MX,No OS,2.2,42806.34
+Dell,Inspiron 3567,Notebook,15.6,Full HD 1920x1080,Intel,Core i5 7200U,2.5,4,500GB HDD,AMD,Radeon R5 M430,Windows 10,2.3,54557.1
+Dell,Latitude 5580,Notebook,15.6,Full HD 1920x1080,Intel,Core i5 7440HQ,2.8,8,256GB SSD,Intel,HD Graphics 620,Windows 10,1.9,128419.02
+Dell,Alienware 17,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,16,128GB SSD +  1TB HDD,Nvidia,GeForce GTX 1070,Windows 10,4.42,280970.9302
+Toshiba,Satellite Pro,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel,Core i5 7200U,2.5,8,500GB HDD,Intel,HD Graphics 620,Windows 10,2,80203.6
+Asus,Zenbook UX510UW-FI095T,Notebook,15.6,IPS Panel 4K Ultra HD 3840x2160,Intel,Core i7 7500U,2.7,8,256GB SSD +  1TB HDD,Nvidia,GeForce GTX 960M,Windows 10,2,121144.74
+Mediacom,SmartBook Edge,Notebook,13.3,IPS Panel Full HD 1920x1080,Intel,Celeron Quad Core N3450,1.1,4,32GB SSD,Intel,HD Graphics 500,Windows 10,1.2,34412.94
+Asus,ROG Strix,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel,Core i5 7300HQ,2.5,8,128GB SSD +  1TB HDD,Nvidia,GeForce GTX 1060,Windows 10,2.3,153785.74
+Dell,Latitude 5580,Notebook,15.6,Full HD 1920x1080,Intel,Core i7 7600U,2.8,8,256GB SSD,Nvidia,GeForce 930MX,Windows 10,1.93,127672.94
+Dell,Inspiron 5570,Notebook,15.6,Full HD 1920x1080,Intel,Core i5 8250U,1.6,8,256GB SSD,AMD,Radeon 530,Windows 10,2.2,74366.4566
+HP,250 G6,Notebook,15.6,Full HD 1920x1080,Intel,Pentium Quad Core N3710,1.6,4,256GB SSD,Intel,HD Graphics 405,Windows 10,1.86,37209.8074
+HP,Omen 15-ce006nv,Gaming,17.3,Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,12,1TB HDD,Nvidia,GeForce GTX 1060,Windows 10,2.62,167774.74
+Lenovo,Thinkpad E470,Notebook,14,IPS Panel Full HD 1920x1080,Intel,Core i7 7500U,2.7,8,256GB SSD,Nvidia,GeForce 940MX,Windows 10,1.87,80110.34
+Dell,XPS 13,Ultrabook,13.3,Quad HD+ / Touchscreen 3200x1800,Intel,Core i7 8550U,1.8,8,256GB SSD,Intel,UHD Graphics 620,Windows 10,1.2,130470.74
+Dell,Vostro 5468,Notebook,14,Full HD 1920x1080,Intel,Core i3 6006U,2,4,128GB SSD,Intel,HD Graphics 520,Windows 10,1.6,68627.2362
+HP,Envy 13-AB020nr,Ultrabook,13.3,IPS Panel Quad HD+ 3200x1800,Intel,Core i7 7500U,2.7,8,256GB SSD,Intel,HD Graphics 620,Windows 10,1.34,106782.7
+Acer,Aspire 7,Gaming,15.6,Full HD 1920x1080,Intel,Core i5 7300HQ,2.5,8,1TB HDD,Nvidia,GeForce GTX 1050,Linux,2.4,74421.48
+Asus,VivoBook X540YA-XX519T,Notebook,15.6,1366x768,AMD,E-Series 7110,1.8,4,500GB HDD,AMD,Radeon R2 Graphics,Windows 10,2,32547.74
+HP,ProBook 450,Notebook,15.6,Full HD 1920x1080,Intel,Core i3 7100U,2.4,4,128GB SSD,Intel,HD Graphics 620,Windows 10,2.1,65794.93
+Lenovo,ThinkPad E470,Notebook,14,Full HD 1920x1080,Intel,Core i5 7200U,2.5,4,500GB HDD,Intel,HD Graphics 620,Windows 10,1.87,73209.1
+Lenovo,V310-15ISK (i5-6200U/4GB/1TB/FHD/No,Notebook,15.6,Full HD 1920x1080,Intel,Core i5 6200U,2.3,4,1TB HDD,Intel,HD Graphics 520,No OS,2.15,43118.761
+HP,250 G6,Notebook,15.6,Full HD 1920x1080,Intel,Core i3 6006U,2,4,500GB HDD,Intel,HD Graphics 520,Windows 10,1.86,37024.22
+Lenovo,ThinkPad T570,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel,Core i7 7500U,2.7,8,512GB SSD,Intel,HD Graphics 620,Windows 10,1.99,161246.54
+Lenovo,IdeaPad 320-15ISK,Notebook,15.6,Full HD 1920x1080,Intel,Core i3 6006U,2,4,128GB SSD,Intel,HD Graphics 520,Windows 10,2.2,46536.74
+Dell,Latitude 5580,Notebook,15.6,Full HD 1920x1080,Intel,Core i5 7200U,2.5,8,256GB SSD,Intel,HD Graphics 620,Windows 10,1.9,104170.4874
+Dell,Alienware 17,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,16,256GB SSD +  1TB HDD,Nvidia,GeForce GTX 1070,Windows 10,4.42,251708.74
+HP,17-X047na (i3-6006U/8GB/1TB/W10),Notebook,17.3,1600x900,Intel,Core i3 6006U,2,8,1TB HDD,Intel,HD Graphics 520,Windows 10,2.65,50747.429
+HP,ProBook 470,Notebook,17.3,Full HD 1920x1080,Intel,Core i7 7500U,2.7,8,1TB HDD,Nvidia,GeForce 930MX,Windows 10,2.63,119372.8
+Asus,A541NA-GO342 (N3350/4GB/500GB/Linux),Notebook,15.6,1366x768,Intel,Celeron Dual Core N3350,1.1,4,500GB HDD,Intel,HD Graphics 500,Linux,2,20890.24
+Mediacom,SmartBook 130,Notebook,13.3,IPS Panel Full HD 1920x1080,Intel,Atom x5-Z8350,1.44,4,32GB Flash Storage,Intel,HD Graphics,Windows 10,1.35,23781.3
+Lenovo,IdeaPad 320-17IKB,Notebook,17.3,1600x900,Intel,Core i7 7500U,2.7,6,128GB SSD +  1TB HDD,Nvidia,GeForce 940MX,Windows 10,2.8,88503.74
+HP,15-bw007nv (A10-9620P/6GB/128GB/Radeon,Notebook,15.6,IPS Panel Full HD 1920x1080,AMD,A10-Series A10-9620P,2.5,6,128GB SSD,AMD,Radeon 530,Windows 10,1.91,53055.614
+Dell,Vostro 3568,Notebook,15.6,1366x768,Intel,Core i3 6006U,2,4,1TB HDD,AMD,Radeon R5 M420,Windows 10,2.18,57625.354
+Acer,Spin SP111-31,2 in 1 Convertible,11.6,IPS Panel Full HD / Touchscreen 1920x1080,Intel,Celeron Dual Core N3350,2,4,32GB Flash Storage,Intel,HD Graphics 500,Windows 10,1.25,32547.74
+Lenovo,V330-15IKB (i3-7130U/4GB/128GB/FHD/W10),Notebook,15.6,Full HD 1920x1080,Intel,Core i3 7130U,2.7,4,128GB SSD,Intel,HD Graphics 620,Windows 10,2.05,58753.8
+HP,EliteBook 1030,Ultrabook,13.3,IPS Panel Quad HD+ / Touchscreen 3200x1800,Intel,Core M 6Y75,1.2,16,512GB SSD,Intel,HD Graphics 515,Windows 10,1.16,183255.9
+Lenovo,Thinkpad P71,Notebook,17.3,IPS Panel Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,8,256GB SSD,Nvidia,Quadro M620M,Windows 10,3.4,279686.74
+Asus,FX553VD-DM627T (i5-7300HQ/8GB/1TB,Notebook,15.6,Full HD 1920x1080,Intel,Core i5 7300HQ,2.5,8,128GB SSD +  1TB HDD,Nvidia,GeForce GTX 1050,Windows 10,2.5,78245.14
+Dell,XPS 13,Ultrabook,13.3,IPS Panel 4K Ultra HD / Touchscreen 3840x2160,Intel,Core i5 8250U,1.6,8,128GB SSD,Intel,UHD Graphics 620,Windows 10,1.21,149122.74
+Dell,Latitude 5580,Notebook,15.6,1366x768,Intel,Core i5 7300U,2.6,4,500GB HDD,Intel,HD Graphics 620,Windows 10,1.93,89436.34
+Fujitsu,Lifebook A557,Notebook,15.6,1366x768,Intel,Core i5 7200U,2.5,8,1TB HDD,Intel,HD Graphics 620,Windows 10,2.2,68919.14
+Lenovo,IdeaPad 320-15IAP,Notebook,15.6,Full HD 1920x1080,Intel,Pentium Quad Core N4200,1.1,4,500GB HDD,Intel,HD Graphics 505,Windows 10,2.2,32081.44
+Lenovo,ThinkPad L470,Notebook,14,1366x768,Intel,Core i5 7200U,2.5,4,500GB HDD,Intel,HD Graphics 620,Windows 10,2.02,92327.4
+HP,ZBook 17,Workstation,17.3,1600x900,Intel,Core i5 7440HQ,2.8,8,500GB HDD,Nvidia,Quadro M1200,Windows 10,3.14,173555.9274
+HP,14-am079na (N3710/8GB/2TB/W10),Notebook,14,1366x768,Intel,Pentium Quad Core N3710,1.6,8,2TB HDD,Intel,HD Graphics 405,Windows 10,1.94,36278.14
+HP,15-cd005nv (A9-9420/6GB/256GB/Radeon,Notebook,15.6,IPS Panel Full HD 1920x1080,AMD,A9-Series A9-9420,3,6,256GB SSD,AMD,Radeon 530,Windows 10,1.95,60525.74
+Lenovo,Thinkpad E570,Notebook,15.6,Full HD 1920x1080,Intel,Core i5 7200U,2.5,8,256GB SSD,Intel,HD Graphics 620,Windows 10,2.3,77405.8
+Lenovo,V330-15IKB (i5-8250U/4GB/500GB/FHD/W10),Notebook,15.6,Full HD 1920x1080,Intel,Core i5 8250U,1.6,4,500GB HDD,Intel,HD Graphics 620,Windows 10,2.05,63883.1
+Mediacom,SmartBook 141,Notebook,14,Full HD 1920x1080,Intel,Atom x5-Z8350,1.44,4,32GB SSD,Intel,HD Graphics,Windows 10,1.4,23221.74
+Toshiba,Tecra X40-D-10H,Ultrabook,14,Full HD / Touchscreen 1920x1080,Intel,Core i7 7500U,2.7,16,512GB SSD,Intel,HD Graphics 620,Windows 10,1.24,173929.9
+Lenovo,IdeaPad Y910-17ISK,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel,Core i7 6820HK,2.7,32,256GB SSD +  1TB HDD,Nvidia,GeForce GTX 1070,Windows 10,4.6,248351.38
+MSI,GT73VR Titan,Gaming,17.3,Full HD 1920x1080,Intel,Core i7 7820HK,2.9,16,512GB SSD +  1TB HDD,Nvidia,GeForce GTX 1070,Windows 10,4.14,254506.54
+Dell,Inspiron 3567,Notebook,15.6,Full HD 1920x1080,Intel,Core i7 7500U,2.7,8,256GB SSD,AMD,Radeon R5 M430,Linux,2.2,69852.6726
+Mediacom,SmartBook Edge,Notebook,14,IPS Panel Full HD 1920x1080,Intel,Celeron Quad Core N3450,1.1,4,32GB SSD,Intel,HD Graphics 500,Windows 10,1.45,36278.14
+Dell,Latitude 5580,Notebook,15.6,1366x768,Intel,Core i5 7300U,2.6,8,500GB HDD,Intel,HD Graphics 620,Windows 10,1.9,94054.5752
+HP,ProBook 430,Notebook,13.3,Full HD 1920x1080,Intel,Core i3 7100U,2.4,4,128GB SSD,Intel,HD Graphics 620,Windows 10,1.49,67053.94
+Dell,Latitude 5580,Notebook,15.6,Full HD 1920x1080,Intel,Core i7 7600U,2.8,16,256GB SSD,Nvidia,GeForce 930MX,Windows 10,1.93,143376.9914
+Dell,Chromebook 11,Netbook,11.6,1366x768,Intel,Celeron Dual Core N3060,1.6,4,16GB Flash Storage,Intel,HD Graphics 400,Chrome OS,1.26,27511.7
+MSI,GT80S 6QE,Gaming,17.3,Full HD 1920x1080,Intel,Core i7 6820HK,2.7,16,128GB SSD +  1TB HDD,Nvidia,GeForce GTX 980M,Windows 10,4.5,219067.74
+HP,Omen 17-AN010nv,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,16,256GB SSD +  1TB HDD,Nvidia,GeForce GTX 1050,Windows 10,3.78,139703.48
+Lenovo,Thinkpad T460s,Ultrabook,14,IPS Panel Full HD 1920x1080,Intel,Core i7 6600U,2.6,12,256GB SSD,Intel,HD Graphics 520,Windows 10,1.4,156023.98
+Lenovo,Ideapad 320-15IKBR,Notebook,15.6,Touchscreen 1366x768,Intel,Core i7 8550U,1.8,12,1TB HDD,Intel,HD Graphics 620,Windows 10,2.2,56795.34
+Asus,ROG Strix,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel,Core i5 7300HQ,2.5,8,128GB SSD +  1TB HDD,Nvidia,GeForce GTX 1060,Windows 10,2.73,165070.2
+Asus,TP501UA-CJ131T (i5-7200U/8GB/1TB/W10),2 in 1 Convertible,15.6,Touchscreen 1366x768,Intel,Core i5 7200U,2.5,8,1TB HDD,Intel,HD Graphics 520,Windows 10,2.2,68919.14
+Lenovo,IdeaPad 320-15ABR,Notebook,15.6,Full HD 1920x1080,AMD,A12-Series 9720P,3.6,12,512GB SSD,AMD,Radeon 530,Windows 10,2.2,88503.74
+Dell,Inspiron 3179,2 in 1 Convertible,11.6,Touchscreen 1366x768,Intel,Core M 7Y30,1,4,128GB SSD,Intel,HD Graphics 615,Windows 10,1.39,56235.78
+Samsung,Notebook Odyssey,Notebook,15.6,Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,16,128GB SSD +  1TB HDD,Nvidia,GeForce GTX 1050,Windows 10,2.5,158448.74
+Lenovo,V320-17ISK (i3-6006U/4GB/500GB/FHD/No,Notebook,17.3,Full HD 1920x1080,Intel,Core i3 6006U,2,4,500GB HDD,Intel,HD Graphics 520,No OS,2.8,49334.54
+Lenovo,IdeaPad 110-15ISK,Notebook,15.6,1366x768,Intel,Core i3 6100U,2.3,8,1TB HDD,Intel,HD Graphics 520,Windows 10,2.29,42806.34
+Lenovo,ThinkPad Yoga,2 in 1 Convertible,13.3,IPS Panel Full HD / Touchscreen 1920x1080,Intel,Core i7 7500U,2.7,8,512GB SSD,Intel,HD Graphics 620,Windows 10,1.37,188851.5
+Lenovo,Thinkpad T470p,Notebook,14,IPS Panel Full HD 1920x1080,Intel,Core i5 7300HQ,2.5,8,256GB SSD,Intel,HD Graphics 630,Windows 10,1.7,137465.24
+Dell,Latitude 5289,2 in 1 Convertible,12.5,Full HD / Touchscreen 1920x1080,Intel,Core i5 7200U,2.5,8,256GB SSD,Intel,HD Graphics 620,Windows 10,1.34,155744.2
+Dell,Precision 3520,Workstation,15.6,Full HD / Touchscreen 1920x1080,Intel,Core i7 7700HQ,2.8,8,256GB SSD,Nvidia,Quadro M620,Windows 10,2.06,164417.38
+HP,EliteBook 850,Notebook,15.6,Full HD 1920x1080,Intel,Core i7 7500U,2.7,8,256GB SSD,Intel,HD Graphics 620,Windows 10,1.84,113683.94
+HP,ProBook 450,Notebook,15.6,1366x768,Intel,Core i3 7100U,2.4,4,500GB HDD,Intel,HD Graphics 620,Windows 10,2.1,62342.4448
+Acer,Aspire 1,Notebook,14,Full HD 1920x1080,Intel,Celeron Quad Core N3450,1.1,4,32GB Flash Storage,Intel,HD Graphics 500,Windows 10,1.6,30682.54
+MSI,Laptop MSI,Gaming,17.3,Full HD 1920x1080,Intel,Core i7 6820HK,2.7,16,128GB SSD +  1TB HDD,Nvidia,GeForce GTX 970M,Windows 10,4.14,205078.74
+Dell,Vostro 3568,Notebook,15.6,1366x768,Intel,Core i3 6006U,2,4,1TB HDD,AMD,Radeon R5 M420,Linux,2.18,43365.9
+MSI,GS63VR 7RF,Gaming,15.6,4K Ultra HD 3840x2160,Intel,Core i7 7700HQ,2.8,16,256GB SSD +  2TB HDD,Nvidia,GeForce GTX 1060,Windows 10,1.8,214404.74
+Toshiba,Tecra Z50-C-144,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel,Core i7 6500U,2.5,8,256GB SSD,Intel,HD Graphics 520,Windows 10,2.2,130470.74
+Lenovo,IdeaPad 310-15IKB,Notebook,15.6,Full HD 1920x1080,Intel,Core i5 7200U,2.5,6,1TB HDD,Intel,HD Graphics 620,Windows 10,2.4,52598.64
+Lenovo,Yoga 720-15IKB,2 in 1 Convertible,15.6,IPS Panel Full HD / Touchscreen 1920x1080,Intel,Core i7 7700HQ,2.8,8,256GB SSD,Intel,HD Graphics 630,Windows 10,2,121144.74
+Acer,Swift SF114-31-P5HY,Notebook,14,1366x768,Intel,Pentium Quad Core N3710,1.6,4,128GB Flash Storage,Intel,HD Graphics 405,Windows 10,1.6,32547.74
+Lenovo,Thinkpad P51,Notebook,15.6,IPS Panel 4K Ultra HD 3840x2160,Intel,Xeon E3-1535M v6,3.1,32,1TB SSD,Nvidia,Quadro M2200M,Windows 10,2.5,456880.74
+Dell,Inspiron 7559,Gaming,15.6,Full HD 1920x1080,Intel,Core i7 6700HQ,2.6,16,1TB HDD,Nvidia,GeForce GTX 960<U+039C>,Windows 10,2.59,81976.4726
+Dell,Vostro 3568,Notebook,15.6,1366x768,Intel,Core i3 6006U,2,4,1TB HDD,Intel,HD Graphics 520,Linux,2.18,41398.114
+Dell,Inspiron 3567,Notebook,15.6,1366x768,Intel,Core i3 6006U,2,4,1TB HDD,Intel,HD Graphics 520,Linux,2.25,33480.34
+Dell,Latitude 5580,Notebook,15.6,1366x768,Intel,Core i5 7300U,2.6,4,500GB HDD,Intel,HD Graphics 620,Linux,1.93,81042.94
+Asus,FX753VD-GC007T (i7-7700HQ/8GB/1TB,Gaming,17.3,Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,8,128GB SSD +  1TB HDD,Nvidia,GeForce GTX 1050,Windows 10,3,108927.68
+Dell,Vostro 3568,Notebook,15.6,Full HD 1920x1080,Intel,Core i5 7200U,2.5,4,128GB SSD,AMD,Radeon R5 M420,Linux,2.18,53064.94
+HP,EliteBook 850,Ultrabook,15.6,Full HD 1920x1080,Intel,Core i7 7500U,2.7,8,512GB SSD,Intel,HD Graphics 620,Windows 10,1.84,129538.14
+MSI,GT62VR 7RE,Gaming,15.6,Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,16,256GB SSD +  1TB HDD,Nvidia,GeForce GTX 1070,Windows 10,2.94,211500.6236
+Acer,CB5-132T-C9KK (N3160/4GB/32GB/Chrome,2 in 1 Convertible,11.6,IPS Panel Touchscreen 1366x768,Intel,Celeron Quad Core N3160,1.6,4,32GB Flash Storage,Intel,HD Graphics 400,Chrome OS,1.25,35345.54
+HP,ProBook 650,Notebook,14,1366x768,Intel,Core i5 7300U,2.6,8,256GB SSD,Intel,HD Graphics 620,Windows 10,2.31,104824.24
+Lenovo,ThinkPad T470,Notebook,14,Full HD 1920x1080,Intel,Core i5 6200U,2.3,8,256GB SSD,Intel,HD Graphics 520,Windows 7,1.65,136625.9
+Dell,Inspiron 5570,Notebook,15.6,Full HD 1920x1080,Intel,Core i5 8250U,1.6,4,1TB HDD,AMD,Radeon 530,Windows 10,2.2,72369.76
+Fujitsu,LifeBook A557,Notebook,15.6,1366x768,Intel,Core i5 7200U,2.5,8,256GB SSD,Intel,HD Graphics 620,Windows 10,2.2,74514.74
+HP,EliteBook 850,Notebook,15.6,1366x768,Intel,Core i5 6200U,2.3,4,500GB HDD,Intel,HD Graphics 520,Windows 7,1.88,86918.32
+Lenovo,IdeaPad 320-15IKB,Notebook,15.6,Full HD 1920x1080,Intel,Core i7 7500U,2.7,8,1TB HDD,Nvidia,GeForce 920MX,Windows 10,2.2,83840.74
+Mediacom,SmartBook 140,Notebook,14,Full HD 1920x1080,Intel,Atom x5-Z8350,1.44,2,32GB Flash Storage,Intel,HD Graphics,Windows 10,1.4,22289.14
+Lenovo,IdeaPad 320-15IKBN,Notebook,15.6,Full HD 1920x1080,Intel,Core i5 7200U,2.5,4,128GB SSD,Intel,HD Graphics 620,No OS,2.2,43645.68
+Asus,Q304UA-BHI5T11 (i5-7200U/6GB/1TB/FHD/W10),2 in 1 Convertible,13.3,Full HD / Touchscreen 1920x1080,Intel,Core i5 7200U,2.5,6,1TB HDD,Intel,HD Graphics 620,Windows 10,1.5,59594.0726
+Dell,XPS 15,Notebook,15.6,Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,8,256GB SSD,Nvidia,GeForce GTX 1050,Windows 10,2,169733.2
+Asus,ZenBook 3,Ultrabook,14,Full HD 1920x1080,Intel,Core i7 7500U,2.7,16,512GB SSD,Intel,HD Graphics 620,Windows 10,1.1,177194
+Dell,Inspiron 7567,Gaming,15.6,Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,16,256GB SSD +  1TB HDD,Nvidia,GeForce GTX 1050 Ti,Windows 10,2.62,137931.54
+Lenovo,V330-15IKB (i5-8250U/4GB/256GB/FHD/W10),Notebook,15.6,Full HD 1920x1080,Intel,Core i5 8250U,1.6,4,256GB SSD,Intel,UHD Graphics 620,Windows 10,1.8,77312.54
+Lenovo,Ideapad 320-15ISK,Notebook,15.6,Full HD 1920x1080,Intel,Core i3 6006U,2,4,1TB HDD,Nvidia,GeForce 920MX,Windows 10,2.2,53997.54
+Asus,X541NA-GO414T (N3350/8GB/1TB/W10),Notebook,15.6,1366x768,Intel,Celeron Dual Core N3350,1.1,8,1TB HDD,Intel,HD Graphics 500,Windows 10,2,37210.74
+Asus,VivoBook Pro,Notebook,15.6,Full HD 1920x1080,Intel,Core i5 7300HQ,2.5,8,1TB HDD,Nvidia,GeForce GTX 1050,Windows 10,1.99,84551.3812
+Dell,XPS 13,Ultrabook,13.3,Quad HD+ / Touchscreen 3200x1800,Intel,Core i5 8250U,1.6,8,256GB SSD,Intel,UHD Graphics 620,Windows 10,1.23,174302.94
+Lenovo,IdeaPad 100S-14IBR,Notebook,14,1366x768,Intel,Celeron Dual Core N3060,1.6,2,32GB Flash Storage,Intel,HD Graphics 400,Windows 10,1.42,23221.74
+Lenovo,Thinkpad Yoga,2 in 1 Convertible,13.3,IPS Panel Full HD / Touchscreen 1920x1080,Intel,Core i7 7500U,2.7,8,256GB SSD,Intel,HD Graphics 620,Windows 10,1.37,163896.9892
+Dell,XPS 15,Notebook,15.6,4K Ultra HD / Touchscreen 3840x2160,Intel,Core i7 7700HQ,2.8,16,1TB SSD,Nvidia,GeForce GTX 1050,Windows 10,2.06,223730.74
+Lenovo,Legion Y520-15IKBN,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,8,128GB SSD +  1TB HDD,Nvidia,GeForce GTX 1050M,Windows 10,2.5,103425.34
+HP,17-AK091ND (A9-9420/8GB/1TB/W10),Notebook,17,1600x900,AMD,A9-Series 9420,3,8,1TB HDD,AMD,Radeon R5,Windows 10,2.6,48579.134
+Lenovo,ThinkPad X1,Ultrabook,14,IPS Panel Full HD 1920x1080,Intel,Core i7 7500U,2.7,16,512GB SSD,Intel,HD Graphics 620,Windows 10,1.14,228487
+Asus,ROG GL553VE-FY022,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,8,1TB HDD,Nvidia,GeForce GTX 1050 Ti,No OS,2.5,109020.94
+Acer,Extensa EX2540,Notebook,15.6,1366x768,Intel,Core i3 6006U,2,4,500GB HDD,Intel,HD Graphics 520,Windows 10,2.4,41967
+Lenovo,IdeaPad 100S-14IBR,Notebook,14,1366x768,Intel,Celeron Dual Core N3060,1.6,4,32GB Flash Storage,Intel,HD Graphics,Windows 10,1.43,25553.24
+Acer,Swift 3,Ultrabook,14,IPS Panel Full HD 1920x1080,Intel,Core i5 7200U,2.5,8,256GB SSD,Intel,Graphics 620,Windows 10,1.8,85705.94
+Razer,Blade Pro,Gaming,14,Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,16,256GB SSD,Nvidia,GeForce GTX 1060,Windows 10,1.95,242382.74
+Toshiba,Portege Z30-C-16J,Notebook,13.3,Full HD 1920x1080,Intel,Core i5 6200U,2.3,8,256GB SSD,Intel,HD Graphics 520,Windows 10,1.2,113124.38
+Lenovo,Thinkpad X270,Ultrabook,12.5,IPS Panel Full HD 1920x1080,Intel,Core i7 7500U,2.7,8,256GB SSD,Intel,HD Graphics 620,Windows 10,1.36,147723.84
+Asus,ROG G701VI,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel,Core i7 6820HK,2.7,32,512GB SSD,Nvidia,GeForce GTX 1080,Windows 10,3.8,261034.74
+Acer,A715-71G-59DH (i5-7300HQ/8GB/1TB/GeForce,Gaming,15.6,Full HD 1920x1080,Intel,Core i5 7300HQ,2.5,8,1TB HDD,Nvidia,GeForce GTX 1050,Linux,2.4,66121.34
+Dell,XPS 13,Ultrabook,13.3,Full HD 1920x1080,Intel,Core i5 8250U,1.6,8,256GB SSD,Intel,UHD Graphics 620,Windows 10,1.2,135217.674
+MSI,GL62M 7REX,Gaming,15.6,Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,8,128GB SSD +  1TB HDD,Nvidia,GeForce GTX 1050 Ti,Windows 10,2.2,111147.268
+HP,250 G6,Notebook,15.6,1366x768,Intel,Core i3 6006U,2,4,500GB HDD,Intel,HD Graphics 520,No OS,1.86,34030.574
+Toshiba,Tecra A50-D-11M,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel,Core i5 7200U,2.5,8,500GB HDD,Intel,HD Graphics 620,Windows 10,2,99228.64
+Dell,Inspiron 5570,Notebook,15.6,Full HD 1920x1080,Intel,Core i7 8550U,1.8,8,256GB SSD,AMD,Radeon 530,Windows 10,2.2,85705.94
+Dell,Inspiron 5570,Notebook,15.6,Full HD 1920x1080,Intel,Core i7 8550U,1.8,16,256GB SSD +  2TB HDD,AMD,Radeon 530,Windows 10,2.2,105850.1
+Lenovo,IdeaPad Y700-15ISK,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel,Core i7 6700HQ,2.6,8,128GB SSD +  1TB HDD,Nvidia,GeForce GTX 960,Windows 10,3.31,111538.96
+Dell,Alienware 17,Gaming,17.3,IPS Panel 4K Ultra HD 3840x2160,Intel,Core i7 7700HQ,2.8,32,512GB SSD +  1TB HDD,Nvidia,GeForce GTX 1070,Windows 10,4.42,293523.7262
+Dell,Latitude E7470,Notebook,14,Full HD 1920x1080,Intel,Core i5 6300U,2.4,8,256GB SSD,Intel,HD Graphics 520,Windows 10,1.56,114616.54
+Lenovo,Ideapad 320-15IAP,Notebook,15.6,1366x768,Intel,Celeron Dual Core N3350,1.1,4,500GB HDD,Intel,HD Graphics 500,Windows 10,2.2,39075.94
+Lenovo,IdeaPad 320-15ISK,Notebook,15.6,Full HD 1920x1080,Intel,Core i5 6200U,2.3,4,500GB HDD,Intel,HD Graphics 520,Windows 10,2.2,49894.1
+HP,15-ay047nv (i3-6006U/6GB/1TB/Radeon,Notebook,15.6,1920x1080,Intel,Core i3 6006U,2,6,1TB HDD,AMD,Radeon R5 M430,Windows 10,2.04,50267.14
+MSI,GP72VR Leopard,Gaming,17.3,Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,8,128GB SSD +  1TB HDD,Nvidia,GeForce GTX 1060,Windows 10,2.7,138656.1702
+Toshiba,Satellite Pro,Notebook,15.6,1366x768,Intel,Core i3 6100U,2.1,4,128GB SSD,Intel,HD Graphics 520,Windows 10,2.1,46443.48
+Dell,Latitude 3580,Notebook,15.6,Full HD 1920x1080,Intel,Core i5 7200U,2.5,8,1TB HDD,Intel,HD Graphics 620,Windows 10,2.06,89063.3
+HP,15-bs012nv (i7-7500U/8GB/1TB/Radeon,Notebook,15.6,Full HD 1920x1080,Intel,Core i7 7500U,2.7,8,1TB HDD,AMD,Radeon 530,Windows 10,2.1,69478.7
+Toshiba,Tecra Z50-D-10E,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel,Core i5 7200U,2.5,8,256GB SSD,Intel,HD Graphics 620,Windows 10,2,117321.08
+Acer,Aspire 3,Notebook,15.6,1366x768,Intel,Core i3 6006U,2,4,128GB SSD,Intel,HD Graphics 520,Linux,2.1,38423.12
+Microsoft,Surface Laptop,Ultrabook,13.5,Touchscreen 2256x1504,Intel,Core i7 7600U,2.8,8,256GB SSD,Intel,Iris Plus Graphics 640,Windows 10 S,1.252,174195.691
+Lenovo,V310-15ISK (i5-7200U/8GB/1TB,Notebook,15.6,Full HD 1920x1080,Intel,Core i5 7200U,2.5,8,128GB SSD +  1TB HDD,AMD,Radeon R5 M430,Windows 10,1.9,76282.017
+Lenovo,Yoga 720-13IKB,2 in 1 Convertible,13.3,IPS Panel Full HD / Touchscreen 1920x1080,Intel,Core i5 7200U,2.5,8,256GB SSD,Intel,HD Graphics 620,Windows 10,1.3,96430.84
+Lenovo,IdeaPad 320-15AST,Notebook,15.6,1366x768,AMD,E-Series E2-9000,2.2,4,128GB SSD,AMD,Radeon R2 Graphics,Windows 10,2.2,32547.74
+HP,Pavilion X360,2 in 1 Convertible,14,IPS Panel Full HD / Touchscreen 1920x1080,Intel,Core i3 7100U,2.4,4,128GB SSD,Nvidia,GeForce 940MX,Windows 10,1.63,65188.74
+MSI,GP62 7RDX,Gaming,15.6,Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,16,256GB SSD +  1TB HDD,Nvidia,GeForce GTX 1050,Windows 10,2.4,120678.44
+Asus,Zenbook 3,Ultrabook,14,Full HD 1920x1080,Intel,Core i5 7200U,2.5,8,256GB SSD,Intel,HD Graphics 620,Windows 10,1.1,105850.1
+HP,Chromebook X360,2 in 1 Convertible,11.6,Touchscreen 1366x768,Intel,Celeron Dual Core N3350,1.1,8,64GB Flash Storage,Intel,HD Graphics 500,Chrome OS,1.4,46163.7
+LG,Gram 15Z975,Ultrabook,15.6,IPS Panel Full HD 1920x1080,Intel,Core i7 8550U,1.8,8,512GB SSD,Intel,HD Graphics 620,Windows 10,1.09,214404.74
+Acer,Aspire VX5-591G,Gaming,15.6,Full HD 1920x1080,Intel,Core i5 7300HQ,2.5,16,256GB SSD,Nvidia,GeForce GTX 1050 Ti,Windows 10,2.5,121144.74
+MSI,GV62M 7RD,Gaming,15.6,Full HD 1920x1080,Intel,Core i5 7300HQ,2.5,8,256GB SSD,Nvidia,GeForce GTX 1050,Windows 10,2.2,93064.154
+Asus,L502NA-GO052T (N3350/4GB/128GB/W10),Notebook,15.6,1366x768,Intel,Celeron Dual Core N3350,1.1,4,128GB SSD,Intel,HD Graphics 500,Windows 10,1.86,39075.94
+Dell,Alienware 15,Gaming,15.6,Full HD 1920x1080,Intel,Core i5 7300HQ,2.5,16,128GB SSD +  1TB HDD,Nvidia,GeForce GTX 1060,Windows 10,3.21,191276.26
+HP,17-bs000nv I3,Notebook,17.3,IPS Panel Full HD 1920x1080,Intel,Core i3 6006U,2,4,256GB SSD,AMD,Radeon R5 520,Windows 10,2.5,65188.74
+Lenovo,Yoga 730,2 in 1 Convertible,13.3,IPS Panel Full HD / Touchscreen 1920x1080,Intel,Core i7 8550U,1.8,8,512GB SSD,Intel,UHD Graphics 620,Windows 10,1.19,139796.74
+Dell,Alienware 15,Gaming,15.6,Full HD 1920x1080,Intel,Core i7 7820HK,2.9,16,256GB SSD +  1TB HDD,Nvidia,GeForce GTX 1070,Windows 10,3.49,262410.325
+HP,250 G6,Notebook,15.6,1366x768,Intel,Core i5 7200U,2.5,4,500GB HDD,AMD,Radeon 520,Windows 10,1.86,57132.0086
+Dell,Inspiron 3567,Notebook,15.6,1366x768,Intel,Core i3 6006U,2,4,1TB HDD,AMD,Radeon R5 M430,Windows 10,2.2,50889.1842
+HP,17-Y002nv (A10-9600P/6GB/2TB/Radeon,Notebook,17.3,IPS Panel Full HD 1920x1080,AMD,A10-Series 9600P,2.4,6,2TB HDD,AMD,Radeon R7 M440,Windows 10,2.65,53064.94
+Lenovo,V110-15ISK (3855U/4GB/500GB/W10),Notebook,15.6,1366x768,Intel,Celeron Dual Core 3855U,1.6,4,500GB HDD,Intel,HD Graphics 510,Windows 10,2.1,29656.68
+Acer,Chromebook 14,Notebook,14,1366x768,Intel,Celeron Dual Core 3855U,1.6,4,32GB Flash Storage,Intel,HD Graphics 510,Chrome OS,1.45,34972.5
+Lenovo,IdeaPad 520s-14IKB,Notebook,14,Full HD 1920x1080,Intel,Core i5 7200U,2.5,4,256GB SSD,Intel,HD Graphics 620,Windows 10,1.7,65188.74
+HP,ZBook 17,Workstation,17.3,Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,8,500GB HDD,Nvidia,Quadro M1200,Windows 10,3.14,177939.1474
+Lenovo,ThinkPad X1,2 in 1 Convertible,14,Touchscreen 2560x1440,Intel,Core i7 7500U,2.7,8,256GB SSD,Intel,HD Graphics 620,Windows 10,1.42,241543.4
+Toshiba,Satellite Pro,Notebook,13.3,IPS Panel Full HD 1920x1080,Intel,Core i5 7200U,2.5,8,256GB SSD,Intel,HD Graphics 620,Windows 10,1.5,90741.98
+Acer,TravelMate B117-M,Netbook,11.6,1366x768,Intel,Celeron Dual Core N3050,1.6,4,32GB Flash Storage,Intel,HD Graphics,Windows 10,1.4,25086.94
+Lenovo,Yoga 910-13IKB,2 in 1 Convertible,14,Full HD / Touchscreen 1920x1080,Intel,Core i7 7500U,2.7,16,512GB SSD,Intel,HD Graphics 620,Windows 10,1.38,163111.74
+Asus,Chromebook Flip,2 in 1 Convertible,12.5,Full HD / Touchscreen 1920x1080,Intel,Core M M3-6Y30,0.9,4,64GB Flash Storage,Intel,HD Graphics 515,Chrome OS,1.2,62390.94
+Toshiba,Portege Z30T-C-133,Ultrabook,13.3,Full HD / Touchscreen 1920x1080,Intel,Core i7 6500U,2.5,16,512GB SSD,Intel,HD Graphics 520,Windows 10,1.36,175049.02
+HP,15-bs011nv (i7-7500U/4GB/500GB/Radeon,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel,Core i7 7500U,2.7,4,500GB HDD,AMD,Radeon 530,Windows 10,2.1,64256.14
+Dell,Inspiron 5577,Gaming,15.6,Full HD 1920x1080,Intel,Core i5 7300HQ,2.5,8,1TB HDD,Nvidia,GeForce GTX 1050,Windows 10,2.56,76379.94
+Lenovo,IdeaPad 320-15AST,Notebook,15.6,Full HD 1920x1080,AMD,A9-Series 9420,2.9,4,256GB SSD,AMD,Radeon 530,Windows 10,2.2,37210.74
+Lenovo,IdeaPad 320-15ABR,Notebook,15.6,1366x768,AMD,A12-Series 9720P,3.6,8,1TB HDD,AMD,Radeon R7,Windows 10,2.2,40008.54
+Lenovo,V310-15IKB (i5-7200U/4GB/1TB/FHD/W10),Notebook,15.6,Full HD 1920x1080,Intel,Core i5 7200U,2.5,4,1TB HDD +  1TB HDD,Intel,HD Graphics 620,Windows 10,2.1,57956.427
+Lenovo,V310-15ISK (i3-6006U/4GB/500GB/No,Notebook,15.6,1366x768,Intel,Core i3 6006U,2,4,500GB HDD,Intel,HD Graphics 520,No OS,1.9,41967
+Dell,Vostro 5568,Notebook,15.6,Full HD 1920x1080,Intel,Core i5 7200U,2.5,8,256GB SSD,Intel,HD Graphics 620,Windows 10,2.18,74141.7
+Acer,Spin 5,2 in 1 Convertible,13.3,IPS Panel Full HD / Touchscreen 1920x1080,Intel,Core i5 8250U,1.6,8,256GB SSD,Intel,UHD Graphics 620,Windows 10,1.6,93166.74
+Lenovo,ThinkPad P51s,Workstation,15.6,Full HD 1920x1080,Intel,Core i7 6500U,2.5,16,512GB SSD,Nvidia,Quadro M520M,Windows 7,2.18,172997.3
+Lenovo,Thinkpad T460p,Notebook,14,Full HD 1920x1080,Intel,Core i5 6300HQ,2.3,8,256GB SSD,Intel,HD Graphics 520,Windows 10,1.8,111072.66
+HP,17-ak002nv (A10-9620P/6GB/2TB/Radeon,Notebook,17.3,IPS Panel Full HD 1920x1080,AMD,A10-Series 9620P,2.5,6,2TB HDD,AMD,Radeon 530,Windows 10,2.71,61086.2326
+Lenovo,Legion Y520-15IKBN,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,8,128GB SSD +  1TB HDD,Nvidia,GeForce GTX 1050 Ti,Windows 10,2.5,116481.74
+Dell,Latitude 5480,Notebook,14,Full HD 1920x1080,Intel,Core i5 7440HQ,2.8,8,256GB SSD,Nvidia,GeForce 930MX,Linux,1.64,101560.14
+Dell,Vostro 5568,Notebook,15.6,Full HD 1920x1080,Intel,Core i5 7200U,2.5,8,1TB HDD,Intel,HD Graphics 620,Linux,1.98,67706.76
+Asus,VivoBook E403NA,Notebook,14,Full HD 1920x1080,Intel,Celeron Dual Core N3350,1.1,4,32GB Flash Storage,Intel,HD Graphics 500,Windows 10,1.5,27791.48
+Dell,Latitude 5580,Notebook,15.6,Full HD 1920x1080,Intel,Core i5 7300U,2.6,16,512GB SSD,Intel,HD Graphics 620,Windows 10,1.93,133050.3116
+Lenovo,Thinkpad E470,Notebook,14,IPS Panel Full HD 1920x1080,Intel,Core i5 7200U,2.5,8,256GB SSD,Nvidia,GeForce 920MX,Windows 10,1.87,79930.3482
+Dell,Latitude 5580,Notebook,15.6,Full HD 1920x1080,Intel,Core i5 7300U,2.6,8,256GB SSD,Intel,HD Graphics 620,Windows 10,1.9,109953.54
+Lenovo,110-15ACL (A6-7310/4GB/500GB/W10),Notebook,15.6,1366x768,AMD,A6-Series 7310,2,4,500GB HDD,AMD,Radeon R4,Windows 10,2.19,27791.48
+Mediacom,Smartbook 142,Notebook,14,IPS Panel Full HD 1920x1200,Intel,Atom Z8350,1.92,4,32GB HDD,Intel,HD Graphics 400,Windows 10,1.4,24713.9
+HP,ProBook 470,Notebook,17.3,Full HD 1920x1080,Intel,Core i7 7500U,2.7,8,256GB SSD,Nvidia,GeForce 930MX,Windows 10,2.63,111912
+Lenovo,ThinkPad X1,Ultrabook,14,IPS Panel Quad HD+ 2560x1440,Intel,Core i7 6500U,2.5,8,512GB SSD,Intel,HD Graphics 520,Windows 10,1.17,157296.0464
+HP,Pavilion X360,2 in 1 Convertible,13.3,IPS Panel Touchscreen 1366x768,Intel,Core i5 7200U,2.5,8,256GB SSD,Intel,HD Graphics 620,Windows 10,1.58,78021.316
+Lenovo,ThinkPad T470s,Ultrabook,14,IPS Panel Full HD 1920x1080,Intel,Core i5 7200U,2.5,8,256GB SSD,Intel,HD Graphics 620,Windows 10,1.32,139796.74
+Dell,Alienware 17,Gaming,17.3,4K Ultra HD 3840x2160,Intel,Core i7 7700HQ,2.8,32,1TB SSD +  1TB HDD,Nvidia,GeForce GTX 1070,Windows 10,4.36,341275.644
+MSI,GL72M 7REX,Gaming,17.3,Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,8,128GB SSD +  1TB HDD,Nvidia,GeForce GTX 1050 Ti,Windows 10,2.7,125759.2448
+Lenovo,V310-15IKB (i5-7200U/4GB/1TB/No,Notebook,15.6,1366x768,Intel,Core i5 7200U,2.5,4,1TB HDD,Intel,HD Graphics 620,No OS,1.9,45688.074
+Dell,Inspiron 5570,Notebook,15.6,Full HD 1920x1080,Intel,Core i5 8250U,1.6,8,128GB SSD +  1TB HDD,AMD,Radeon 530,Windows 10,2.2,67053.94
+Dell,Inspiron 5378,2 in 1 Convertible,13.3,Full HD / Touchscreen 1920x1080,Intel,Core i3 7100U,2.4,4,1TB HDD,Intel,HD Graphics 620,Windows 10,1.71,60525.74
+Dell,Inspiron 5567,Notebook,15.6,1366x768,Intel,Core i5 7200U,2.5,8,1TB HDD,AMD,Radeon R7 M445,Linux,2.32,54978.6352
+HP,15-BW037na (A9-9420/4GB/1TB/Radeon,Notebook,15.6,Full HD 1920x1080,AMD,A9-Series 9420,3,4,1TB HDD,AMD,Radeon 520,Windows 10,2.1,45604.14
+Acer,Predator 17,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel,Core i7 6700HQ,2.6,16,128GB SSD +  1TB HDD,Nvidia,GeForce GTX 1060,Windows 10,4.2,180458.1
+Dell,Inspiron 3567,Notebook,15.6,1366x768,Intel,Core i5 7200U,2.5,12,1TB HDD,Intel,HD Graphics 620,Windows 10,2.25,60525.74
+HP,15-BW091ND (A9-9420/6GB/1TB,Notebook,15.6,Full HD 1920x1080,AMD,A9-Series A9-9420,3,6,128GB SSD +  1TB HDD,AMD,Radeon 520,Windows 10,2.1,60619
+Acer,Extensa EX2540-58KR,Notebook,15.6,1366x768,Intel,Core i5 7200U,2.5,4,500GB HDD,Intel,HD Graphics 620,Windows 10,2.4,52132.34
+Lenovo,ThinkPad 13,Notebook,13.3,IPS Panel Full HD 1920x1080,Intel,Core i5 7200U,2.5,8,256GB SSD,Intel,HD Graphics 620,Windows 10,1.44,89529.6
+Lenovo,V310-15IKB (i7-7500U/4GB/1TB/FHD/W10),Notebook,15.6,Full HD 1920x1080,Intel,Core i7 7500U,2.7,4,1TB HDD,Intel,HD Graphics 620,Windows 10,1.85,72649.54
+HP,ZBook 15,Workstation,15.6,Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,16,256GB SSD,Nvidia,Quadro M2200,Windows 10,2.6,225595.94
+Dell,Inspiron 5379,2 in 1 Convertible,13.3,Full HD / Touchscreen 1920x1080,Intel,Core i5 8250U,1.6,8,1TB HDD,Intel,UHD Graphics 620,Windows 10,1.55,61458.34
+MSI,GS63VR 7RF,Gaming,15.6,Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,16,256GB SSD +  1TB HDD,Nvidia,GeForce GTX 1060,Windows 10,1.8,195331.2048
+Acer,Aspire ES1-572,Notebook,15.6,1366x768,Intel,Core i3 6006U,2,4,500GB HDD,Intel,HD Graphics 520,Windows 10,2.4,38311.208
+Dell,Inspiron 7560,Notebook,15.6,Full HD 1920x1080,Intel,Core i7 7500U,2.7,8,128GB SSD +  1TB HDD,Nvidia,GeForce 940MX,Windows 10,2,112564.82
+Dell,Vostro 3568,Notebook,15.6,1366x768,Intel,Core i3 6006U,2,8,256GB SSD,Intel,HD Graphics 520,Windows 10,2,62017.9
+Toshiba,Tecra X40-D-10G,Notebook,14,IPS Panel Full HD / Touchscreen 1920x1080,Intel,Core i5 7200U,2.5,8,256GB SSD,Intel,HD Graphics 620,Windows 10,1.25,143154.1
+Lenovo,Flex 5,2 in 1 Convertible,14,Full HD / Touchscreen 1920x1080,Intel,Core i5 7200U,2.5,8,256GB SSD,Intel,HD Graphics 620,Windows 10,1.7,93166.74
+Lenovo,Thinkpad P51s,Workstation,15.6,IPS Panel 4K Ultra HD 3840x2160,Intel,Core i7 7600U,2.8,16,1TB SSD,Nvidia,Quadro M520M,Windows 10,2.5,307664.74
+Acer,Chromebook 14,Notebook,14,1366x768,Intel,Celeron Dual Core N3060,1.6,2,32GB Flash Storage,Intel,HD Graphics 400,Chrome OS,1.68,30775.8
+Samsung,Notebook 9,Ultrabook,13.3,Full HD 1920x1080,Intel,Core i7 7500U,2.7,16,256GB SSD,Intel,HD Graphics 620,Windows 10,0.81,153785.74
+HP,250 G6,Notebook,15.6,Full HD 1920x1080,Intel,Core i3 6006U,2,8,256GB SSD,Intel,HD Graphics 520,Windows 10,1.86,50267.14
+Dell,Latitude 5480,Notebook,14,1366x768,Intel,Core i5 7200U,2.5,8,256GB SSD,Intel,HD Graphics 620,Windows 10,1.6,105076.9746
+HP,Zbook 17,Workstation,17.3,IPS Panel Full HD 1920x1080,Intel,Xeon E3-1535M v5,2.9,16,256GB SSD,Nvidia,Quadro M2000M,Windows 7,3,409318.14
+Lenovo,N23 (N3060/4GB/128GB/W10),Netbook,11.6,Touchscreen 1366x768,Intel,Celeron Dual Core N3060,1.6,4,128GB SSD,Intel,HD Graphics 400,Windows 10,1.4,44298.5
+HP,EliteBook 850,Notebook,15.6,Full HD 1920x1080,Intel,Core i5 6300U,2.4,8,256GB SSD,Intel,HD Graphics 520,Windows 10,1.84,177194
+Asus,X550VX-XX015D (i5-6300HQ/4GB/1TB/GeForce,Notebook,15.6,1366x768,Intel,Core i5 6300HQ,2.3,4,1TB HDD,Nvidia,GeForce GTX 950M,No OS,2.45,53997.54
+Lenovo,Thinkpad T460,Ultrabook,14,Full HD 1920x1080,Intel,Core i5 6200U,2.3,4,180GB SSD,Intel,HD Graphics 520,Windows 10,1.7,102212.96
+Asus,Pro P2540UA-XO0192R,Notebook,15.6,1366x768,Intel,Core i7 7500U,2.7,4,256GB SSD,Intel,HD Graphics 620,Windows 10,2.37,79261.674
+Lenovo,Yoga 900-13ISK,2 in 1 Convertible,13.3,IPS Panel Quad HD+ / Touchscreen 3200x1800,Intel,Core i5 6260U,1.8,8,256GB SSD,Intel,HD Graphics 540,Windows 10,1.3,111818.74
+HP,15-cb003na (i5-7300HQ/8GB/1TB,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel,Core i5 7300HQ,2.5,8,128GB SSD +  1TB HDD,Nvidia,GeForce GTX 1050,Windows 10,2.2,102492.74
+HP,ZBook 15,Workstation,15.6,Full HD 1920x1080,Intel,Core i7 6700HQ,2.6,8,256GB SSD,Nvidia,Quadro M1000M,Windows 7,2.59,145578.86
+Dell,Alienware 17,Gaming,15.6,IPS Panel 4K Ultra HD 3840x2160,Intel,Core i7 7700HQ,2.8,16,256GB SSD +  1TB HDD,Nvidia,GeForce GTX 1070,Windows 10,4.42,267562.0074
+Acer,Aspire 3,Notebook,15.6,1366x768,Intel,Core i5 7200U,2.5,4,256GB SSD,Intel,HD Graphics 620,Windows 10,2.1,55862.74
+Lenovo,Legion Y520-15IKBN,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,8,128GB SSD +  1TB HDD,Nvidia,GeForce GTX 1050,Windows 10,2.5,97736.48
+Dell,Latitude 7280,Ultrabook,12.5,Full HD 1920x1080,Intel,Core i7 7600U,2.8,16,256GB SSD,Intel,HD Graphics 620,Windows 10,1.18,173370.34
+Google,Pixelbook (Core,Ultrabook,12.3,Touchscreen 2400x1600,Intel,Core i5 7Y57,1.2,8,256GB SSD,Intel,HD Graphics 615,Chrome OS,1.1,145392.34
+Asus,Zenbook UX330UA-AH5Q,Ultrabook,13.3,IPS Panel Quad HD+ 3200x1800,Intel,Core i5 7200U,2.5,8,256GB SSD,Intel,HD Graphics 620,Windows 10,1.2,105290.54
+Dell,Latitude 3380,Notebook,13.3,1366x768,Intel,Core i3 6006U,2,4,500GB HDD,Intel,HD Graphics 520,Windows 10,1.65,79177.74
+Acer,TravelMate P238-M,Notebook,13.3,1366x768,Intel,Core i5 6200U,2.3,4,128GB SSD,Intel,HD Graphics 520,Windows 10,1.6,61085.3
+Asus,X751NV-TY001 (N4200/4GB/1TB/GeForce,Notebook,17.3,1366x768,Intel,Pentium Quad Core N4200,1.1,4,1TB HDD,Nvidia,GeForce 920MX,Windows 10,2.8,43863.9084
+Dell,Inspiron 7559,Gaming,15.6,IPS Panel Touchscreen / 4K Ultra HD 3840x2160,Intel,Core i7 6700HQ,2.6,16,128GB SSD +  1TB HDD,Nvidia,GeForce GTX 960M,Windows 10,2.72,102492.74
+Samsung,Notebook 9,Ultrabook,13.3,Full HD / Touchscreen 1920x1080,Intel,Core i7 7500U,2.7,8,256GB SSD,Intel,HD Graphics 620,Windows 10,1.31,149122.74
+Acer,Aspire A315-31,Notebook,15.6,1366x768,Intel,Pentium Quad Core N4200,1.1,4,1TB HDD,Intel,HD Graphics 505,Linux,2.1,27791.48
+Dell,Inspiron 5567,Notebook,15.6,Full HD 1920x1080,Intel,Core i7 7500U,2.7,16,256GB SSD,AMD,Radeon R7 M445,Windows 10,2.3,110165.2402
+Samsung,Notebook 9,2 in 1 Convertible,15,Full HD / Touchscreen 1920x1080,Intel,Core i7 7500U,2.7,16,256GB SSD,AMD,Radeon 540,Windows 10,1.71,167774.74
+Toshiba,Tecra A40-C-1E5,Notebook,14,IPS Panel 1366x768,Intel,Core i5 6200U,2.3,4,128GB SSD,Intel,HD Graphics 520,Windows 10,1.75,95125.2
+Dell,Inspiron 7567,Gaming,15.6,Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,8,1TB HDD,Nvidia,GeForce GTX 1050,Windows 10,2.62,102492.74
+HP,EliteBook 820,Ultrabook,12.5,1366x768,Intel,Core i5 6200U,2.3,4,256GB SSD,Intel,HD Graphics 520,Windows 10,1.26,116015.44
+Asus,Q524UQ-BHI7T15 (i7-7500U/12GB/2TB/GeForce,2 in 1 Convertible,15.6,Full HD / Touchscreen 1920x1080,Intel,Core i7 7500U,2.7,12,2TB HDD,Nvidia,GeForce 940MX,Windows 10,2.3,78245.14
+Lenovo,Thinkpad P50,Notebook,15.6,4K Ultra HD 3840x2160,Intel,Core i7 6820HQ,2.7,16,512GB SSD,Nvidia,Quadro M2000M,Windows 7,2.5,221026.2
+Acer,Swift 3,Notebook,14,IPS Panel Full HD 1920x1080,Intel,Core i3 7100U,2.4,4,128GB SSD,Intel,HD Graphics 620,Windows 10,1.8,59313.36
+Razer,Blade Pro,Gaming,14,Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,16,512GB SSD,Nvidia,GeForce GTX 1060,Windows 10,1.95,270360.74
+Asus,Vivobook Max,Notebook,15.6,1920x1080,Intel,Pentium Dual Core N4200,1.1,8,128GB SSD,Intel,HD Graphics 505,Windows 10,2,54267.994
+Dell,Alienware 17,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,32,1TB SSD +  1TB HDD,Nvidia,GeForce GTX 1070M,Windows 10,4.42,334691.488
+Asus,Rog G752VS-BA171T,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel,Core i7 6700HQ,2.6,16,256GB SSD +  1TB HDD,Nvidia,GeForce GTX 1070,Windows 10,4.3,219161
+Toshiba,Tecra Z40-C-161,Ultrabook,14,IPS Panel Full HD 1920x1080,Intel,Core i7 6600U,2.6,16,512GB SSD,Nvidia,GeForce 930M,Windows 10,1.47,164510.64
+Lenovo,IdeaPad 110-15IBR,Notebook,15.6,1366x768,Intel,Celeron Quad Core N3710,1.6,8,1TB HDD,Intel,HD Graphics 405,No OS,2.2,30682.54
+Lenovo,ThinkPad T470s,Ultrabook,14,Full HD 1920x1080,Intel,Core i7 7500U,2.7,16,512GB SSD,Intel,HD Graphics 620,Windows 10,1.7,214404.74
+MSI,GS43VR 7RE,Gaming,14,IPS Panel Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,16,256GB SSD +  1TB HDD,Nvidia,GeForce GTX 1060,Windows 10,1.6,176354.66
+MSI,GL62M (i5-7300HQ/8GB/1TB,Gaming,15.6,Full HD 1920x1080,Intel,Core i5 7300HQ,2.5,8,128GB SSD +  1TB HDD,Nvidia,GeForce GTX 1050,Windows 10,2.2,101560.14
+Lenovo,Legion Y520-15IKBN,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,4,1TB HDD,Nvidia,GeForce GTX 1050,Windows 10,2.4,93166.74
+Acer,Predator G9-793,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,16,256GB SSD +  1TB HDD,Nvidia,GeForce GTX 1060,Windows 10,4.2,214404.74
+Dell,Inspiron 7567,Gaming,15.6,Full HD 1920x1080,Intel,Core i5 7300HQ,2.5,8,256GB SSD,Nvidia,GeForce GTX 1050,Windows 10,2.62,91861.1
+Asus,FX502VM-DM560T (i7-7700HQ/8GB/1TB,Gaming,15.6,Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,8,128GB SSD +  1TB HDD,Nvidia,GeForce GTX1060,Windows 10,2.24,124875.14
+Vero,K146 (N3350/4GB/32GB/W10),Notebook,14,1920x1080,Intel,Celeron Dual Core N3350,1.1,4,32GB Flash Storage,Intel,HD Graphics 500,Windows 10,1.22,18922.454
+Lenovo,ThinkPad Yoga,2 in 1 Convertible,13.3,IPS Panel Full HD / Touchscreen 1920x1080,Intel,Core i7 7500U,2.7,8,512GB SSD,Intel,HD Graphics 620,Windows 10,1.37,183722.2
+Lenovo,Yoga 510-15IKB,2 in 1 Convertible,15.6,Full HD / Touchscreen 1920x1080,Intel,Core i5 7200U,2.5,8,256GB SSD,AMD,Radeon R7 M460,Windows 10,2.08,89436.34
+Apple,"MacBook 12""",Ultrabook,12,IPS Panel Retina Display 2304x1440,Intel,Core M,1.2,8,512GB Flash Storage,Intel,HD Graphics 5300,Mac OS X,0.92,108647.9
+Lenovo,ThinkPad X1,2 in 1 Convertible,14,IPS Panel Touchscreen 2560x1440,Intel,Core i5 7200U,2.5,8,256GB SSD,Intel,HD Graphics 620,Windows 10,1.42,217295.8
+Asus,R417NA-RS01 (N3350/4GB/32GB/W10),Notebook,14,1366x768,Intel,Celeron Dual Core N3350,1.1,4,32GB Flash Storage,Intel,HD Graphics 500,Windows 10,1.63,27884.74
+Dell,Latitude 3580,Notebook,15.6,1366x768,Intel,Core i5 7200U,2.5,8,128GB SSD,Intel,HD Graphics 620,Windows 10,1.95,75540.6
+Lenovo,Yoga 910-13IKB,2 in 1 Convertible,13.9,IPS Panel Full HD / Touchscreen 1920x1080,Intel,Core i7 7500U,2.7,8,256GB SSD,Intel,HD Graphics 620,Windows 10,1.38,125807.74
+Dell,Vostro 5568,Notebook,15.6,Full HD 1920x1080,Intel,Core i3 6006U,2,8,256GB SSD,AMD,Radeon R5 M420X,Windows 10,2,68919.14
+HP,ZBook 17,Workstation,15.6,Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,8,256GB SSD,Nvidia,Quadro M2200,Windows 10,3.14,192572.574
+Asus,Pro P2540UA-XS51,Notebook,15.6,Full HD 1920x1080,Intel,Core i5 7200U,2.5,8,256GB SSD,Intel,HD Graphics 620,Windows 10,2.37,102492.74
+Dell,XPS 13,Ultrabook,13.3,Full HD 1920x1080,Intel,Core i5 7200U,2.5,8,256GB SSD,Intel,HD Graphics 620,Windows 10,1.29,139796.74
+Dell,XPS 15,Notebook,15.6,4K Ultra HD / Touchscreen 3840x2160,Intel,Core i5 7300HQ,2.5,8,256GB SSD,Nvidia,GeForce GTX 1050,Windows 10,2.06,163111.74
+Dell,Latitude 3180,Netbook,11.6,1366x768,Intel,Pentium Quad Core N4200,1.1,4,128GB SSD,Intel,HD Graphics 505,Windows 10,1.63,69385.44
+HP,EliteBook 820,Netbook,12.5,1366x768,Intel,Core i5 7300U,2.6,8,256GB SSD,Intel,HD Graphics 620,Windows 10,1.26,129538.14
+Toshiba,Satellite Pro,Notebook,15.6,1366x768,Intel,Core i5 6200U,2.3,4,500GB HDD,Intel,HD Graphics 520,Windows 10,2.1,72742.8
+HP,15-ba043na (A12-9700P/8GB/2TB/W10),Notebook,15.6,1366x768,AMD,A12-Series 9700P,2.5,8,2TB HDD,AMD,Radeon R7 Graphics,Windows 10,2.04,58660.54
+Dell,Inspiron 7567,Gaming,15.6,4K Ultra HD 3840x2160,Intel,Core i7 7700HQ,2.8,16,512GB SSD,Nvidia,GeForce GTX 1050 Ti,Windows 10,2.62,156583.54
+Lenovo,IdeaPad 310-15IKB,Notebook,15.6,Full HD 1920x1080,Intel,Core i5 7200U,2.5,4,1TB HDD,Nvidia,GeForce 920M,Windows 10,2.4,56795.34
+HP,Omen 17-an012dx,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,12,1TB HDD,AMD,Radeon RX 580,Windows 10,3.74,163111.74
+MSI,GE72MVR 7RG,Gaming,17.3,Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,16,512GB SSD +  1TB HDD,Nvidia,GeForce GTX 1070,Windows 10,2.9,225222.9
+Samsung,Notebook 9,Ultrabook,13.3,Full HD 1920x1080,Intel,Core i5 7200U,2.5,8,256GB SSD,Intel,HD Graphics 620,Windows 10,0.81,139796.74
+Dell,Vostro 5568,Notebook,15.6,Full HD 1920x1080,Intel,Core i7 7500U,2.7,8,1TB HDD,Nvidia,GeForce GT 940MX,Windows 10,1.98,89622.86
+Dell,Vostro 3568,Notebook,15.6,Full HD 1920x1080,Intel,Core i5 7200U,2.5,8,256GB SSD,AMD,Radeon R5 M420,Windows 10,2.18,73657.6806
+Lenovo,Thinkpad T470s,Ultrabook,14,Full HD 1920x1080,Intel,Core i7 7500U,2.7,8,256GB SSD,Intel,HD Graphics 620,Windows 10,1.32,173370.34
+Razer,Blade Stealth,Ultrabook,12.5,IPS Panel 4K Ultra HD / Touchscreen 3840x2160,Intel,Core i7 7500U,2.5,16,512GB SSD,Intel,HD Graphics 620,Windows 10,1.29,167774.74
+HP,Chromebook 11,Netbook,11.6,1366x768,Intel,Celeron Dual Core N3060,1.6,4,16GB Flash Storage,Intel,HD Graphics 400,Chrome OS,1.23,35905.1
+Dell,Alienware 17,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,16,128GB SSD +  1TB HDD,Nvidia,GeForce GTX 1060,Windows 10,4.36,233618.1652
+Dell,Latitude 3480,Notebook,14,1366x768,Intel,Core i5 6200U,2.3,4,500GB HDD,Intel,HD Graphics 520,Windows 10,1.76,70411.3
+Lenovo,V110-15ISK (i3-6006U/4GB/500GB/W10),Notebook,15.6,1366x768,Intel,Core i3 6006U,2,4,500GB HDD,Intel,HD Graphics 520,Windows 10,2.1,45688.074
+Toshiba,Tecra X40-D-10Z,Ultrabook,14,1366x768,Intel,Core i5 7200U,2.5,4,128GB SSD,Intel,HD Graphics 620,Windows 10,1.25,101653.4
+Lenovo,Thinkpad X1,Ultrabook,14,IPS Panel Full HD 1920x1080,Intel,Core i7 7500U,2.7,8,512GB SSD,Intel,HD Graphics 620,Windows 10,1.13,233056.74
+MSI,GL62M 7RD,Gaming,15.6,Full HD 1920x1080,Intel,Core i5 7300HQ,2.5,8,256GB SSD,Nvidia,GeForce GTX 1050,Windows 10,2.4,111818.74
+Lenovo,ThinkPad X1,Ultrabook,14,IPS Panel Full HD 1920x1080,Intel,Core i5 7200U,2.5,8,256GB Flash Storage,Intel,HD Graphics 620,Windows 10,1.13,174862.5
+Toshiba,Satellite Pro,Notebook,14,1366x768,Intel,Pentium Dual Core 4405U,2.1,4,128GB SSD,Intel,HD Graphics 510,Windows 10,1.75,46536.74
+Asus,ZenBook Flip,2 in 1 Convertible,13.3,Touchscreen / Full HD 1920x1080,Intel,Core i5 7200U,2.5,8,256GB SSD,Intel,HD Graphics 620,Windows 10,1.1,126647.08
+Dell,Latitude 3480,Notebook,14,1366x768,Intel,Core i3 6006U,2,4,500GB HDD,Intel,HD Graphics 520,Windows 10,1.76,54557.1
+Acer,Chromebook 11,Netbook,11.6,IPS Panel 1366x768,Intel,Celeron Dual Core N3060,1.6,4,32GB Flash Storage,Intel,HD Graphics 400,Chrome OS,1.35,33107.3
+Acer,Swift 3,Notebook,14,IPS Panel Full HD 1920x1080,Intel,Core i3 7100U,2.4,8,128GB SSD,Intel,HD Graphics 620,Windows 10,1.5,57727.94
+Razer,Blade Pro,Gaming,17.3,4K Ultra HD / Touchscreen 3840x2160,Intel,Core i7 7820HK,2.9,32,512GB SSD,Nvidia,GeForce GTX 1080,Windows 10,3.49,512836.74
+Lenovo,Thinkpad X1,Ultrabook,14,IPS Panel Quad HD+ 2560x1440,Intel,Core i7 6600U,2.6,16,512GB SSD,Intel,HD Graphics 520,Windows 10,1.1,195752.74
+Asus,VivoBook Max,Notebook,15.6,Full HD 1920x1080,Intel,Core i5 7200U,2.5,4,1TB HDD,Nvidia,GeForce 920,Linux,2.1,48401.94
+Lenovo,Thinkpad T460,Notebook,14,Full HD 1920x1080,Intel,Core i5 6200U,2.3,8,256GB SSD,Intel,HD Graphics 520,Windows 10,1.7,110606.36
+Lenovo,ThinkPad T470s,Notebook,14,IPS Panel Full HD 1920x1080,Intel,Core i5 7300U,2.6,8,256GB SSD,Intel,HD Graphics 620,Windows 10,1.32,153879
+Dell,Alienware 15,Gaming,15.6,Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,16,256GB SSD +  1TB HDD,Nvidia,GeForce GTX 1070,Windows 10,3.21,258761.9938
+Asus,Rog GL702VS-BA023T,Gaming,17.3,Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,16,256GB SSD +  1TB HDD,Nvidia,GeForce GTX 1070,Windows 10,2.9,225595.94
+Toshiba,Satellite Pro,Notebook,15.6,1366x768,Intel,Core i3 7100U,2.4,4,500GB HDD,Intel,HD Graphics 620,Windows 10,2,62390.94
+Lenovo,N42-20 Chromebook,Notebook,14,1366x768,Intel,Celeron Quad Core N3160,1.6,4,16GB Flash Storage,Intel,HD Graphics 400,Chrome OS,1.5,30309.5
+Asus,R558UA-DM966T (i5-7200U/8GB/128GB/FHD/W10),Notebook,15.6,Full HD 1920x1080,Intel,Core i5 7200U,2.5,8,128GB HDD,Intel,HD Graphics 620,Windows 10,2.3,55023.4
+Asus,Rog GL702VM-GC017T,Gaming,17.3,Full HD 1920x1080,Intel,Core i7 6700HQ,2.6,16,512GB SSD +  1TB HDD,Nvidia,GeForce GTX 1060,Windows 10,2.73,167774.74
+Dell,Alienware 17,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,32,512GB SSD +  1TB HDD,Nvidia,GeForce GTX 1070,Windows 10,4.42,286577.7214
+HP,ProBook 470,Notebook,17.3,1600x900,Intel,Core i5 7200U,2.5,8,1TB HDD,Nvidia,GeForce 930MX,Windows 10,2.63,84866.6
+Dell,Vostro 3568,Notebook,15.6,1366x768,Intel,Core i5 7200U,2.5,8,128GB SSD,Intel,HD Graphics 620,Windows 10,2.18,66586.7074
+HP,EliteBook 840,Ultrabook,14,Full HD 1920x1080,Intel,Core i7 6500U,2.5,8,512GB SSD,Intel,HD Graphics 520,Windows 7,1.54,174396.2
+Dell,Vostro 3568,Notebook,15.6,Full HD 1920x1080,Intel,Core i7 7500U,2.7,4,256GB SSD,AMD,Radeon R5 M420,Windows 10,2.18,68919.14
+HP,Chromebook X360,2 in 1 Convertible,11.6,Touchscreen 1366x768,Intel,Celeron Dual Core N3350,1.1,4,32GB Flash Storage,Intel,HD Graphics 500,Chrome OS,1.4,57354.9
+Asus,ZenBook UX310UQ-GL026T,Ultrabook,13.3,IPS Panel Full HD 1920x1080,Intel,Core i5 6200U,2.3,8,512GB SSD,Nvidia,GeForce 940M,Windows 10,1.45,95684.76
+HP,EliteBook x360,2 in 1 Convertible,13.3,Full HD / Touchscreen 1920x1080,Intel,Core i5 7200U,2.5,8,256GB SSD,Intel,HD Graphics 620,Windows 10,1.28,212353.02
+HP,EliteBook 840,Ultrabook,14,Full HD 1920x1080,Intel,Core i7 6500U,2.5,8,512GB SSD,Intel,HD Graphics 520,Windows 10,1.54,136905.68
+HP,250 G6,Notebook,15.6,1366x768,Intel,Celeron Dual Core N3060,1.6,4,128GB SSD,Intel,HD Graphics 400,No OS,1.86,27884.74
+Asus,Rog GL502VM-DS74,Gaming,15.6,Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,16,128GB SSD +  1TB HDD,Nvidia,GeForce GTX 1060,Windows 10,2.1,177100.74
+Dell,Inspiron 5767,Notebook,17.3,Full HD 1920x1080,Intel,Core i7 7500U,2.7,8,1TB HDD,AMD,Radeon R7 M445,Linux,2.83,80669.9
+Lenovo,ThinkPad T470p,Ultrabook,14,IPS Panel Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,8,256GB SSD,Nvidia,GeForce GT 940MX,Windows 10,1.96,177473.78
+Asus,K556UR-DM621T (i7-7500U/8GB/256GB/GeForce,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel,Core i7 7500U,2.7,8,256GB SSD,Nvidia,GeForce GTX 930MX,Windows 10,2.3,73395.62
+Dell,Latitude 5580,Notebook,15.6,Full HD 1920x1080,Intel,Core i5 7200U,2.5,8,128GB SSD,Intel,HD Graphics 620,Windows 10,1.9,88130.7
+Asus,X541NA (N4200/4GB/1TB/W10),Notebook,15.6,1366x768,Intel,Pentium Quad Core N4200,1.1,4,1TB HDD,Intel,HD Graphics 505,Windows 10,2,41873.74
+HP,EliteBook x360,2 in 1 Convertible,13.3,Full HD / Touchscreen 1920x1080,Intel,Core i7 7600U,2.8,8,256GB SSD,Intel,HD Graphics 620,Windows 10,1.28,238652.34
+Dell,Inspiron 5368,Notebook,13.3,Full HD / Touchscreen 1920x1080,Intel,Core i5 6200U,2.3,8,1TB HDD,Intel,HD Graphics 520,Windows 10,1.62,60525.74
+Lenovo,IdeaPad 110-15ISK,Notebook,15.6,Full HD 1920x1080,Intel,Core i3 6006U,2,4,1TB HDD,Intel,HD Graphics 520,No OS,2.2,43738.94
+Lenovo,ThinkPad E570,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel,Core i5 7200U,2.5,8,1TB HDD,Intel,HD Graphics 620,Windows 10,2.3,79332.5516
+HP,EliteBook 850,Notebook,15.6,Full HD 1920x1080,Intel,Core i5 7300U,2.6,8,256GB SSD,AMD,Radeon R7 M465,Windows 10,1.84,125807.74
+Toshiba,Portege X30-D-10X,Notebook,13.3,Full HD 1920x1080,Intel,Core i5 7200U,2.5,4,128GB SSD,Intel,HD Graphics 620,Windows 10,1.05,119839.1
+Lenovo,Legion Y520-15IKBN,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel,Core i5 7300HQ,2.5,8,1TB HDD,Nvidia,GeForce GTX 1050,No OS,2.5,94845.42
+Dell,XPS 13,Ultrabook,13.3,Quad HD+ / Touchscreen 3200x1800,Intel,Core i7 7660U,2.5,16,512GB SSD,Intel,Iris Plus Graphics 640,Windows 10,1.29,208902.4
+HP,Probook 450,Notebook,15.6,Full HD 1920x1080,Intel,Core i5 6200U,2.3,4,500GB HDD,Intel,HD Graphics 520,Windows 10,2.07,84866.6
+Toshiba,PortÃ©gÃ© Z30-C-188,Ultrabook,13.3,1366x768,Intel,Core i5 6200U,2.3,8,256GB SSD,Intel,HD Graphics 520,Windows 10,1.2,102119.7
+Lenovo,ThinkPad Yoga,2 in 1 Convertible,13.3,IPS Panel Full HD / Touchscreen 1920x1080,Intel,Core i7 7500U,2.7,8,256GB SSD,Intel,HD Graphics 620,Windows 10,1.37,181857
+Acer,TMX349-G2-M-50FS (i5-7200U/8GB/256GB/FHD/W10),Notebook,14,IPS Panel Full HD 1920x1080,Intel,Core i5 7200U,2.5,8,256GB SSD,Intel,HD Graphics 620,Windows 10,1.56,84120.52
+Dell,Precision 3520,Workstation,15.6,Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,8,1TB HDD,Nvidia,Quadro M620,Windows 10,2.23,165816.28
+Lenovo,ThinkPad L570,Notebook,15.6,1366x768,Intel,Core i5 7200U,2.5,4,500GB HDD,Intel,HD Graphics 620,Windows 10,2.38,98389.3
+Lenovo,IdeaPad 110-15ISK,Notebook,15.6,Full HD 1920x1080,Intel,Core i3 6006U,2,4,1TB HDD,AMD,Radeon R5 M430,No OS,2.2,44671.54
+Toshiba,Tecra A50-D-11D,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel,Core i7 7500U,2.7,8,256GB SSD,Intel,HD Graphics 620,Windows 10,2,129444.88
+Lenovo,Thinkpad 13,Notebook,13.3,IPS Panel Full HD 1920x1080,Intel,Core i3 7100U,2.4,4,180GB SSD,Intel,HD Graphics 620,Windows 10,1.44,68546.1
+Samsung,Notebook 9,Ultrabook,15,Full HD 1920x1080,Intel,Core i7 7500U,2.7,16,256GB SSD,Nvidia,GeForce 940MX,Windows 10,1.23,172437.74
+Dell,Latitude 7280,Ultrabook,12.5,Full HD 1920x1080,Intel,Core i7 7600U,2.8,8,256GB SSD,Intel,HD Graphics 620,Windows 10,1.6,157609.4
+Asus,X541NA-GO121 (N4200/4GB/1TB/Linux),Notebook,15.6,1366x768,Intel,Pentium Quad Core N4200,1.1,4,1TB HDD,Intel,HD Graphics 505,Linux,2,37209.8074
+Xiaomi,Mi Notebook,Ultrabook,13.3,IPS Panel Full HD 1920x1080,Intel,Core i5 6200U,2.3,8,256GB SSD,Nvidia,GeForce 940MX,Windows 10,1.28,87198.1
+Dell,Vostro 5568,Notebook,15.6,Full HD 1920x1080,Intel,Core i5 7200U,2.5,4,128GB SSD +  1TB HDD,Nvidia,GeForce 940MX,Windows 10,2.18,85099.75
+HP,ProBook 450,Notebook,15.6,Full HD 1920x1080,Intel,Core i5 7200U,2.5,4,256GB SSD,Intel,HD Graphics 620,Windows 10,2.04,78245.14
+HP,EliteBook x360,2 in 1 Convertible,13.3,Full HD / Touchscreen 1920x1080,Intel,Core i5 7200U,2.5,4,256GB SSD,Intel,HD Graphics 620,Windows 10,1.28,158542
+HP,Pavilion x360,2 in 1 Convertible,15.6,Touchscreen 1366x768,Intel,Core i5 7200U,2.5,4,500GB HDD,Intel,HD Graphics 620,Windows 10,2.3,63864.448
+Asus,VivoBook L402NA,Notebook,14.1,1366x768,Intel,Celeron Dual Core N3350,1.1,4,32GB Flash Storage,Intel,HD Graphics 500,Windows 10,1.65,32454.48
+Lenovo,IdeaPad 510-15ISK,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel,Core i7 6500U,2.5,8,1TB HDD,Nvidia,GeForce 940MX,Windows 10,2.2,62390.94
+Dell,Inspiron 3552,Notebook,15.6,1366x768,Intel,Pentium Quad Core N3710,1.6,4,500GB HDD,Intel,HD Graphics,Windows 10,2.2,34412.94
+HP,EliteBook x360,2 in 1 Convertible,13.3,Full HD / Touchscreen 1920x1080,Intel,Core i5 7200U,2.5,4,256GB SSD,Intel,HD Graphics 620,Windows 10,1.28,167774.74
+Dell,Vostro 3568,Notebook,15.6,1366x768,Intel,Core i3 6006U,2,4,1TB HDD,AMD,Radeon R5 M420X,Linux,2.18,42498.582
+Asus,Rog GL753VD-GC082T,Gaming,17.3,Full HD 1920x1080,Intel,Core i5 7300HQ,2.5,12,128GB SSD +  1TB HDD,Nvidia,GeForce GTX 1050,Windows 10,2.2,127756.874
+Acer,Chromebook C731-C78G,Netbook,11.6,IPS Panel 1366x768,Intel,Celeron Dual Core N3060,1.6,4,32GB Flash Storage,Intel,HD Graphics 400,Chrome OS,1.25,27698.22
+Lenovo,IdeaPad 110-17ACL,Notebook,17.3,1600x900,AMD,A4-Series 7210,2.2,4,500GB HDD,AMD,Radeon R3,Windows 10,2.8,35345.54
+HP,Probook 640,Notebook,14,Full HD 1920x1080,Intel,Core i5 7200U,2.5,4,128GB SSD,Intel,HD Graphics 620,Windows 10,1.95,117973.9
+HP,Envy x360,2 in 1 Convertible,13.3,Quad HD+ / Touchscreen 3200x1800,Intel,Core i7 7500U,2.7,16,256GB SSD,Intel,HD Graphics 620,Windows 10,1.42,130470.74
+Samsung,Notebook 9,Ultrabook,15,Full HD 1920x1080,Intel,Core i7 7500U,2.7,8,256GB SSD,Intel,HD Graphics 620,Windows 10,1.17,158448.74
+Lenovo,ThinkPad T470s,Ultrabook,14,IPS Panel Full HD 1920x1080,Intel,Core i5 7200U,2.5,8,256GB SSD,Intel,HD Graphics 620,Windows 10,1.32,167774.74
+MSI,GS73VR Stealth,Gaming,17.3,IPS Panel 4K Ultra HD 3840x2160,Intel,Core i7 6700HQ,2.6,16,512GB SSD +  2TB HDD,Nvidia,GeForce GTX 1060,Windows 10,2.43,247045.74
+Toshiba,Portege X30-D-10V,Notebook,13.3,Full HD 1920x1080,Intel,Core i5 7200U,2.5,8,256GB SSD,Intel,HD Graphics 620,Windows 10,1.05,137558.5
+Dell,Inspiron 7567,Gaming,15.6,Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,8,1TB HDD,Nvidia,GeForce GTX 1050Ti,Linux,2.62,86638.54
+HP,ProBook 450,Notebook,15.6,Full HD 1920x1080,Intel,Core i7 7500U,2.7,8,1TB HDD,Nvidia,GeForce 930MX,Windows 10,2.04,83934
+Dell,Vostro 3568,Notebook,15.6,1366x768,Intel,Core i3 6006U,2,4,1TB HDD,AMD,Radeon R5 M420X,Windows 10,2.18,57261.64
+Dell,Latitude 5580,Notebook,15.6,Full HD 1920x1080,Intel,Core i5 7300U,2.6,8,500GB HDD,Intel,HD Graphics 620,Windows 10,1.9,87198.1
+Dell,XPS 13,2 in 1 Convertible,13.3,Quad HD+ / Touchscreen 3200x1800,Intel,Core i7 7Y75,1.3,8,512GB SSD,Intel,HD Graphics 615,Windows 10,1.24,187741.706
+Asus,G701VO-IH74K (i7-6820HK/32GB/2x,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel,Core i7 6820HK,2.7,32,256GB SSD +  256GB SSD,Nvidia,GeForce GTX 980M,Windows 10,3.58,119279.54
+Dell,XPS 13,2 in 1 Convertible,13.3,Full HD / Touchscreen 1920x1080,Intel,Core i7 7Y75,1.3,16,256GB SSD,Intel,HD Graphics 615,Windows 10,1.22,153785.74
+Lenovo,ThinkPad X1,Ultrabook,14,IPS Panel Full HD 1920x1080,Intel,Core i7 7500U,2.7,8,256GB Flash Storage,Intel,HD Graphics 620,Windows 10,1.13,191089.74
+Lenovo,ThinkPad T570,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel,Core i5 7200U,2.5,8,512GB SSD,Intel,HD Graphics 620,Windows 10,1.95,183068.4474
+LG,Gram 15Z970,Ultrabook,15.6,IPS Panel Full HD / Touchscreen 1920x1080,Intel,Core i7 7500U,2.7,16,512GB SSD,Intel,HD Graphics 620,Windows 10,1.08,195752.74
+HP,Elitebook 820,Netbook,12.5,Full HD 1920x1080,Intel,Core i7 7500U,2.7,8,512GB SSD,Intel,HD Graphics 620,Windows 10,1.26,138304.58
+Acer,Chromebook CB5-571-C1DZ,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel,Celeron Dual Core 3205U,1.5,4,16GB Flash Storage,Intel,HD Graphics,Chrome OS,2.2,33480.34
+Lenovo,IdeaPad Y700-15ISK,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel,Core i5 6300HQ,2.3,8,128GB SSD +  1TB HDD,Nvidia,GeForce GTX 960M,Windows 10,2.6,73582.14
+LG,Gram 14Z970,Ultrabook,14,IPS Panel Full HD / Touchscreen 1920x1080,Intel,Core i7 7500U,2.7,8,512GB SSD,Intel,HD Graphics 620,Windows 10,0.98,177100.74
+Dell,Latitude 5480,Notebook,14,Full HD 1920x1080,Intel,Core i5 7440HQ,2.8,8,256GB SSD,Intel,HD Graphics 620,Windows 10,1.6,112378.3
+HP,Elitebook Folio,Ultrabook,12.5,4K Ultra HD / Touchscreen 3840x2160,Intel,Core M 6Y75,1.2,8,240GB SSD,Intel,HD Graphics 515,Windows 10,1.09,289106
+Lenovo,IdeaPad 510-15IKB,Notebook,15.6,Full HD 1920x1080,Intel,Core i7 7500U,2.7,6,256GB SSD,Nvidia,GeForce 940MX,Windows 10,2.2,73582.14
+HP,ProBook 450,Notebook,15.6,Full HD 1920x1080,Intel,Core i7 7500U,2.7,8,256GB SSD,Nvidia,GeForce 930MX,Windows 10,2.04,95031.0074
+Acer,Aspire E5-575,Notebook,15.6,Full HD 1920x1080,Intel,Core i3 7100U,2.4,4,1TB HDD,Intel,HD Graphics 620,Windows 10,2.4,46536.74
+Lenovo,ThinkPad 13,Notebook,13.3,Full HD 1920x1080,Intel,Core i5 7200U,2.5,4,128GB SSD,Intel,HD Graphics 620,Windows 10,1.44,82162.06
+HP,Probook 430,Notebook,13.3,Full HD 1920x1080,Intel,Core i5 7200U,2.5,8,256GB SSD,Intel,HD Graphics 620,Windows 10,1.49,89529.6
+MSI,GE72VR 6RF,Gaming,17.3,Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,16,256GB SSD +  1TB HDD,Nvidia,GeForce GTX 1050 Ti,Windows 10,2.7,149122.74
+Dell,Inspiron 7567,Gaming,15.6,Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,16,128GB SSD +  1TB HDD,Nvidia,GeForce GTX 1050 Ti,Windows 10,2.6,125807.74
+MSI,GL62M 7RD,Gaming,15.6,Full HD 1920x1080,Intel,Core i5 7300HQ,2.5,8,128GB SSD +  1TB HDD,Nvidia,GeForce GTX 1050,Windows 10,2.2,104442.8066
+Dell,Vostro 3568,Notebook,15.6,1366x768,Intel,Core i5 7200U,2.5,4,1TB HDD,AMD,Radeon R5 M420,Windows 10,2.18,63882.1674
+HP,EliteBook 850,Ultrabook,15.6,Full HD 1920x1080,Intel,Core i7 6500U,2.5,8,256GB SSD,AMD,Radeon R7 M365X,Windows 10,1.84,120957.2874
+HP,Envy 13-AB077cl,Ultrabook,13.3,Quad HD+ / Touchscreen 3200x1800,Intel,Core i7 7500U,2.7,8,256GB SSD,Intel,HD Graphics 620,Windows 10,1.39,107155.74
+Toshiba,Tecra Z50-C-140,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel,Core i7 6600U,2.6,16,256GB SSD,Nvidia,GeForce 930M,Windows 10,2.4,184188.5
+Lenovo,ThinkPad Yoga,2 in 1 Convertible,13.3,IPS Panel Full HD / Touchscreen 1920x1080,Intel,Core i5 7200U,2.5,8,512GB SSD,Intel,HD Graphics 620,Windows 10,1.37,170199.5
+Dell,Latitude 3580,Notebook,15.6,1366x768,Intel,Core i5 6200U,2.3,4,500GB HDD,Intel,HD Graphics 520,Windows 10,1.95,68070.474
+Lenovo,Thinkpad X270,Ultrabook,12.5,IPS Panel Full HD 1920x1080,Intel,Core i7 7500U,2.7,8,256GB SSD,Intel,HD Graphics 620,Windows 10,1.36,153879
+HP,Probook 650,Notebook,15.6,Full HD 1920x1080,Intel,Core i5 6200U,2.3,8,256GB SSD,Intel,HD Graphics 520,Windows 10,2.31,108647.9
+Dell,Vostro 3568,Notebook,15.6,1366x768,Intel,Core i5 7200U,2.5,4,1TB HDD,Intel,HD Graphics 620,Windows 10,2.18,66033.6756
+HP,ProBook 640,Notebook,14,1366x768,Intel,Core i5 6200U,2.3,4,500GB HDD,Intel,HD Graphics 520,Windows 10,1.95,107155.74
+Lenovo,IdeaPad 320-15IAP,Notebook,15.6,1366x768,Intel,Pentium Quad Core N4200,1.1,4,1TB HDD,Intel,HD Graphics 505,Windows 10,2.2,28817.34
+HP,EliteBook 820,Ultrabook,12.5,Full HD 1920x1080,Intel,Core i5 6200U,2.3,4,500GB HDD,Intel,HD Graphics 520,Windows 10,1.26,147257.54
+HP,250 G6,Notebook,15.6,1366x768,Intel,Celeron Dual Core N3060,1.6,4,1TB HDD,Intel,HD Graphics 400,No OS,1.86,26942.814
+Lenovo,Yoga 900-13ISK,2 in 1 Convertible,13.3,IPS Panel Quad HD+ / Touchscreen 3200x1800,Intel,Core i7 6560U,2.2,16,1TB SSD,Intel,Iris Graphics 540,Windows 10,1.3,167774.74
+Toshiba,Tecra Z40-C-12X,Notebook,14,IPS Panel Full HD 1920x1080,Intel,Core i5 6200U,2.3,4,128GB SSD,Intel,HD Graphics 520,Windows 10,1.47,103052.3
+HP,EliteBook 820,Netbook,12.5,Full HD 1920x1080,Intel,Core i5 6200U,2.3,8,256GB SSD,Intel,HD Graphics 520,Windows 10,1.26,155650.94
+Dell,Vostro 3568,Notebook,15.6,1366x768,Intel,Core i3 6006U,2,4,1TB HDD,Intel,HD Graphics 520,Windows 10,2.18,52095.036
+MSI,GP62M Leopard,Gaming,15.6,Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,8,128GB SSD +  1TB HDD,Nvidia,GeForce GTX 1050,Windows 10,2.2,111818.74
+Dell,Latitude 7480,Ultrabook,14,Full HD 1920x1080,Intel,Core i5 7200U,2.5,8,256GB SSD,Intel,HD Graphics 620,Windows 10,1.36,152853.14
+Dell,Alienware 17,Gaming,17.3,2560x1440,Intel,Core i7 6820HK,2.7,16,512GB SSD +  1TB HDD,Nvidia,GeForce GTX 1080,Windows 10,4.36,257211.08
+HP,Omen 17-W006na,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel,Core i5 6300HQ,2.3,8,128GB SSD +  1TB HDD,Nvidia,GeForce GTX 965M,Windows 10,2.75,130470.74
+Asus,X751SV-TY001T (N3710/4GB/1TB/GeForce,Notebook,17.3,1600x900,Intel,Pentium Quad Core N3710,1.6,4,1TB HDD,Nvidia,GeForce 920MX,Windows 10,2.8,49427.8
+Acer,TravelMate P259-G2,Notebook,15.6,1366x768,Intel,Core i5 7200U,2.5,4,500GB HDD,Intel,HD Graphics 620,Windows 10,2.23,57727.94
+Toshiba,Tecra A50-C-1ZV,Notebook,15.6,1366x768,Intel,Core i5 6200U,2.3,8,256GB SSD,Intel,HD Graphics 520,Windows 10,2.2,104357.94
+Lenovo,Yoga 700-11ISK,2 in 1 Convertible,11.3,IPS Panel Full HD / Touchscreen 1920x1080,Intel,Core M m7-6Y75,1.2,8,256GB SSD,Intel,HD Graphics 515,Windows 10,1.1,121144.74
+Lenovo,IdeaPad Y700-15ACZ,Gaming,15.6,IPS Panel Full HD 1920x1080,AMD,FX 8800P,2.1,16,512GB SSD +  1TB HDD,AMD,Radeon R9 M385,Windows 10,2.5,93166.74
+Dell,Latitude 7280,Ultrabook,12.5,Full HD / Touchscreen 1920x1080,Intel,Core i5 7200U,2.5,8,256GB SSD,Intel,HD Graphics,Windows 10,1.36,137297.372
+Lenovo,IdeaPad 310-15IKB,Notebook,15.6,Full HD 1920x1080,Intel,Core i7 7500U,2.7,8,1TB HDD,Nvidia,GeForce 920MX,No OS,2.2,63883.1
+Dell,Insprion 5767,Notebook,17.3,1600x900,Intel,Core i3 6006U,2,4,1TB HDD,AMD,Radeon R7 M445,Windows 10,2.36,61458.34
+Acer,Chromebook 14,Notebook,14,1366x768,Intel,Celeron Dual Core N3060,1.6,4,32GB Flash Storage,Intel,HD Graphics 400,Chrome OS,1.68,32547.74
+HP,ZBook Studio,Workstation,15.6,IPS Panel Full HD 1920x1080,Intel,Core i7 6820HQ,2.7,8,8GB SSD,Nvidia,Quadro M1000M,Windows 10,2,209741.74
+Dell,Latitude 7480,Ultrabook,14,Full HD 1920x1080,Intel,Core i7 7600U,2.8,8,256GB SSD,Intel,HD Graphics 620,Windows 10,1.36,165536.5
+Toshiba,Portege Z30-C-1CW,Notebook,13.3,Full HD 1920x1080,Intel,Core i5 6200U,2.3,8,256GB SSD,Intel,HD Graphics 520,Windows 7,1.2,136159.6
+Asus,Chromebook Flip,2 in 1 Convertible,12.5,Full HD 1920x1080,Intel,Core M M7-6Y75,1.2,8,64GB Flash Storage,Intel,HD Graphics 515,Chrome OS,1.2,108088.34
+Lenovo,Thinkpad T460,Ultrabook,14,IPS Panel Full HD 1920x1080,Intel,Core i7 6600U,2.6,8,256GB SSD,Intel,HD Graphics 520,Windows 10,1.7,138863.2074
+Dell,Alienware 17,Gaming,17.3,IPS Panel 4K Ultra HD 3840x2160,Intel,Core i7 7700HQ,2.8,16,512GB SSD +  1TB HDD,Nvidia,GeForce GTX 1070,Windows 10,4.36,294142.04
+Dell,XPS 13,2 in 1 Convertible,13.3,Full HD / Touchscreen 1920x1080,Intel,Core i5 7Y54,1.2,8,256GB SSD,Intel,HD Graphics 615,Windows 10,1.24,177100.74
+HP,ProBook x360,2 in 1 Convertible,11.6,Touchscreen 1366x768,Intel,Pentium Quad Core N4200,1.1,4,256GB SSD,Intel,HD Graphics 505,Windows 10,1.45,72276.5
+Dell,XPS 13,Ultrabook,13.3,Quad HD+ 3200x1800,Intel,Core i7 6500U,2.5,8,256GB SSD,Intel,HD Graphics 520,Windows 10,1.3,118253.68
+Acer,Chromebook C738T-C2EJ,2 in 1 Convertible,11.6,IPS Panel Touchscreen 1366x768,Intel,Celeron Dual Core N3060,1.6,4,32GB Flash Storage,Intel,HD Graphics 400,Chrome OS,1.25,36278.14
+Toshiba,Portege Z30-C-16Z,Notebook,13.3,Full HD 1920x1080,Intel,Core i5 6300U,2.4,8,256GB SSD,Intel,HD Graphics 520,Windows 10,1.2,143154.1
+Lenovo,ThinkPad X270,Ultrabook,12.5,IPS Panel Full HD 1920x1080,Intel,Core i5 7300U,2.6,8,256GB SSD,Intel,HD Graphics 620,Windows 10,1.36,164137.6
+Acer,Aspire F5-573G-510L,Notebook,15.6,Full HD 1920x1080,Intel,Core i5 7200U,2.5,12,128GB SSD +  1TB HDD,Nvidia,GeForce GTX 950M,Windows 10,2.4,94099.34
+Toshiba,Portege X20W-D-10V,Ultrabook,12.5,Full HD / Touchscreen 1920x1080,Intel,Core i7 7500U,2.7,8,512GB SSD,Intel,HD Graphics 620,Windows 10,1.1,166935.4
+HP,ProBook 450,Notebook,15.6,1366x768,Intel,Core i5 7200U,2.5,8,1TB HDD,Nvidia,GeForce 930MX,Windows 10,2.04,78944.59
+Dell,Inspiron 3567,Notebook,15.6,1366x768,Intel,Core i3 6006U,2,4,1TB HDD,AMD,Radeon R5 M430,Linux,2.25,43423.7212
+Dell,Latitude 5580,Notebook,15.6,1366x768,Intel,Core i5 7200U,2.5,4,500GB HDD,Intel,HD Graphics 620,Windows 10,1.9,76939.5
+HP,ProBook 450,Notebook,15.6,Full HD 1920x1080,Intel,Core i3 7100U,2.4,4,500GB HDD,Intel,HD Graphics 620,Windows 10,2.04,63883.1
+Dell,Alienware 17,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,32,256GB SSD +  1TB HDD,Nvidia,GeForce GTX 1070,Windows 10,4.42,293675.74
+Lenovo,IdeaPad 310-15IKB,Notebook,15.6,Full HD 1920x1080,Intel,Core i5 7200U,2.5,6,256GB SSD,Nvidia,GeForce 920MX,Windows 10,2.4,64815.7
+Dell,XPS 13,2 in 1 Convertible,13.3,Quad HD+ / Touchscreen 3200x1800,Intel,Core i7 7Y75,1.3,16,512GB SSD,Intel,HD Graphics 615,Windows 10,1.22,177100.74
+Dell,Latitude E7470,Ultrabook,14,Touchscreen 2560x1440,Intel,Core i7 6600U,2.6,8,256GB SSD,Intel,HD Graphics 520,Windows 10,1.5,183067.5148
+Dell,Alienware 17,Gaming,17.3,Full HD 1920x1080,Intel,Core i7 6700HQ,2.6,32,256GB SSD +  1TB HDD,Nvidia,GeForce GTX 1070,Windows 10,4.42,261128
+Toshiba,Tecra A40-C-1DF,Notebook,14,Full HD 1920x1080,Intel,Core i5 6200U,2.3,8,256GB SSD,Intel,HD Graphics 520,Windows 10,1.95,110046.8
+Asus,Rog Strix,Gaming,17.3,Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,16,256GB SSD +  1TB HDD,Nvidia,GeForce GTX 1060,Windows 10,2.73,191173.674
+HP,Probook 450,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel,Core i5 7200U,2.7,8,128GB SSD +  1TB HDD,Nvidia,GeForce 930MX,Windows 10,2.04,91301.54
+Lenovo,ThinkPad T460,Notebook,14,1366x768,Intel,Core i5 6200U,2.3,4,508GB Hybrid,Intel,HD Graphics 520,Windows 7,1.7,93446.52
+Asus,Q534UX-BHI7T19 (i7-7500U/16GB/2TB,2 in 1 Convertible,15.6,4K Ultra HD / Touchscreen 3840x2160,Intel,Core i7 7500U,2.7,16,512GB SSD +  2TB HDD,Nvidia,GeForce GTX 950M,Windows 10,2.3,167774.74
+HP,15-bs053od (i7-7500U/6GB/1TB/W10),Notebook,15.6,1366x768,Intel,Core i7 7500U,2.7,6,1TB HDD,Intel,HD Graphics 620,Windows 10,2.04,53997.54
+Asus,Rog GL753VE-DS74,Gaming,17.3,Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,16,256GB SSD +  1TB HDD,Nvidia,GeForce GTX 1050 Ti,Windows 10,2.99,163111.74
+Dell,Inspiron 7579,2 in 1 Convertible,15.6,IPS Panel Full HD / Touchscreen 1920x1080,Intel,Core i7 7500U,2.7,12,512GB SSD,Intel,HD Graphics 620,Windows 10,2.19,121144.74
+Toshiba,Portege Z30-C-1CV,Notebook,13.3,Full HD 1920x1080,Intel,Core i5 6200U,2.3,4,128GB SSD,Intel,HD Graphics 520,Windows 7,1.2,111445.7
+Lenovo,IdeaPad 320-15ABR,Notebook,15.6,Full HD 1920x1080,AMD,A12-Series 9720P,3.6,6,256GB SSD,AMD,Radeon 530,Windows 10,2.2,51199.74
+Fujitsu,LifeBook A556,Notebook,15.6,1366x768,Intel,Core i5 6200U,2.3,4,256GB SSD,Intel,HD Graphics 520,Windows 10,2.3,60525.74
+Toshiba,Tecra A40-C-1KF,Notebook,14,1366x768,Intel,Core i5 6200U,2.3,4,500GB HDD,Intel,HD Graphics 520,Windows 10,1.75,85332.9
+Dell,Inspiron 3567,Notebook,15.6,1366x768,Intel,Core i5 7200U,2.5,4,500GB HDD,AMD,Radeon R5 M430,Windows 10,2.25,55862.74
+HP,Probook 450,Notebook,15.6,Full HD 1920x1080,Intel,Core i5 7200U,2.5,8,1TB HDD,Intel,HD Graphics 620,Windows 10,2.04,75167.56
+Lenovo,Legion Y520-15IKBN,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,8,128GB SSD +  1TB HDD,Nvidia,GeForce GTX 1060,Windows 10,2.5,110886.14
+Dell,Inspiron 5567,Notebook,15.6,1366x768,Intel,Core i7 7500U,2.7,8,1TB HDD,AMD,Radeon R7 M445,Windows 10,2.36,69851.74
+Dell,Latitude 5480,Notebook,14,Full HD 1920x1080,Intel,Core i5 7200U,2.5,8,128GB SSD,Intel,HD Graphics 620,Windows 10,1.6,104357.94
+HP,EliteBook Folio,Netbook,12.5,Full HD 1920x1080,Intel,Core M 6Y75,1.2,8,512GB SSD,Intel,HD Graphics 515,Windows 10,0.97,177940.08
+HP,15-bs005nv (i3-6006U/4GB/1TB,Notebook,15.6,Full HD 1920x1080,Intel,Core i3 6006U,2,4,128GB SSD +  1TB HDD,AMD,Radeon 520,Windows 10,2.1,46536.74
+Lenovo,V110-15IAP (N3350/4GB/128GB/No,Notebook,15.6,1366x768,Intel,Celeron Dual Core N3350,1.1,4,128GB SSD,Intel,HD Graphics 500,No OS,1.9,25238.0212
+Lenovo,ThinkPad T560,Notebook,15.6,Full HD 1920x1080,Intel,Core i5 6200U,2.3,8,256GB SSD,Intel,HD Graphics 520,Windows 10,2.3,125807.74
+Dell,Inspiron 5378,2 in 1 Convertible,13.3,Full HD / Touchscreen 1920x1080,Intel,Core i5 7200U,2.5,8,256GB SSD,Intel,HD Graphics 620,Windows 10,1.68,82908.14
+Asus,ZenBook UX310UA-FB485T,Notebook,13.3,Quad HD+ 3200x1800,Intel,Core i5 7200U,2.5,8,256GB SSD,Intel,HD Graphics 620,Windows 10,1.4,107249
+HP,Spectre 13-V111dx,Ultrabook,13.3,IPS Panel Full HD / Touchscreen 1920x1080,Intel,Core i7 7500U,2.7,8,256GB SSD,Intel,HD Graphics 620,Windows 10,1.11,125807.74
+Acer,Aspire ES1-533,Notebook,15.6,1366x768,Intel,Pentium Quad Core N4200,1.1,4,500GB HDD,Intel,HD Graphics 505,Windows 10,2.4,35438.8
+Asus,Rog GL553VE-DS74,Gaming,15.6,Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,16,256GB SSD +  1TB HDD,Nvidia,GeForce GTX 1050 Ti,Windows 10,2.5,167774.74
+HP,EliteBook 840,Ultrabook,14,Full HD 1920x1080,Intel,Core i7 7500U,2.7,8,512GB SSD,Intel,HD Graphics 620,Windows 10,1.48,194820.14
+Acer,Nitro 5,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,8,128GB SSD +  1TB HDD,Nvidia,GeForce GTX 1050,Windows 10,2.7,117507.6
+HP,ENVY -,Notebook,13.3,IPS Panel Full HD 1920x1080,Intel,Core i5 7200U,2.5,8,256GB SSD,Intel,HD Graphics 620,Windows 10,1.34,110886.14
+Dell,Vostro 3568,Notebook,15.6,1366x768,Intel,Core i3 7100U,2.4,4,128GB SSD,Intel,HD Graphics 620,Windows 10,2.18,51013.22
+HP,Probook 440,Notebook,14,1366x768,Intel,Core i5 7200U,2.5,4,500GB HDD,Intel,HD Graphics 620,Windows 10,1.64,72649.54
+Toshiba,Portege Z30-C-16H,Notebook,13.3,Full HD 1920x1080,Intel,Core i5 6200U,2.3,4,128GB SSD,Intel,HD Graphics 520,Windows 10,1.2,111445.7
+HP,EliteBook 840,Notebook,14,1366x768,Intel,Core i5 6300U,2.4,4,256GB SSD,Intel,HD Graphics 520,Windows 10,1.48,102585.0674
+HP,ProBook 640,Notebook,14,Full HD 1920x1080,Intel,Core i5 7200U,2.5,4,256GB SSD,Intel,HD Graphics 620,Windows 10,1.95,112378.3
+HP,EliteBook 1040,Ultrabook,14,Full HD 1920x1080,Intel,Core i7 6600U,2.6,8,256GB SSD,Intel,HD Graphics 520,Windows 7,1.43,135133.74
+HP,ProBook 440,Notebook,14,Full HD 1920x1080,Intel,Core i5 7200U,2.5,8,256GB SSD,Nvidia,GeForce 930MX,Windows 10,1.64,97853.9876
+HP,Probook 440,Notebook,14,1366x768,Intel,Core i3 7100U,2.4,4,500GB HDD,Intel,HD Graphics 620,Windows 10,1.64,63789.84
+Dell,Inspiron 7567,Gaming,15.6,Full HD 1920x1080,Intel,Core i5 7300HQ,2.5,8,1.0TB Hybrid,Nvidia,GeForce GTX 1050,Windows 10,2.65,88503.74
+HP,EliteBook 820,Ultrabook,12.5,Full HD 1920x1080,Intel,Core i5 7200U,2.5,4,500GB HDD,Intel,HD Graphics 620,Windows 10,1.26,143527.14
+HP,Elitebook 840,Notebook,14,Full HD 1920x1080,Intel,Core i5 7200U,2.5,4,256GB SSD,Intel,HD Graphics 620,Windows 10,1.48,148283.4
+HP,EliteBook 840,Ultrabook,14,Full HD 1920x1080,Intel,Core i7 6500U,2.5,8,256GB SSD,Intel,HD Graphics 520,Windows 10,1.54,176001.2046
+HP,Probook 430,Notebook,13.3,1366x768,Intel,Core i3 7100U,2.4,4,500GB HDD,Intel,HD Graphics 620,Windows 10,1.49,74608
+Toshiba,Portege A30-C-1CZ,Notebook,13.3,1366x768,Intel,Core i5 6200U,2.3,8,256GB SSD,Intel,HD Graphics 520,Windows 10,1.5,112844.6
+HP,ProBook 450,Notebook,15.6,1366x768,Intel,Core i3 7100U,2.4,4,256GB SSD,Intel,HD Graphics 620,Windows 10,2.04,71809.2674
+Lenovo,ThinkPad P70,Notebook,17.3,IPS Panel 4K Ultra HD 3840x2160,Intel,Core i7 6820HQ,2.7,16,512GB SSD,Nvidia,Quadro 3000M,Windows 7,2.4,276795.68
+Toshiba,Tecra Z40-C-12Z,Notebook,14,IPS Panel Full HD 1920x1080,Intel,Core i5 6200U,2.3,8,256GB SSD,Intel,HD Graphics 520,Windows 10,1.47,138957.4
+HP,EliteBook 1040,Notebook,14,Full HD 1920x1080,Intel,Core i7 6500U,2.5,8,256GB SSD,Intel,HD Graphics 520,Windows 10,1.43,207876.54
+Dell,Inspiron 5568,2 in 1 Convertible,15.6,IPS Panel Full HD / Touchscreen 1920x1080,Intel,Core i3 6100U,2.3,4,1TB HDD,Intel,HD Graphics 520,Windows 10,2.08,74234.0274
+Toshiba,PortÃ©gÃ© Z30-C-16K,Ultrabook,13.3,Full HD 1920x1080,Intel,Core i5 6200U,2.3,8,256GB SSD,Intel,HD Graphics 520,Windows 10,1.2,148283.4
+HP,Spectre 13-V100nv,Notebook,13.3,IPS Panel Full HD 1920x1080,Intel,Core i5 7200U,2.5,8,256GB SSD,Intel,HD Graphics 620,Windows 10,1.11,107155.74
+HP,ProBook 440,Notebook,14,Full HD 1920x1080,Intel,Core i7 7500U,2.7,8,256GB SSD,Nvidia,GeForce 930MX,Windows 10,1.64,110553.2018
+Dell,Latitude E5570,Notebook,15.6,Full HD 1920x1080,Intel,Core i5 6300U,2.4,8,500GB HDD,Intel,HD Graphics 520,Windows 10,2.09,97590.9944
+HP,Elitebook 820,Ultrabook,12.5,1366x768,Intel,Core i5 7200U,2.5,4,256GB SSD,Intel,HD Graphics 620,Windows 10,1.26,145392.34
+HP,ProBook 650,Notebook,14,1366x768,Intel,Core i5 7200U,2.5,4,500GB HDD,Intel,HD Graphics 620,Windows 10,2.31,110886.14
+HP,ProBook 640,Notebook,14,1366x768,Intel,Core i5 7200U,2.5,4,500GB HDD,Intel,HD Graphics 620,Windows 10,1.95,98855.6
+Dell,XPS 13,Ultrabook,13.3,Quad HD+ / Touchscreen 3200x1800,Intel,Core i5 7200U,2.5,8,256GB SSD,Intel,HD Graphics 620,Windows 10,1.29,151454.24
+HP,Probook 470,Notebook,17.3,Full HD 1920x1080,Intel,Core i5 7200U,2.5,8,256GB SSD,Nvidia,GeForce 930MX,Windows 10,2.63,100720.8
+HP,ProBook 440,Notebook,14,1366x768,Intel,Core i5 7200U,2.5,4,256GB SSD,Intel,HD Graphics 620,Windows 10,1.64,90741.98
+Acer,Aspire 3,Notebook,15.6,1366x768,AMD,A9-Series 9420,3,6,1TB HDD,AMD,Radeon R5,Windows 10,2.1,38143.34
+MSI,GL72M 7RDX,Gaming,17.3,Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,8,128GB SSD +  1TB HDD,Nvidia,GeForce GTX 1050,Windows 10,2.7,111147.268
+HP,Probook 640,Notebook,14,Full HD 1920x1080,Intel,Core i5 6200U,2.3,8,256GB SSD,Intel,HD Graphics 520,Windows 7,1.95,111445.7
+HP,EliteBook 850,Notebook,15.6,Full HD 1920x1080,Intel,Core i7 6500U,2.5,8,256GB SSD,Intel,HD Graphics 520,Windows 10,1.84,114615.6074
+HP,EliteBook 820,Ultrabook,12.5,Full HD 1920x1080,Intel,Core i7 6500U,2.5,8,256GB SSD,Intel,HD Graphics 520,Windows 10,1.26,125807.74
+HP,ProBook 450,Notebook,15.6,1366x768,Intel,Core i5 7200U,2.5,4,500GB HDD,Intel,HD Graphics 620,Windows 10,2.04,69198.92
+Toshiba,Tecra Z40-C-136,Ultrabook,14,IPS Panel Full HD 1920x1080,Intel,Core i7 6600U,2.6,8,256GB SSD,Intel,HD Graphics 520,Windows 10,1.47,160873.5
+Dell,Latitude E5570,Notebook,15.6,Full HD 1920x1080,Intel,Core i5 6300U,2.4,8,256GB SSD,Intel,HD Graphics 520,Windows 7,2.09,99130.717
+HP,ProBook 440,Notebook,14,Full HD 1920x1080,Intel,Core i5 7200U,2.5,8,256GB SSD,Intel,HD Graphics 620,Windows 10,1.64,94240.1626
+Lenovo,Yoga 500-15ISK,2 in 1 Convertible,15.6,IPS Panel Full HD / Touchscreen 1920x1080,Intel,Core i7 6500U,2.5,4,256GB SSD,Intel,HD Graphics 520,Windows 10,1.8,78991.22
+Vero,V142 (X5-Z8350/2GB/32GB/W10),Notebook,14,1366x768,Intel,Atom X5-Z8350,1.44,2,32GB Flash Storage,Intel,HD Graphics 400,Windows 10,1.45,19659.208
+Toshiba,Tecra A50-C-218,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel,Core i7 6500U,2.5,16,256GB SSD,Nvidia,GeForce 930M,Windows 10,2.4,132895.5
+Lenovo,Thinkpad L560,Notebook,15.6,Full HD 1920x1080,Intel,Core i5 6200U,2.3,8,256GB SSD,Intel,HD Graphics 520,Windows 10,2.3,97885.696
+HP,EliteBook 840,Notebook,14,Full HD 1920x1080,Intel,Core i5 6200U,2.3,4,500GB HDD,Intel,HD Graphics 520,Windows 10,1.54,93260
+HP,EliteBook 850,Notebook,15.6,Full HD 1920x1080,Intel,Core i5 6300U,2.4,8,256GB SSD +  500GB HDD,Intel,HD Graphics 520,Windows 10,1.84,196157.4884
+HP,EliteBook 1040,Notebook,14,Full HD 1920x1080,Intel,Core i5 6200U,2.3,8,256GB SSD,Intel,HD Graphics 520,Windows 7,1.43,136998.94
+MSI,GT72S Dominator,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel,Core i7 6820HK,2.7,16,256GB SSD +  1TB HDD,Nvidia,GeForce GTX 980M,Windows 10,3.78,144146.3864
+Lenovo,IdeaPad Y900-17ISK,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel,Core i7 6700HQ,2.6,16,128GB SSD +  1TB HDD,Nvidia,GeForce GTX 980M,Windows 10,4.6,213564.4674
+Asus,Chromebook C202SA,Netbook,11.6,1366x768,Intel,Celeron Dual Core N3060,1.6,4,16GB Flash Storage,Intel,HD Graphics 400,Chrome OS,1.2,26849.554
+Lenovo,ThinkPad X1,Notebook,14,IPS Panel 2560x1440,Intel,Core i7 6600U,2.6,16,256GB SSD,Intel,HD Graphics 520,Windows 7,1.1,244341.2
+HP,Noteb Pav,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel,Core i7 7500U,2.7,8,1TB HDD,Nvidia,GeForce 940MX,Windows 10,1.91,91301.54
+Dell,Inspiron 5578,2 in 1 Convertible,15.6,IPS Panel Full HD / Touchscreen 1920x1080,Intel,Core i5 7200U,2.7,8,256GB SSD,Intel,HD Graphics 620,Windows 10,2.3,102026.44
+HP,ProBook 450,Notebook,15.6,1366x768,Intel,Core i5 7200U,2.5,4,256GB SSD,Intel,HD Graphics 620,Windows 10,2.04,91301.54
+Dell,XPS 13,Ultrabook,13.3,Quad HD+ / Touchscreen 3200x1800,Intel,Core i7 7500U,2.7,16,1TB SSD,Intel,HD Graphics 620,Windows 10,1.2,210208.04
+HP,ProBook 650,Notebook,15.6,1366x768,Intel,Core i3 6100U,2.3,4,500GB HDD,Intel,HD Graphics 520,Windows 10,2.31,65762.289
+HP,250 G5,Notebook,15.6,1366x768,Intel,Core i5 7200U,2.5,4,500GB HDD,Intel,HD Graphics 620,No OS,1.96,46536.74
+Acer,Aspire ES1-523,Notebook,15.6,1366x768,AMD,A8-Series 7410,2.2,8,1TB HDD,AMD,Radeon R5,Windows 10,2.4,41873.74
+Dell,Inspiron 7378,2 in 1 Convertible,13.3,IPS Panel Full HD / Touchscreen 1920x1080,Intel,Core i7 7500U,2.7,12,256GB SSD,Intel,HD Graphics 620,Windows 10,1.6,121144.74
+MSI,GT62VR 6RD,Gaming,15.6,Full HD 1920x1080,Intel,Core i7 6700HQ,2.6,16,256GB SSD +  1TB HDD,Nvidia,GeForce GTX 1060,Windows 10,2.94,169639.94
+HP,ProBook 450,Notebook,15.6,Full HD 1920x1080,Intel,Core i7 7500U,2.7,8,256GB SSD,Intel,HD Graphics 620,Windows 10,2.04,99788.2
+Asus,Rog G752VL-GC088D,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel,Core i7 6700HQ,2.6,16,1TB HDD,Nvidia,GeForce GTX 965M,No OS,4,93073.48
+Dell,Inspiron 3567,Notebook,15.6,Full HD 1920x1080,Intel,Core i5 7200U,2.5,4,1TB HDD,Intel,HD Graphics,Windows 10,2.25,52132.34
+Dell,Inspiron 5567,Notebook,15.6,Full HD 1920x1080,Intel,Core i7 7500U,2.7,16,2TB HDD,AMD,Radeon R7 M445,Windows 10,2.32,92326.4674
+MSI,GS63VR 6RF,Gaming,15.6,Full HD 1920x1080,Intel,Core i7 6700HQ,2.6,16,256GB SSD +  1TB HDD,Nvidia,GeForce GTX 1060,Windows 10,1.8,179898.54
+Dell,XPS 13,Ultrabook,13.3,Full HD 1920x1080,Intel,Core i7 7500U,2.7,8,256GB SSD,Intel,HD Graphics 620,Windows 10,1.29,135973.08
+Asus,ROG G701VO,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel,Core i7 6820HK,2.7,64,1TB SSD,Nvidia,GeForce GTX 980,Windows 10,3.58,370708.5
+Dell,Inspiron 5368,2 in 1 Convertible,13.3,Full HD / Touchscreen 1920x1080,Intel,Core i7 6500U,2.5,8,256GB SSD,Intel,HD Graphics 520,Windows 10,1.62,74422.4126
+Dell,Alienware 15,Gaming,15.6,4K Ultra HD 3840x2160,Intel,Core i7 6700HQ,2.6,16,256GB SSD +  1TB HDD,Nvidia,GeForce GTX 970M,Windows 10,3.21,123942.54
+Apple,"MacBook 12""",Ultrabook,12,IPS Panel Retina Display 2304x1440,Intel,Core M,1.1,8,256GB Flash Storage,Intel,HD Graphics 515,Mac OS X,0.92,121238
+Dell,Latitude 3570,Notebook,15.6,1366x768,Intel,Core i3 6100U,2.3,4,500GB HDD,Intel,HD Graphics 520,Windows 10,2.06,44949.4548
+HP,ProBook 650,Notebook,15.6,1366x768,Intel,Core i5 6200U,2.3,4,500GB HDD,Intel,HD Graphics 520,Windows 10,2.31,111818.74
+HP,EliteBook 820,Ultrabook,12.5,Full HD 1920x1080,Intel,Core i5 6200U,2.3,8,256GB SSD,Intel,HD Graphics 520,Windows 7,1.26,111818.74
+HP,ProBook 430,Notebook,13.3,Full HD 1920x1080,Intel,Core i7 7500U,2.7,8,256GB SSD,Intel,HD Graphics 620,Windows 10,1.49,101653.4
+Lenovo,ThinkPad Yoga,Ultrabook,12.5,IPS Panel Full HD / Touchscreen 1920x1080,Intel,Core i7 6500U,2.5,8,256GB SSD,Intel,HD Graphics 520,Windows 10,1.3,159800.0774
+Lenovo,IdeaPad 300-17ISK,Notebook,17.3,1600x900,Intel,Core i5 6200U,2.3,8,1.0TB HDD,AMD,Radeon R5 M330,Windows 10,3,61458.34
+Lenovo,Ideapad 700-15ISK,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel,Core i5 6300HQ,2.3,4,1TB HDD,Nvidia,GeForce GTX 950M,Windows 10,2.3,91115.02
+MSI,GT72VR Dominator,Gaming,17.3,Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,16,256GB SSD +  1TB HDD,Nvidia,GeForce GTX 1070,Windows 10,3.78,233056.74
+Lenovo,V110-15ISK (i5-6200U/4GB/500GB/W10),Notebook,15.6,1366x768,Intel,Core i5 6200U,2.3,4,500GB HDD,Intel,HD Graphics 520,Windows 10,2.1,50360.4
+HP,Probook 650,Notebook,15.6,Full HD 1920x1080,Intel,Core i5 6200U,2.3,4,500GB HDD,Intel,HD Graphics 520,Windows 7,2.31,87664.4
+Lenovo,Yoga 900S-12ISK,Ultrabook,12.5,IPS Panel Touchscreen 2560x1440,Intel,Core M 6Y75,1.2,8,512GB SSD,Intel,HD Graphics 515,Windows 10,0.99,130470.74
+Lenovo,IdeaPad Y900-17ISK,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel,Core i7 6820HK,2.7,32,512GB SSD +  1.0TB Hybrid,Nvidia,GeForce GTX 980M,Windows 10,4.6,302162.4
+Lenovo,Yoga Book,2 in 1 Convertible,10.1,IPS Panel Touchscreen 1920x1200,Intel,Atom x5-Z8550,1.44,4,64GB Flash Storage,Intel,HD Graphics 400,Windows 10,0.69,60271.1402
+HP,Spectre x360,Ultrabook,13.3,IPS Panel 4K Ultra HD 3840x2160,Intel,Core i7 7500U,2.7,16,512GB SSD,Intel,HD Graphics 620,Windows 10,1.3,191089.74
+Dell,Vostro 3568,Notebook,15.6,Full HD 1920x1080,Intel,Core i5 7200U,2.5,8,256GB SSD,Intel,HD Graphics 620,Windows 10,2.18,69945
+HP,EliteBook 840,Notebook,14,Full HD 1920x1080,Intel,Core i5 6200U,2.3,4,500GB HDD,Intel,HD Graphics 520,Windows 7,1.54,96150.1274
+HP,ZBook 15u,Workstation,15.6,Full HD 1920x1080,Intel,Core i7 6500U,2.5,8,256GB SSD,AMD,FirePro W4190M,Windows 7,1.9,139423.7
+Lenovo,ThinkPad T460,Notebook,14,Full HD 1920x1080,Intel,Core i5 6200U,2.3,8,180GB SSD,Intel,HD Graphics 520,Windows 7,1.7,111818.74
+HP,Chromebook 13,Notebook,13.3,Quad HD+ 3200x1800,Intel,Pentium Dual Core 4405Y,1.5,4,32GB Flash Storage,Intel,HD Graphics 515,Chrome OS,1.29,57354.9
+Acer,Aspire ES1-523,Notebook,15.6,1366x768,AMD,A8-Series 7410,2.2,4,500GB HDD,AMD,Radeon R5,Windows 10,2.4,36091.62
+Dell,Inspiron 3552,Notebook,15.6,1366x768,Intel,Pentium Quad Core N3700,1.6,4,500GB HDD,Intel,HD Graphics,Linux,2.2,36696.8774
+HP,250 G6,Notebook,15.6,1366x768,Intel,Core i3 6006U,2,4,1TB HDD,Intel,HD Graphics 520,No OS,1.86,32267.0274
+Asus,Rog GL702VM-GC354T,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,8,256GB SSD +  1TB HDD,Nvidia,GeForce GTX 1060,Windows 10,2.7,149122.74
+Dell,Inspiron 5370,Ultrabook,13.3,IPS Panel Full HD 1920x1080,Intel,Core i5 8250U,1.6,4,256GB SSD,AMD,Radeon 530,Windows 10,1.4,76319.321
+HP,Elitebook 820,Netbook,12.5,1366x768,Intel,Core i5 6200U,2.3,4,128GB SSD,Intel,HD Graphics 520,Windows 7,2.4,149122.74
+Acer,Aspire F5-573G,Notebook,15.6,Full HD 1920x1080,Intel,Core i5 7200U,2.5,8,256GB SSD +  1TB HDD,Nvidia,GeForce GTX 950M,Windows 10,2.4,74514.74
+Dell,Inspiron 5567,Notebook,15.6,Full HD 1920x1080,Intel,Core i5 7200U,2.5,8,1TB HDD,AMD,Radeon R7 M445,Windows 10,2.36,59574.488
+MSI,GS70 Stealth,Gaming,17.3,Full HD 1920x1080,Intel,Core i7 6700HQ,2.6,8,256GB SSD,Nvidia,GeForce GTX 965M,Windows 10,2.6,149122.74
+HP,250 G5,Notebook,15.6,1366x768,Intel,Pentium Quad Core N3710,1.6,4,1TB HDD,Intel,HD Graphics 405,Windows 10,1.96,46630
+Asus,G752VY-GC162T (i7-6700HQ/16GB/1TB,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel,Core i7 6700HQ,2.6,16,128GB SSD +  1TB HDD,Nvidia,GeForce GTX 980M,Windows 10,4.3,214404.74
+Dell,Latitude E5270,Ultrabook,12.5,1366x768,Intel,Core i3 6100U,2.3,4,500GB HDD,Intel,HD Graphics 520,Windows 7,1.5,105864.089
+Dell,Latitude E5270,Ultrabook,12.5,1366x768,Intel,Core i3 6100U,2.3,4,128GB SSD,Intel,HD Graphics 520,Windows 7,1.5,108831.6222
+Acer,Chromebook 15,Notebook,15.6,1366x768,Intel,Celeron Dual Core 3205U,1.5,4,16GB SSD,Intel,HD Graphics,Chrome OS,2.2,19491.34
+HP,ZBook 17,Workstation,17.3,IPS Panel Full HD 1920x1080,Intel,Core i7 6700HQ,2.6,8,1TB HDD,AMD,FirePro W6150M,Windows 7,3,270360.74
+Lenovo,Legion Y520-15IKBN,Gaming,15.6,Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,16,512GB SSD,Nvidia,GeForce GTX 1050 Ti,Windows 10,2.4,111818.74
+Dell,Latitude E5270,Ultrabook,12.5,1366x768,Intel,Core i5 6200U,2.3,8,256GB SSD,Intel,HD Graphics 520,Windows 7,1.5,131785.706
+MSI,GE72 Apache,Gaming,17.3,Full HD 1920x1080,Intel,Core i7 6700HQ,2.6,8,128GB SSD +  1TB HDD,Nvidia,GeForce GTX 960M,Windows 10,2.9,140933.5794
+Lenovo,Yoga 500-15ISK,2 in 1 Convertible,15.6,IPS Panel Full HD / Touchscreen 1920x1080,Intel,Core i5 6200U,2.3,4,256GB SSD,Intel,HD Graphics 520,Windows 10,2.1,80856.42
+HP,15-bw011nv (A6-9220/4GB/1TB/FHD/W10),Notebook,15.6,Full HD 1920x1080,AMD,A6-Series 9220,2.5,4,1TB HDD,AMD,Radeon R4,Windows 10,2.1,37117.48
+Asus,Rog GL552VW-CN470T,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel,Core i7 6700HQ,2.6,16,128GB SSD +  1TB HDD,Nvidia,GeForce GTX 960M,Windows 10,2.59,124875.14
+HP,EliteBook 1030,Notebook,13.3,Quad HD+ / Touchscreen 3200x1800,Intel,Core M 6Y54,1.1,8,256GB SSD,Intel,HD Graphics 515,Windows 10,1.16,158448.74
+Dell,Vostro 3559,Notebook,15.6,1366x768,Intel,Core i5 6200U,2.3,4,500GB HDD,AMD,Radeon R5 M315,Windows 7,2.24,71730.929
+Lenovo,V110-15ISK (i3-6006U/4GB/128GB/W10),Notebook,15.6,1366x768,Intel,Core i3 6006U,2,4,128GB SSD,Intel,HD Graphics 520,Windows 10,2.1,40008.54
+HP,Spectre Pro,Ultrabook,13.3,Full HD 1920x1080,Intel,Core i7 6500U,2.5,8,512GB SSD,Intel,HD Graphics 520,Windows 10,1.16,183628.94
+Lenovo,Yoga Book,2 in 1 Convertible,10.1,IPS Panel Touchscreen 1920x1200,Intel,Atom x5-Z8550,1.44,4,64GB Flash Storage,Intel,HD Graphics 400,Android,0.69,51199.74
+Dell,XPS 13,Ultrabook,13.3,Full HD 1920x1080,Intel,Core i7 7560U,2.4,8,256GB SSD,Intel,Iris Plus Graphics 640,Windows 10,1.23,128605.54
+Lenovo,IdeaPad Y900-17ISK,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel,Core i7 6820HK,2.7,16,256GB SSD +  1.0TB Hybrid,Nvidia,GeForce GTX 980M,Windows 10,4.6,256464.0674
+Razer,Blade Stealth,Ultrabook,12.5,Touchscreen / 4K Ultra HD 3840x2160,Intel,Core i7 6500U,2.5,8,256GB SSD,Intel,HD Graphics 520,Windows 10,1.25,95964.54
+Toshiba,Portege X30-D-10K,Ultrabook,13.3,Full HD 1920x1080,Intel,Core i7 7500U,2.7,16,512GB SSD,Intel,HD Graphics 620,Windows 10,1.05,207596.76
+Asus,Rog GL752VW-T4308T,Gaming,17.3,Full HD 1920x1080,Intel,Core i7 6700HQ,2.6,8,128GB SSD +  1TB HDD,Nvidia,GeForce GTX 960M,Windows 10,3.52,122402.8174
+Vero,V131 (X5-Z8350/4GB/32GB/FHD/W10),Notebook,13.3,Full HD 1920x1080,Intel,Atom X5-Z8350,1.44,4,32GB Flash Storage,Intel,HD Graphics 400,Windows 10,1.35,18278.96
+HP,Spectre Pro,Notebook,13.3,Full HD 1920x1080,Intel,Core i5 6200U,2.3,8,256GB SSD,Intel,HD Graphics 520,Windows 10,1.16,157609.4
+HP,EliteBook 1040,Notebook,14,Full HD 1920x1080,Intel,Core i5 6200U,2.3,8,256GB SSD,Intel,HD Graphics 520,Windows 7,1.43,141102.38
+Dell,Latitude E5570,Notebook,15.6,1366x768,Intel,Core i5 6200U,2.3,4,500GB HDD,Intel,HD Graphics 520,Linux,2.09,48833.7338
+Asus,VivoBook Max,Notebook,15.6,1366x768,Intel,Core i3 7100U,2.4,4,1TB HDD,Intel,HD Graphics 620,Windows 10,2,40568.1
+Lenovo,ThinkPad Yoga,2 in 1 Convertible,14,IPS Panel Full HD / Touchscreen 1920x1080,Intel,Core i7 6500U,2.5,8,256GB SSD,Intel,HD Graphics 520,Windows 10,1.8,155650.94
+Lenovo,Yoga Book,2 in 1 Convertible,10.1,IPS Panel Touchscreen 1920x1200,Intel,Atom x5-Z8550,1.44,4,64GB Flash Storage,Intel,HD Graphics 400,Windows 10,0.69,44671.54
+HP,EliteBook 820,Ultrabook,12.5,1366x768,Intel,Core i5 6300U,2.4,8,256GB SSD,Intel,HD Graphics 520,Windows 7,1.26,176727.7
+Lenovo,Legion Y520-15IKBN,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel,Core i5 7300HQ,2.5,8,128GB SSD +  1TB HDD,Nvidia,GeForce GTX 1060,No OS,2.4,92234.14
+HP,Omen -,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel,Core i5 6300HQ,2.3,8,128GB SSD +  1TB HDD,Nvidia,GeForce GTX 1060,Windows 10,3.35,105290.54
+HP,15-bs078cl (i7-7500U/8GB/2TB/W10),Notebook,15.6,1366x768,Intel,Core i7 7500U,2.7,8,2TB HDD,Intel,HD Graphics 620,Windows 10,2.04,58660.54
+Lenovo,ThinkPad P40,2 in 1 Convertible,14,IPS Panel Full HD / Touchscreen 1920x1080,Intel,Core i7 6600U,2.6,8,512GB SSD,Nvidia,Quadro M500M,Windows 7,1.8,191218.4388
+Asus,L403NA-GA013TS (N3350/4GB/32GB/W10),Notebook,14,1366x768,Intel,Celeron Dual Core N3350,1.1,4,32GB Flash Storage,Intel,HD Graphics 500,Windows 10,1.5,25926.28
+HP,250 G6,Ultrabook,15.6,Full HD 1920x1080,Intel,Core i7 7500U,2.7,8,256GB SSD,Intel,HD Graphics 620,Windows 10,1.84,70131.52
+Acer,Aspire E5-576G,Notebook,15.6,Full HD 1920x1080,Intel,Core i5 7200U,2.5,4,1TB HDD,Nvidia,GeForce 940MX,Windows 10,2.23,57448.16
+Lenovo,IdeaPad 500-15ISK,Notebook,15.6,Full HD 1920x1080,Intel,Core i7 6500U,2.5,16,1.0TB Hybrid,AMD,Radeon R7 M360,Windows 10,2.5,102492.74
+HP,ZBook 17,Workstation,17.3,IPS Panel Full HD 1920x1080,Intel,Core i7 6700HQ,2.6,8,256GB SSD,Nvidia,Quadro M3000M,Windows 7,3,368321.044
+Dell,Inspiron 5567,Notebook,15.6,1366x768,Intel,Core i5 7200U,2.5,8,1TB HDD,AMD,Radeon R7 M445,Windows 10,2.5,73115.84
+MSI,GT72S Dominator,Gaming,17.3,Full HD 1920x1080,Intel,Core i7 6820HQ,2.7,16,256GB SSD +  1TB HDD,Nvidia,GeForce GTX 980M,Windows 10,3.78,223730.74
+HP,EliteBook 850,Ultrabook,15.6,Full HD 1920x1080,Intel,Core i7 6500U,2.5,8,256GB SSD,Intel,HD Graphics 520,Windows 7,1.88,202534.6072
+Lenovo,ThinkPad X1,2 in 1 Convertible,14,IPS Panel Touchscreen 2560x1440,Intel,Core i7 6600U,2.6,16,512GB SSD,Intel,HD Graphics 520,Windows 10,2.8,227554.4
+MSI,GP62M 7RDX,Gaming,15.6,Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,8,128GB SSD +  1TB HDD,Nvidia,GeForce GTX 1050,Windows 10,2.4,106577.528
+HP,Spectre Pro,2 in 1 Convertible,13.3,Full HD / Touchscreen 1920x1080,Intel,Core i5 6300U,2.4,8,256GB SSD,Intel,HD Graphics 520,Windows 10,1.48,151920.54
+HP,ZBook 15,Workstation,15.6,IPS Panel Full HD 1920x1080,Intel,Core i7 6700HQ,2.6,8,256GB SSD,Nvidia,Quadro M1000M,Windows 7,2.59,207876.54
+HP,Spectre Pro,2 in 1 Convertible,13.3,Touchscreen 2560x1440,Intel,Core i7 6600U,2.6,8,256GB SSD,Intel,HD Graphics 520,Windows 10,1.48,167774.74
+HP,ZBook Studio,Workstation,15.6,Full HD 1920x1080,Intel,Core i7 6700HQ,2.6,8,256GB SSD,Nvidia,Quadro M1000M,Windows 7,2,177100.74
+HP,EliteBook 820,Ultrabook,12.5,Full HD 1920x1080,Intel,Core i7 6500U,2.5,8,256GB SSD,Intel,HD Graphics 520,Windows 7,1.26,214213.557
+Dell,Vostro 5568,Notebook,15.6,Full HD 1920x1080,Intel,Core i7 7500U,2.7,8,256GB SSD,Nvidia,GeForce 940MX,Windows 10,2.18,94183.274
+HP,EliteBook 850,Notebook,15.6,Full HD 1920x1080,Intel,Core i5 6200U,2.3,8,256GB SSD,Intel,HD Graphics 520,Windows 7,1.88,147257.54
+Lenovo,ThinkPad X1,2 in 1 Convertible,14,IPS Panel Touchscreen 2560x1440,Intel,Core i7 6500U,2.5,8,256GB SSD,Intel,HD Graphics 520,Windows 10,1.27,218135.14
+Lenovo,V110-15ISK (i3-6006U/4GB/1TB/No,Notebook,15.6,1366x768,Intel,Core i3 6006U,2,4,1TB HDD,Intel,HD Graphics 520,No OS,1.9,31615.14
+HP,15-BA015wm (E2-7110/4GB/500GB/W10),Notebook,15.6,1366x768,AMD,E-Series 7110,1.8,4,500GB HDD,AMD,Radeon R2 Graphics,Windows 10,1.86,27698.22
+Lenovo,B51-80 (i5-6200U/8GB/1TB/Radeon,Notebook,15.6,Full HD 1920x1080,Intel,Core i5 6200U,2.3,8,1TB HDD,AMD,Radeon R5 M330,No OS,2.32,55862.74
+Dell,Inspiron 7567,Gaming,15.6,Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,8,1TB HDD,Nvidia,GeForce GTX 1050Ti,Windows 10,2.62,111818.74
+Dell,XPS 15,Notebook,15.6,IPS Panel Touchscreen / 4K Ultra HD 3840x2160,Intel,Core i5 6300HQ,2.3,8,256GB SSD,Nvidia,GeForce 960M,Windows 10,2.04,209898.4168
+HP,15-bw002nv (A6-9220/4GB/256GB/Radeon,Notebook,15.6,Full HD 1920x1080,AMD,A6-Series A6-9220,2.5,4,256GB SSD,AMD,Radeon 520,Windows 10,1.91,44661.2814
+MSI,GP72M 7REX,Gaming,17.3,Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,16,256GB SSD +  1TB HDD,Nvidia,GeForce GTX 1050 Ti,Windows 10,2.7,139218.528
+Lenovo,ThinkPad T460s,Ultrabook,14,Full HD 1920x1080,Intel,Core i7 6600U,2.6,12,512GB SSD,Intel,HD Graphics 520,Windows 7,1.4,214404.74
+Lenovo,B51-80 (i5-6200U/8GB/1008GB/Radeon,Notebook,15.6,Full HD 1920x1080,Intel,Core i5 6200U,2.3,8,1.0TB Hybrid,AMD,Radeon R5 M330,Windows 10,2.5,73534.5774
+HP,Spectre Pro,2 in 1 Convertible,13.3,Touchscreen 2560x1440,Intel,Core i7 6600U,2.6,8,512GB SSD,Intel,HD Graphics 520,Windows 10,1.48,190343.66
+Lenovo,ThinkPad T460,Ultrabook,14,Full HD 1920x1080,Intel,Core i7 6600U,2.6,8,256GB SSD,Intel,HD Graphics 520,Windows 7,1.7,139796.74
+MSI,GS40 Phantom,Gaming,14,Full HD 1920x1080,Intel,Core i7 6700HQ,2.6,16,256GB SSD +  1TB HDD,Nvidia,GeForce GTX 970M,Windows 10,1.7,164976.94
+HP,Pavilion 15-cb003nv,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,8,1TB HDD,Nvidia,GeForce GTX 1050,Windows 10,2.62,83840.74
+Lenovo,IdeaPad 310-15ISK,Notebook,15.6,1366x768,Intel,Core i3 6006U,2,8,1TB HDD,Intel,HD Graphics 520,Windows 10,2.2,42806.34
+HP,250 G4,Notebook,15.6,1366x768,Intel,Core i5 6200U,2.3,4,500GB HDD,Intel,HD Graphics 520,No OS,2.1,44484.0874
+Dell,Inspiron 7567,Gaming,15.6,4K Ultra HD 3840x2160,Intel,Core i7 7700HQ,2.8,8,128GB SSD +  1TB HDD,Nvidia,GeForce GTX 1050 Ti,Windows 10,2.62,139703.48
+Lenovo,ThinkPad T570,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel,Core i5 7200U,2.5,8,256GB SSD,Intel,HD Graphics 620,Windows 10,1.95,129631.4
+Lenovo,320-15ISK (i3-6006U/4GB/1TB/GeForce,Notebook,15.6,Full HD 1920x1080,Intel,Core i3 6006U,2,4,1TB HDD,Nvidia,GeForce 920MX,Windows 10,2.2,43645.68
+HP,Stream 14-AX000nv,Notebook,14,1366x768,Intel,Celeron Dual Core N3060,1.6,2,32GB Flash Storage,Intel,HD Graphics 400,Windows 10,1.44,23221.74
+MSI,PL60 7RD,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel,Core i7 7500U,2.7,8,1TB HDD,Nvidia,GeForce GTX 1050,Windows 10,2.2,78245.14
+HP,250 G5,Notebook,15.6,Full HD 1920x1080,Intel,Core i7 6500U,2.5,8,256GB SSD,Intel,HD Graphics 520,Windows 10,1.96,63323.54
+HP,ProBook 450,Notebook,15.6,Full HD 1920x1080,Intel,Core i7 8550U,1.8,16,512GB SSD,Intel,UHD Graphics 620,Windows 10,2.1,108088.34
+Asus,X553SA-XX021T (N3050/4GB/500GB/W10),Notebook,15.6,1366x768,Intel,Celeron Dual Core N3050,1.6,4,500GB HDD,Intel,HD Graphics,Windows 10,2.2,34412.94
+Lenovo,V110-15ISK (i5-6200U/4GB/500GB/No,Notebook,15.6,1366x768,Intel,Core i5 6200U,2.3,4,500GB HDD,Intel,HD Graphics 520,No OS,2.1,37117.48
+Lenovo,IdeaPad 510-15IKB,Notebook,15.6,Full HD 1920x1080,Intel,Core i7 7500U,2.7,8,1TB HDD,Nvidia,GeForce 940MX,No OS,2.2,66121.34
+Asus,UX410UA-GV097T (i3-7100U/4GB/256GB/FHD/W10),Notebook,14,Full HD 1920x1080,Intel,Core i3 7100U,2.4,4,256GB SSD,Intel,HD Graphics 620,Windows 10,2,71716.94
+Lenovo,B51-80 (i7-6500U/4GB/1008GB/FHD/W7),Notebook,15.6,Full HD 1920x1080,Intel,Core i7 6500U,2.5,4,1.0TB Hybrid,Intel,HD Graphics 520,Windows 7,2.32,76939.5
+Lenovo,IdeaPad Y700-15ISK,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel,Core i7 6700HQ,2.6,16,512GB SSD,Nvidia,GeForce GTX 960,Windows 10,3.31,121704.3
+MSI,GS60 Ghost,Gaming,15.6,Full HD 1920x1080,Intel,Core i7 6700HQ,2.6,16,128GB SSD +  1TB HDD,Nvidia,GeForce GTX 970M,Windows 10,1.91,200823.2862
+HP,ProBook 450,Notebook,15.6,1366x768,Intel,Core i3 6100U,2.3,4,500GB HDD,Intel,HD Graphics 520,Windows 10,2.07,60619
+Lenovo,ThinkPad X1,2 in 1 Convertible,14,IPS Panel Touchscreen 2560x1440,Intel,Core i5 6200U,2.3,8,256GB SSD,Intel,HD Graphics 520,Windows 10,1.36,152666.62
+Lenovo,IdeaPad 310-15IKB,Ultrabook,15.6,Full HD 1920x1080,Intel,Core i7 7500U,2.7,6,256GB SSD,Nvidia,GeForce 920M,Windows 10,1.54,77499.06
+Dell,Vostro 5568,Notebook,15.6,Full HD 1920x1080,Intel,Core i7 7500U,2.7,8,256GB SSD,Nvidia,GeForce GT 940MX,Linux,1.98,83468.6326
+Acer,Aspire 3,Notebook,15.6,1366x768,Intel,Celeron Dual Core N3350,2,4,500GB HDD,Intel,HD Graphics 500,Windows 10,2.1,31055.58
+HP,Pavilion 15-BC000nv,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel,Core i7 6700HQ,2.6,6,1TB HDD,Nvidia,GeForce GTX 960M,Windows 10,2.18,74514.74
+Asus,Rog GL552VW-DM201T,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel,Core i7 6700HQ,2.6,8,256GB SSD +  1TB HDD,Nvidia,GeForce GTX 960M,Windows 10,2.591,84773.34
+Dell,Inspiron 5578,2 in 1 Convertible,15.6,Full HD / Touchscreen 1920x1080,Intel,Core i7 7500U,2.7,16,512GB SSD,Intel,HD Graphics 620,Windows 10,2.09,109953.54
+Acer,Aspire E5-576G,Notebook,15.6,Full HD 1920x1080,Intel,Core i5 7200U,2.5,4,256GB SSD,Nvidia,GeForce 940MX,Windows 10,2.23,64442.66
+Dell,XPS 13,Ultrabook,13.3,Quad HD+ / Touchscreen 3200x1800,Intel,Core i5 6300U,2.4,8,256GB SSD,Intel,HD Graphics 520,Linux,1.23,102492.74
+Acer,Predator G9-793,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,16,256GB SSD +  1TB HDD,Nvidia,GeForce GTX 1070,Windows 10,4.2,242382.74
+Lenovo,Legion Y520-15IKBN,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel,Core i5 7300HQ,2.5,8,1TB HDD,Nvidia,GeForce GTX 1050,Windows 10,2.4,76379.94
+Samsung,Chromebook Plus,2 in 1 Convertible,12.3,IPS Panel Touchscreen 2400x1600,Samsung,Cortex A72&A53,2,4,32GB Flash Storage,ARM,Mali T860 MP4,Chrome OS,1.15,61458.34
+HP,250 G6,Notebook,15.6,1366x768,Intel,Core i5 7200U,2.5,4,500GB HDD,Intel,HD Graphics 620,Windows 10,1.86,45231.1
+Apple,"MacBook 12""",Ultrabook,12,IPS Panel Retina Display 2304x1440,Intel,Core M,1.1,8,256GB Flash Storage,Intel,HD Graphics 5300,Mac OS X,0.92,108461.38
+Dell,Inspiron 7378,2 in 1 Convertible,13.3,IPS Panel Full HD / Touchscreen 1920x1080,Intel,Core i5 7200U,2.5,8,256GB SSD,Intel,HD Graphics 620,Windows 10,1.6,111818.74
+HP,Pavilion Power,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,12,128GB SSD +  1TB HDD,Nvidia,GeForce GTX 1050,Windows 10,2.21,123756.02
+Lenovo,V110-15ISK (i3-6006U/4GB/1TB/Radeon,Notebook,15.6,1366x768,Intel,Core i3 6006U,2,4,1TB HDD,AMD,Radeon R5 M430,No OS,1.9,34319.68
+Asus,Rog G752VY-GC229T,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel,Core i7 6700HQ,2.6,16,512GB SSD +  1TB HDD,Nvidia,GeForce GTX 980M,Windows 10,4.3,200509
+Acer,Aspire 3,Notebook,15.6,1366x768,Intel,Celeron Dual Core N3350,2,4,1TB HDD,Intel,HD Graphics 500,Linux,2.1,25366.72
+MSI,GS73VR 7RF,Gaming,17.3,Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,16,256GB SSD +  1TB HDD,Nvidia,GeForce GTX 1060,Windows 10,2.43,191080.414
+Dell,Inspiron 5567,Notebook,15.6,1366x768,Intel,Core i3 6006U,2,4,128GB SSD,AMD,Radeon R7 M440,Windows 10,2.3,46536.74
+Lenovo,IdeaPad 310-15ISK,Notebook,15.6,1366x768,Intel,Core i7 6500U,2.5,8,500GB HDD,Nvidia,GeForce 920MX,No OS,2.2,58660.54
+Dell,Inspiron 5579,2 in 1 Convertible,15.6,Full HD / Touchscreen 1920x1080,Intel,Core i7 8550U,1.8,16,512GB SSD,Intel,UHD Graphics 620,Windows 10,2,119839.1
+Dell,XPS 13,Ultrabook,13.3,Quad HD+ / Touchscreen 3200x1800,Intel,Core i7 7500U,2.7,16,512GB SSD,Intel,HD Graphics 620,Windows 10,1.2,249936.8
+Asus,FX502VM-DM105T (i7-6700HQ/8GB/1TB/GeForce,Gaming,15.6,Full HD 1920x1080,Intel,Core i7 6700HQ,2.6,8,1TB HDD,Nvidia,GeForce GTX 1060,Windows 10,2.2,109020.94
+Dell,Inspiron 5567,Notebook,15.6,Full HD 1920x1080,Intel,Core i5 7200U,2.5,8,256GB SSD,AMD,Radeon R7 M445,Windows 10,2.36,82908.14
+HP,15-bs025nv (i5-7200U/8GB/256GB/W10),Notebook,15.6,1366x768,Intel,Core i5 7200U,2.5,8,256GB SSD,Intel,HD Graphics 620,Windows 10,1.91,53997.54
+Lenovo,IdeaPad 320-15AST,Notebook,15.6,1366x768,AMD,E-Series 9000,2.2,4,500GB HDD,AMD,Radeon R2 Graphics,Windows 10,2.2,27884.74
+Acer,Aspire E5-774G,Notebook,17.3,1600x900,Intel,Core i3 6006U,2,8,1TB HDD,Nvidia,GeForce 940MX,Windows 10,3.3,58660.54
+Asus,Rog Strix,Gaming,15.6,Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,16,256GB SSD +  1TB HDD,Nvidia,GeForce GTX 1070,Windows 10,2.2,228393.74
+Apple,"MacBook 12""",Ultrabook,12,IPS Panel Retina Display 2304x1440,Intel,Core M,1.2,8,512GB Flash Storage,Intel,HD Graphics 515,Mac OS X,0.92,119279.54
+Asus,FX502VM-AS73 (i7-7700HQ/16GB/1TB,Notebook,15.6,Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,16,128GB SSD +  1TB HDD,Nvidia,GeForce GTX 1060,Windows 10,2.2,163111.74
+MSI,GS73VR Stealth,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel,Core i7 6700HQ,2.6,16,256GB SSD +  1TB HDD,Nvidia,GeForce GTX 1060,Windows 10,2.43,181762.8074
+Dell,Inspiron 7579,2 in 1 Convertible,15.6,IPS Panel Full HD / Touchscreen 1920x1080,Intel,Core i5 7200U,2.5,8,256GB SSD,Intel,HD Graphics 620,Windows 10,2.191,93166.74
+Asus,ROG Strix,Gaming,17.3,Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,16,256GB SSD +  1TB HDD,Nvidia,GeForce GTX 1060,Windows 10,2.9,181763.74
+Acer,C740-C9QX (3205U/2GB/32GB/Chrome,Netbook,11.6,1366x768,Intel,Celeron Dual Core 3205U,1.5,2,32GB SSD,Intel,HD Graphics,Chrome OS,1.3,16227.24
+Acer,E5 774G,Notebook,17.3,1600x900,Intel,Core i3 6006U,2,4,1TB HDD,Nvidia,GeForce 940MX,Windows 10,3.3,55769.48
+Lenovo,IdeaPad 320-17IKB,Notebook,17.3,1600x900,Intel,Core i5 7200U,2.5,8,1TB HDD,Intel,HD Graphics 620,No OS,2.8,50267.14
+Lenovo,IdeaPad Y700-15ISK,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel,Core i7 6700HQ,2.6,8,128GB SSD +  1TB HDD,Nvidia,GeForce GTX 960<U+039C>,Windows 10,2.6,118626.72
+Acer,SP714-51 (i7-7Y75/8GB/256GB/FHD/W10),2 in 1 Convertible,14,IPS Panel Full HD / Touchscreen 1920x1080,Intel,Core i7 7Y75,1.3,8,256GB SSD,Intel,HD Graphics 615,Windows 10,1.2,107155.74
+Lenovo,Thinkpad T560,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel,Core i7 6600U,2.6,8,256GB SSD,Intel,HD Graphics 520,Windows 10,2.3,142594.54
+MSI,GP62MVR 6RF,Gaming,15.6,Full HD 1920x1080,Intel,Core i7 6700HQ,2.6,8,128GB SSD +  1TB HDD,Nvidia,GeForce GTX 1060,Windows 10,2.2,137662.0186
+HP,15-bw009nv (A12-9720P/6GB/1TB/Radeon,Notebook,15.6,Full HD 1920x1080,AMD,A12-Series 9720P,2.7,6,1TB HDD,AMD,Radeon 530,Windows 10,2.1,49334.54
+Dell,Latitude E7270,Ultrabook,12.5,Full HD / Touchscreen 1920x1080,Intel,Core i5 6300U,2.4,8,256GB SSD,Intel,HD Graphics 520,Windows 7,1.26,159788.8862
+Dell,Inspiron 5578,2 in 1 Convertible,15,Full HD / Touchscreen 1920x1080,Intel,Core i3 7100U,2.4,4,500GB HDD,Intel,HD Graphics 620,Windows 10,2.08,47469.34
+Asus,X540SA-RBPDN09 (N3710/4GB/1TB/W10),Notebook,15.6,1366x768,Intel,Pentium Quad Core N3710,1.6,4,1TB HDD,Intel,HD Graphics 405,Windows 10,2.65,28817.34
+Dell,XPS 13,Ultrabook,13.3,Quad HD+ / Touchscreen 3200x1800,Intel,Core i7 7500U,2.7,8,256GB SSD,Intel,HD Graphics 620,Windows 10,1.29,137745.02
+Dell,Vostro 3568,Notebook,15.6,1366x768,Intel,Core i5 7200U,2.5,4,1TB HDD,Intel,HD Graphics 520,Linux,2.18,48668.6636
+Lenovo,IdeaPad Y700-15ISK,Gaming,15.6,IPS Panel Full HD / Touchscreen 1920x1080,Intel,Core i7 6700HQ,2.6,16,128GB SSD +  1TB HDD,Nvidia,GeForce GTX 960M,Windows 10,2.6,95964.54
+MSI,GL62M 7RDX,Gaming,15.6,Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,8,128GB SSD +  1TB HDD,Nvidia,GeForce GTX 1050,Windows 10,2.2,107155.74
+Lenovo,ThinkPad Yoga,Netbook,12.5,IPS Panel Full HD / Touchscreen 1920x1080,Intel,Core i7 6500U,2.5,16,512GB SSD,Intel,HD Graphics 520,Windows 10,1.3,153879
+Razer,Blade Pro,Gaming,14,Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,16,1TB SSD,Nvidia,GeForce GTX 1060,Windows 10,1.95,326316.74
+Dell,Inspiron 3567,Notebook,15.6,Touchscreen 1366x768,Intel,Core i3 7100U,2.4,8,1TB HDD,Intel,HD Graphics 620,Windows 10,2.3,43739.8726
+MSI,GE72VR Apache,Gaming,17.3,Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,16,256GB SSD +  1TB HDD,Nvidia,GeForce GTX 1060,Windows 10,2.7,149029.48
+Apple,MacBook Air,Ultrabook,11.6,1366x768,Intel,Core i5,1.6,4,256GB Flash Storage,Intel,HD Graphics 6000,Mac OS X,1.08,89436.34
+HP,15-bs023nv (i3-6006U/4GB/1TB/FHD/W10),Notebook,15.6,Full HD 1920x1080,Intel,Core i3 6006U,2,4,1TB HDD,Intel,HD Graphics 520,Windows 10,2.1,44578.28
+HP,EliteBook 840,Ultrabook,14,2560x1440,Intel,Core i7 6500U,2.5,8,256GB SSD,Intel,HD Graphics 520,Windows 7,1.54,205003.1994
+Dell,Vostro 3559,Notebook,15.6,1366x768,Intel,Core i5 6200U,2.3,4,500GB HDD,Intel,HD Graphics 520,Windows 7,2.24,68732.62
+MSI,GL62 6QF,Gaming,15.6,Full HD 1920x1080,Intel,Core i7 6700HQ,2.6,8,128GB SSD +  1TB HDD,Nvidia,GeForce GTX 960M,Windows 10,2.3,109020.94
+Lenovo,ThinkPad 13,Notebook,13.3,IPS Panel Full HD 1920x1080,Intel,Core i7 7500U,2.7,16,512GB SSD,Intel,HD Graphics 620,Windows 10,1.4,139796.74
+Lenovo,IdeaPad 320-15ABR,Notebook,15.6,Full HD 1920x1080,AMD,A12-Series 9720P,3.6,6,256GB SSD,AMD,Radeon 530,Windows 10,2.2,55729.3782
+Asus,ZenBook UX310UA-WB71,Ultrabook,13.3,Full HD 1920x1080,Intel,Core i7 6500U,2.5,8,256GB SSD,Intel,HD Graphics 520,Windows 10,1.45,119372.8
+Acer,Aspire ES1-572,Notebook,15.6,1366x768,Intel,Core i3 6006U,2,4,500GB HDD,Intel,HD Graphics 520,Linux,2.4,33741.468
+Dell,Inspiron 7779,2 in 1 Convertible,17.3,Full HD / Touchscreen 1920x1080,Intel,Core i7 7500U,2.7,16,512GB SSD,Nvidia,GeForce 940MX,Windows 10,2.77,167774.74
+HP,EliteBook 840,Notebook,14,Full HD 1920x1080,Intel,Core i5 6200U,2.3,4,256GB SSD,Intel,HD Graphics 520,Windows 7,1.54,102585.0674
+Asus,Rog GL553VE-FY052T,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel,Core i7 7700HQ,2.8,16,256GB SSD +  1TB HDD,Nvidia,GeForce GTX 1050 Ti,Windows 10,2.5,149216
+Dell,Latitude 5480,Notebook,14,1366x768,Intel,Core i5 7200U,2.5,4,500GB HDD,Intel,HD Graphics 620,Windows 10,1.6,81602.5
+Asus,Rog GL502VS,Gaming,15.6,IPS Panel Full HD 1920x1080,Intel,Core i7 6700HQ,2.6,16,256GB SSD +  1TB HDD,Nvidia,GeForce GTX 1070,Windows 10,2.34,216829.5
+Lenovo,V510-15IKB (i5-7200U/8GB/256GB/FHD/No,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel,Core i5 7200U,2.5,8,256GB SSD,Intel,HD Graphics 620,No OS,2.3,53437.98
+Dell,XPS 13,2 in 1 Convertible,13.3,Quad HD+ / Touchscreen 3200x1800,Intel,Core i5 7Y54,1.2,8,256GB SSD,Intel,HD Graphics 615,Windows 10,1.24,169080.38
+Dell,Inspiron 3552,Notebook,15.6,1366x768,Intel,Pentium Quad Core N3710,1.6,4,500GB HDD,Intel,HD Graphics,Linux,2.2,30216.24
+HP,255 G6,Notebook,15.6,1366x768,AMD,A6-Series 9220,2.5,4,500GB HDD,AMD,Radeon R4 Graphics,Windows 10,1.86,37210.74
+Lenovo,IdeaPad 310-15ISK,Notebook,15.6,Full HD 1920x1080,Intel,Core i3 6100U,2.3,6,128GB SSD,Nvidia,GeForce 920MX,Windows 10,2.4,53064.94
+Lenovo,ThinkPad L460,Notebook,14,IPS Panel Full HD 1920x1080,Intel,Core i5 6200U,2.3,8,256GB SSD,Intel,HD Graphics 520,Windows 10,1.9,99974.72
+Dell,Inspiron 3552,Notebook,15.6,1366x768,Intel,Pentium Quad Core N3700,1.6,4,500GB HDD,Intel,HD Graphics,Windows 10,2.2,41406.5074
+Asus,X541NA-GO020T (N3350/4GB/1TB/W10),Notebook,15.6,1366x768,Intel,Celeron Dual Core N3350,1.1,4,1TB HDD,Intel,HD Graphics 500,Windows 10,2,31615.14
+Asus,Rog G752VT-GC073T,Gaming,17.3,IPS Panel Full HD 1920x1080,Intel,Core i7 6700HQ,2.6,16,128GB SSD +  1TB HDD,Nvidia,GeForce GTX 970M,Windows 10,4,177194
+Dell,Vostro 3568,Notebook,15.6,1366x768,Intel,Core i3 6006U,2,4,500GB HDD,Intel,HD Graphics 520,Windows 10,2.29,45697.4
+Lenovo,B51-80 (i7-6500U/8GB/1008GB/Radeon,Notebook,15.6,Full HD 1920x1080,Intel,Core i7 6500U,2.5,8,1.0TB Hybrid,AMD,Radeon R5 M330,Windows 7,2.32,83467.7
+MSI,GE62 Apache,Gaming,15.6,Full HD 1920x1080,Intel,Core i7 6700HQ,2.6,8,128GB SSD +  1TB HDD,Nvidia,GeForce GTX 960M,Windows 10,2.4,114616.54
+Lenovo,Yoga 500-14IBD,2 in 1 Convertible,14,Full HD / Touchscreen 1920x1080,Intel,Core i5 6200U,2.3,4,128GB SSD,Intel,HD Graphics 520,Windows 10,1.8,77686.5126
+Asus,ZenBook UX305CA-UBM1,Ultrabook,13.3,IPS Panel Full HD 1920x1080,Intel,Core M 6Y30,0.9,8,512GB SSD,Intel,HD Graphics 515,Windows 10,1.2,67986.54
+Dell,Inspiron 3567,Notebook,15.6,1366x768,Intel,Core i3 7100U,2.4,6,1TB HDD,Intel,HD Graphics 620,Windows 10,2.3,42806.34
+Acer,Aspire ES1-531,Notebook,15.6,1366x768,Intel,Celeron Dual Core N3060,1.6,4,500GB HDD,Intel,HD Graphics 400,Linux,2.4,26952.14
+Dell,Inspiron 3552,Notebook,15.6,1366x768,Intel,Celeron Dual Core N3050,1.6,2,500GB HDD,Intel,HD Graphics,Windows 10,2.2,35345.54
+Lenovo,IdeaPad Y700-15ISK,Notebook,15.6,IPS Panel Full HD 1920x1080,Intel,Core i7 6700HQ,2.6,8,1TB HDD,Nvidia,GeForce GTX 960M,Windows 10,2.6,83840.74
+HP,Pavilion 15-AW003nv,Notebook,15.6,Full HD 1920x1080,AMD,A9-Series 9410,2.9,6,1.0TB Hybrid,AMD,Radeon R7 M440,Windows 10,2.04,51292.0674
+Dell,Inspiron 3567,Notebook,15.6,1366x768,Intel,Core i7 7500U,2.7,8,1TB HDD,AMD,Radeon R5 M430,Linux,2.3,75166.6274
+HP,Stream 11-Y000na,Netbook,11.6,1366x768,Intel,Celeron Dual Core N3060,1.6,2,32GB Flash Storage,Intel,HD Graphics 400,Windows 10,1.17,19491.34
+Asus,X556UJ-XO044T (i7-6500U/4GB/500GB/GeForce,Notebook,15.6,1366x768,Intel,Core i7 6500U,2.5,4,500GB HDD,Nvidia,GeForce 920M,Windows 10,2.2,67177.0432
+Lenovo,Yoga 500-14ISK,2 in 1 Convertible,14,IPS Panel Full HD / Touchscreen 1920x1080,Intel,Core i7 6500U,2.5,4,128GB SSD,Intel,HD Graphics 520,Windows 10,1.8,59499.88
+Lenovo,Yoga 900-13ISK,2 in 1 Convertible,13.3,IPS Panel Quad HD+ / Touchscreen 3200x1800,Intel,Core i7 6500U,2.5,16,512GB SSD,Intel,HD Graphics 520,Windows 10,1.3,139796.74
+Lenovo,IdeaPad 100S-14IBR,Notebook,14,1366x768,Intel,Celeron Dual Core N3050,1.6,2,64GB Flash Storage,Intel,HD Graphics,Windows 10,1.5,21356.54
+HP,15-AC110nv (i7-6500U/6GB/1TB/Radeon,Notebook,15.6,1366x768,Intel,Core i7 6500U,2.5,6,1TB HDD,AMD,Radeon R5 M330,Windows 10,2.19,71250.64
+Asus,X553SA-XX031T (N3050/4GB/500GB/W10),Notebook,15.6,1366x768,Intel,Celeron Dual Core N3050,1.6,4,500GB HDD,Intel,HD Graphics,Windows 10,2.2,34412.94
